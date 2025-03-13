@@ -1,13 +1,29 @@
 # WFO Text Content 
 
+__At the moment this is a proposal, subject to change.__
+
 This is a repository for managing text contributions and files derived from these contributions.
 
-__At the moment this is a proposal, subject to change.__
+## Rationale & Workflow
+
+__Many hands make light work:__ If the work of preparing textual data for import to the WFO Portal was shared between centres more people could contribute.
+
+__Too many cooks spoil the broth:__ If we are going to be a team of people working on the same files we need to be super organised or we will make things worse.
+
+__We can extract faceting data from text:__ It is possible to extract more than text snippets from the submitted flora texts. This can be done alongside preparing descriptive text for import.
+
+How it works:
+
+1. We manage the files in this GitHub repository.
+2. Editorial centres clone the repository and have rights to commit the files they have worked on back.
+3. By convention we work on separate parts of the repository so we avoid merging of files.
+4. We write scripts for processing and reporting but admit that raw text is usually dirty and needs manual/bespoke cleaning.
+5. Third parties could fork the repository if they wanted to help by, for expample, writing process scripts that we could pull in if they are necessary. They could also use it as a resource for research.
 
 
 ## Directory Structure
 
-If multiple people are going to work on the data files we need to maintain a strict data structure. This also enables processing and reporting scripts to find the files and write them to the correct places. Having a predictable depth to the tree is important for this.
+If multiple people are going to work on the data files we need to maintain a strict data structure. This also enables processing and reporting scripts to find files and write outputs to the correct places. Having a predictable depth to the tree is particularly important for this.
 
 - Text files are placed in a hierarchy within the data directory.
 - There is an abitrary two layer hierarchy within this the data directory
