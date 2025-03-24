@@ -50,7 +50,7 @@ while($line = fgetcsv($in)){
         continue;
     }
 
-    continue; // run without lookup, just on cache
+   // continue; // run without lookup, just on cache
 
     // not got it from the cache so we should look it up with the matching API
     echo number_format($counter, 0);
