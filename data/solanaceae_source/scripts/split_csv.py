@@ -66,7 +66,7 @@ def main():
     # Fields to split and export
     fields = [
         'Morphology', 'Cytology', 'General', 'Distribution', 
-        'Ecology', 'Conservation', 'Vernacular', 'Use'
+        'Ecology', 'Conservation', 'Vercular', 'Use'
     ]
 
     # Import CSV into SQLite database
