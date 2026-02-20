@@ -34,7 +34,7 @@ If multiple people are going to work on the data files we need to maintain a str
 ```
 |
 |-- data
-|   |-- oganization_01
+|   |-- organization_01
 |   |   |-- scripts <= code used just for this organisation (optional)
 |   |   |-- publication_01
 |   |   |   |-- raw <= original data as submitted
@@ -46,7 +46,7 @@ If multiple people are going to work on the data files we need to maintain a str
 |   |   |   |-- work
 |   |   |   |-- out
 |   |   |   |-- scripts
-|   |-- oganization_02
+|   |-- organization_02
 |   |   |-- scripts
 |   |   |-- publication_01
 |   |   |   |-- raw
