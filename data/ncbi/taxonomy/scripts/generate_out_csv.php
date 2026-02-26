@@ -29,7 +29,7 @@ $out = fopen($out_file_path, 'w');
 // so add them to the header first
 $header = fgetcsv($in);
 array_unshift($header, 'wfo_id', 'link_url', 'cite_as'); 
-fputcsv($out, $header);
+fputcsv($out, $header, escape: "\\");
 
 echo "Working through ncbi file...\n";
 
@@ -46,7 +46,7 @@ while($line = fgetcsv($in)){
     // again
     if( isset($matching_cache[$line[0]]) ){
         array_unshift($line, $matching_cache[$line[0]], $link_url, $cite_as); 
-        fputcsv($out, $line);
+        fputcsv($out, $line, escape: "\\");
         continue;
     }
 
@@ -67,7 +67,7 @@ while($line = fgetcsv($in)){
         $cache_page++;
 
         array_unshift($line, $response->match->wfo_id, $link_url, $cite_as); 
-        fputcsv($out, $line);
+        fputcsv($out, $line, escape: "\\");
 
     }else{
         echo "\tNO MATCH";
@@ -126,7 +126,7 @@ function write_cache($cache_file_path, $cache){
         echo "Writing matching cache\n";
         $out = fopen($cache_file_path, 'w');
         foreach ($cache as $key => $value) {
-            fputcsv($out, array($key, $value));
+            fputcsv($out, array($key, $value), escape: "\\");
         }
         fclose($out);
 }

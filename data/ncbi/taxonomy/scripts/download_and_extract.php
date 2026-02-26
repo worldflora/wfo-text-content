@@ -42,7 +42,7 @@ fputcsv($out, array(
     "phylum",
     "kingdom",
     "superkingdom"
-));
+), escape: "\\");
 
 echo "Working through file.\n";
 $counter = 0;
@@ -56,7 +56,7 @@ while($line = fgetcsv($in, null, '|')){
     if(str_contains($line[1], ' cf.')) continue; // no similar to
     if(str_contains($line[1], 'unclassified')) continue; // no similar to
     
-    fputcsv($out, $line);
+    fputcsv($out, $line, escape: "\\");
     $counter++;
 }
 echo "Finished generating file. ". number_format($counter, 0) ." relevant lines found.\n";

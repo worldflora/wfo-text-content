@@ -47,7 +47,7 @@ while ($row = $results->fetchArray()) {
             'description',
             'citation',
             'language'
-        ));
+        ), escape: "\\");
         $current_language = $row['language'];
     }
 
@@ -61,7 +61,7 @@ while ($row = $results->fetchArray()) {
                 $description,
                 $current_cite,
                 $current_language
-            ));
+            ), escape: "\\");
         }
 
         $current_cite = $row['bibliographicCitation'];
@@ -81,7 +81,7 @@ if($description){
         $current_cite,
         $current_language
 
-    ));
+    ), escape: "\\");
 }
 
 fclose($out);
