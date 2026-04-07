@@ -7,9 +7,15 @@ Unique collection events (28,492,644) of all vascular plant specimens preserved 
 The raw data is available at the Figshare website here: https://figshare.com/articles/dataset/Parsed_GBIF_global_plant_occurrence_data_1_0_Plus/27122574
 It is far too big for GitHub even when zipped up.
 
-Here we have extracted the count of specimens per ISO country (ISO3166) and ISO subcountry (ISO3166-2) using the OpenStreetMap API service nominatim.
+Subsequent releases of this data can be parsed in a similar way when they become available.
 
-Subsequent releases of this data can be parsed in a simplar way when they become available.
+## Country data reverse geocode
+
+Here we have extracted the count of specimens per ISO country (ISO3166) based on the set of polygons used to draw the maps in the portal. The polygons are in the raw/country_files folder.
+
+Reverse geocoding is done using the MySQL geospatial indexing.
+
+The specimens are named according to Kew's WCVP data set releasd 2026-01-07 (https://sftp.kew.org/pub/data-repositories/WCVP/). We maintain a mapping between WCVP plant name IDs and WFO IDs and a copy of this mapping is included in the raw folder although the scripts run against our local WCVP copy table.
 
 
 ## Global zones
@@ -28,8 +34,5 @@ It is computationally straight forward to attribute geospatial points to zones t
 1. __South Asian Segment:__ From +60° to +95° longitude. Including the *stan countries, India and the nearly the whole of the Himalaya as well as central Russia.
 1. __East Asian Segment:__ From +95° to -170° longitude. It includes the countries usually thought of as East Asia (China, Japan, Mongolia, North Korea, South Korea, and Taiwan) and also those of Southeast Asia (Cambodia, Laos, and Vietnam) and Oceania (Australasia, Melanesia, Micronesia, and Polynesia). All these countries falling in the same longitudinal section of the earth but divisible by the latitudinal bands they occur in. e.g. Combined with the Tropical Band it approximates to Souteast Asia or with the Southern Temperate Band to approximate Oceania. 
 
-
-### Creation of the zones data
-
-The score_zones.php script creates a MySQL table with the taxa by zones from the points data file. The export_zones.php script generates (big) CSV zip files for each of the zones.
+The reverse_geocode_by_zone.php script creates a MySQL table with the taxa by zones from the points data file. The export_zone_csv_files.php script generates (big) CSV zip files for each of the zones.
 
