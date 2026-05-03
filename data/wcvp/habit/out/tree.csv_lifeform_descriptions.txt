@@ -1,0 +1,34 @@
+tree
+shrub or tree
+scrambling shrub or tree
+climbing shrub or tree
+scrambling tree
+epiphytic shrub or tree
+subshrub or tree
+hemiepiphytic shrub or tree
+tuberous shrub or tree
+tuberous tree
+subshrub, shrub or tree
+succulent tree
+semisucculent shrub or tree
+semisucculent tree
+succulent shrub or tree
+succulent subshrub or tree
+pachycaul tree
+scrambling subshrub or tree
+caudex shrub or tree
+caudex tree
+helophyte or tree
+herbaceous tree
+monocarpic tree
+monocarpic shrub or tree
+climbing herbaceous tree
+climbing perennial or herbaceous tree
+climbing herbaceous tree or liana
+scrambling herbaceous tree
+liana or tree
+climbing subshrub or tree
+hemiparasitic tree
+perennial or tree
+climbing caudex tree
+hemiepiphytic tree
