@@ -22,3 +22,7 @@ CSV was added to an SQLite DB. Query to extract a csv for each Redlist Category 
 |Extinct in the Wild | 46|
 
 Lower Risk assessments have been excluded. 
+
+To Do: 
+ - missing WFO IDs need added to cover additional
+ - Use Cross Ref API to get references for all the assessments.
