@@ -1,0 +1,136 @@
+WFO_ID,assessmentId,internalTaxonId,scientificName,familyName,genusName,speciesName,infraType,infraName,infraAuthority,authority,redlistCategory,redlistCriteria,criteriaVersion,populationTrend,scopes
+wfo-0000924605,2381395,195373,Acalypha dikuluwensis,EUPHORBIACEAE,Acalypha,dikuluwensis,,,,P.A. Duvign. & Dewit,Extinct,,3.1,,Global
+wfo-0000561004,2381622,195376,Basananthe cupricola,PASSIFLORACEAE,Basananthe,cupricola,,,,Robyns ex G.A. Levin,Extinct,,3.1,,Global
+wfo-0000254800,2612719,199821,Acalypha wilderi,EUPHORBIACEAE,Acalypha,wilderi,,,,Merr.,Extinct,,3.1,,Global
+wfo-0000648495,2793597,30521,Diospyros angulata,EBENACEAE,Diospyros,angulata,,,,Poir.,Extinct,,3.1,,Global
+wfo-0000142635,2989932,43920,Dryopteris ascensionis,DRYOPTERIDACEAE,Dryopteris,ascensionis,,,,(Hook.) Kuntze,Extinct,,3.1,,Global
+wfo-0000254688,2990410,43923,Oldenlandia adscensionis,RUBIACEAE,Oldenlandia,adscensionis,,,,(DC.) Cronk,Extinct,,3.1,,Global
+wfo-0000901106,2990995,43927,Sporobolus durus,POACEAE,Sporobolus,durus,,,,Brongn.,Extinct,,3.1,,Global
+wfo-0001034504,5571714,162307,Euphrasia mendoncae,OROBANCHACEAE,Euphrasia,mendoncae,,,,Samp.,Extinct,,3.1,,Global & Europe
+wfo-0000510610,5990668,165210,Viola cryana,VIOLACEAE,Viola,cryana,,,,Gillot,Extinct,,3.1,,Global & Europe
+wfo-0000133627,5994236,165235,Centaurea pseudoleucolepis,ASTERACEAE,Centaurea,pseudoleucolepis,,,,Kleopow,Extinct,,3.1,,Global & Europe
+wfo-0000061375,8844089,191546,Vernonia sechellensis,ASTERACEAE,Vernonia,sechellensis,,,,Baker,Extinct,,3.1,,Global
+wfo-0000254524,8860728,193438,Oeceoclades seychellarum,ORCHIDACEAE,Oeceoclades,seychellarum,,,,(Rolfe ex Summerh.) Garay & P.Taylor,Extinct,,3.1,,Global
+wfo-0000722234,9536660,30397,Hibiscadelphus wilderianus,MALVACEAE,Hibiscadelphus,wilderianus,,,,Rock,Extinct,,2.3,,Global
+wfo-0000493004,9544750,30406,Santalum fernandezianum,SANTALACEAE,Santalum,fernandezianum,,,,F.Phil.,Extinct,,2.3,,Global
+wfo-0000924272,9560184,30527,Casearia tinifolia,SALICACEAE,Casearia,tinifolia,,,,Vent.,Extinct,,2.3,,Global
+wfo-0000722230,9577547,30774,Hibiscadelphus bombycinus,MALVACEAE,Hibiscadelphus,bombycinus,,,,C.N.Forbes,Extinct,,2.3,,Global
+wfo-0000356227,9577749,30777,Kokia lanceolata,MALVACEAE,Kokia,lanceolata,,,,Lewton,Extinct,,2.3,,Global
+wfo-0000830892,9590372,30919,Cyanea giffardii,CAMPANULACEAE,Cyanea,giffardii,,,,Rock,Extinct,,3.1,,Global
+wfo-0000830986,9591046,30921,Cyanea pycnocarpa,CAMPANULACEAE,Cyanea,pycnocarpa,,,,(Hillebr.) E.Wimm.,Extinct,,2.3,,Global
+wfo-0000504678,9600011,31011,Stenocarpus dumbeensis,PROTEACEAE,Stenocarpus,dumbeensis,,,,Guillaumin,Extinct,,2.3,,Global
+wfo-0000334886,9623853,31311,Xanthostemon sebertii,MYRTACEAE,Xanthostemon,sebertii,,,,Guillaumin,Extinct,,2.3,,Global
+wfo-0000898573,9649100,31636,Cnidoscolus fragrans,EUPHORBIACEAE,Cnidoscolus,fragrans,,,,(H.B. K.) Pohl,Extinct,,2.3,,Global
+wfo-0000264408,9687680,18290783,Argocoffeopsis lemblinii,RUBIACEAE,Argocoffeopsis,lemblinii,,,,(A.Chev.) Robbr.,Extinct,,2.3,,Global
+wfo-0001056355,9706669,32433,Ormosia howii,FABACEAE,Ormosia,howii,,,,Merr. & Chun ex H.Y.Chen,Extinct,,2.3,,Global
+wfo-0000446285,9706746,32434,Lepisanthes unilocularis,SAPINDACEAE,Lepisanthes,unilocularis,,,,Leenh.,Extinct,,2.3,,Global
+wfo-0000491863,9741958,32923,Sterculia khasiana,MALVACEAE,Sterculia,khasiana,,,,Debb. ex Biswas,Extinct,,2.3,,Global
+wfo-0000830980,9793135,33554,Cyanea pohaku,CAMPANULACEAE,Cyanea,pohaku,,,,Lammers,Extinct,,2.3,,Global
+wfo-0000722231,9793280,33556,Hibiscadelphus crucibracteatus,MALVACEAE,Hibiscadelphus,crucibracteatus,,,,Hobdy,Extinct,,2.3,,Global
+wfo-0000729879,9801330,33660,Ilex ternatiflora,AQUIFOLIACEAE,Ilex,ternatiflora,,,,(C. Wright) R.A. Howard,Extinct,,2.3,,Global
+wfo-0000453039,9801837,33673,Melicope obovata,RUTACEAE,Melicope,obovata,,,,(H.St.John) T.G.Hartley & B.C.Stone,Extinct,,2.3,,Global
+wfo-0000247893,9805664,33796,Myrcia skeldingii,MYRTACEAE,Myrcia,skeldingii,,,,Proctor,Extinct,,2.3,,Global
+wfo-0000830832,9826972,34005,Cyanea arborea,CAMPANULACEAE,Cyanea,arborea,,,,Hillebr.,Extinct,,3.1,,Global
+wfo-0000830987,9833077,34035,Cyanea quercifolia,CAMPANULACEAE,Cyanea,quercifolia,,,,(Hillebr.) E.Wimm.,Extinct,,2.3,,Global
+wfo-0000629686,9907653,35036,Cupaniopsis crassivalvis,SAPINDACEAE,Cupaniopsis,crassivalvis,,,,Radlk.,Extinct,,2.3,,Global
+wfo-0000793416,9927286,35330,Campomanesia lundiana,MYRTACEAE,Campomanesia,lundiana,,,,(Kiaersk.) Mattos,Extinct,,2.3,,Global
+wfo-0000924193,9928522,35350,Casearia quinduensis,SALICACEAE,Casearia,quinduensis,,,,Tul.,Extinct,,2.3,,Global
+wfo-0000282212,9966929,35920,Pradosia glaziovii,SAPOTACEAE,Pradosia,glaziovii,,,,(Pierre) T.D.Penn.,Extinct,,2.3,,Global
+wfo-0000925767,9978900,36157,Corynanthe brachythyrsus,RUBIACEAE,Corynanthe,brachythyrsus,,,,K.Schum.,Extinct,,2.3,,Global
+wfo-0000918218,10083495,37958,Myrcia neocambessedeana,MYRTACEAE,Myrcia,neocambessedeana,,,,E.Lucas & Sobral,Extinct,,2.3,,Global
+wfo-0000284388,10084659,37904,Psidium dumetorum,MYRTACEAE,Psidium,dumetorum,,,,Proctor,Extinct,,2.3,,Global
+wfo-0000516207,10847953,44074,Achyranthes atollensis,AMARANTHACEAE,Achyranthes,atollensis,,,,H.St.John,Extinct,,3.1,,Global
+wfo-0000042970,10848934,44078,Argyroxiphium virescens,ASTERACEAE,Argyroxiphium,virescens,,,,Hillebr.,Extinct,,3.1,,Global
+wfo-0000830867,10851418,44093,Cyanea cylindrocalyx,CAMPANULACEAE,Cyanea,cylindrocalyx,,,,"(Gaudich.) Lammers, Givnish & Sytsma",Extinct,,3.1,,Global
+wfo-0000830852,10855528,44101,Cyanea comata,CAMPANULACEAE,Cyanea,comata,,,,Hillebr.,Extinct,,3.1,,Global
+wfo-0000830419,10861706,44126,Clermontia multiflora,CAMPANULACEAE,Clermontia,multiflora,,,,Hillebr.,Extinct,,3.1,,Global
+wfo-0000017512,10949148,44867,Psiadia schweinfurthii,ASTERACEAE,Psiadia,schweinfurthii,,,,Balf.f.,Extinct,,3.1,,Global
+wfo-0000055131,10953225,44850,Pluchea glutinosa,ASTERACEAE,Pluchea,glutinosa,,,,Balf.f.,Extinct,,3.1,,Global
+wfo-0000426293,10970572,45081,Valerianella affinis,CAPRIFOLIACEAE,Valerianella,affinis,,,,Balf.f.,Extinct,,3.1,,Global
+wfo-0001124075,11068836,46603,Adiantum lianxianense,PTERIDACEAE,Adiantum,lianxianense,,,,Ching & Y.X.Ling in Y.X.Ling,Extinct,,3.1,,Global
+wfo-0000185795,12533286,61652,Astragalus nitidiflorus,FABACEAE,Astragalus,nitidiflorus,,,,Jiménez Mun. & Pau,Extinct,,3.1,,Global
+wfo-0000823898,12690047,63545,Begonia eiromischa,BEGONIACEAE,Begonia,eiromischa,,,,Ridl.,Extinct,,3.1,,Global
+wfo-0000709998,18612385,13153154,Ornithogalum visianicum,ASPARAGACEAE,Ornithogalum,visianicum,,,,Tomm.,Extinct,,3.1,,Global & Mediterranean
+wfo-0000960279,44787125,44786445,Eulophia stenopetala,ORCHIDACEAE,Eulophia,stenopetala,,,,Lindl.,Extinct,,3.1,,Global
+wfo-0000567007,61481721,39087,Blutaparon rigidum,AMARANTHACEAE,Blutaparon,rigidum,,,,(B.L.Rob. & Greenm.) Mears,Extinct,,3.1,,Global
+wfo-0000136626,61483979,61483949,Delilia inelegans,ASTERACEAE,Delilia,inelegans,,,,(Hook.f.) Kuntze,Extinct,,3.1,,Global
+wfo-0000441648,61503079,61503076,Sicyos villosus,CUCURBITACEAE,Sicyos,villosus,,,,Hook.f.,Extinct,,3.1,,Global
+wfo-0000358354,62798296,62798292,Lepidium obtusatum,BRASSICACEAE,Lepidium,obtusatum,,,,Kirk,Extinct,,3.1,,Global
+wfo-0000366645,62798308,62798304,Logania depressa,LOGANIACEAE,Logania,depressa,,,,Hook.f.,Extinct,,3.1,,Global
+wfo-0000368304,62798331,62798327,Myosotis laingii,BORAGINACEAE,Myosotis,laingii,,,,Cheeseman,Extinct,,3.1,,Global
+wfo-0000436243,62798340,62798337,Stellaria elatinoides,CARYOPHYLLACEAE,Stellaria,elatinoides,,,,Hook.f.,Extinct,,3.1,,Global
+wfo-0000413220,62798350,62798347,Trilepidea adamsii,LORANTHACEAE,Trilepidea,adamsii,,,,(Cheeseman) Tiegh.,Extinct,,3.1,,Global
+wfo-0000228542,67371775,37854,Acalypha rubrinervis,EUPHORBIACEAE,Acalypha,rubrinervis,,,,Cronk,Extinct,,3.1,,Global
+wfo-0001141182,67372085,30561,Trochetiopsis melanoxylon,MALVACEAE,Trochetiopsis,melanoxylon,,,,(Sol. ex Sims) Marais,Extinct,,3.1,,Global
+wfo-0000380580,67372241,37598,Nesiota elliptica,RHAMNACEAE,Nesiota,elliptica,,,,(Roxb.) Hook.f.,Extinct,,3.1,,Global
+wfo-0000718811,67379134,67379124,Heliotropium pannifolium,HELIOTROPIACEAE,Heliotropium,pannifolium,,,,Burch. ex Hemsl.,Extinct,,3.1,,Global
+wfo-0000830954,78777410,78777379,Cyanea mauiensis,CAMPANULACEAE,Cyanea,mauiensis,,,,(Rock) Lammers,Extinct,,3.1,,Global
+wfo-0000831457,79862750,34039,Delissea niihauensis,CAMPANULACEAE,Delissea,niihauensis,,,,H.St.John,Extinct,,3.1,,Global
+wfo-0000831516,79863496,79862904,Delissea subcordata,CAMPANULACEAE,Delissea,subcordata,,,,Gaudich.,Extinct,,3.1,,Global
+wfo-0000830872,83790763,44094,Cyanea dolichopoda,CAMPANULACEAE,Cyanea,dolichopoda,,,,Lammers & Lorence,Extinct,,3.1,,Global
+wfo-0000830875,83790877,44096,Cyanea eleeleensis,CAMPANULACEAE,Cyanea,eleeleensis,,,,(H.St.John) Lammers,Extinct,,3.1,,Global
+wfo-0000530106,83794603,44077,Amaranthus brownii,AMARANTHACEAE,Amaranthus,brownii,,,,Christoph. & Caum,Extinct,,3.1,,Global
+wfo-0000253128,83804687,33562,Ochrosia kilaueaensis,APOCYNACEAE,Ochrosia,kilaueaensis,,,,H.St.John,Extinct,,3.1,,Global
+wfo-0000298346,87708976,38690,Roystonea stellata,ARECACEAE,Roystonea,stellata,,,,León,Extinct,,3.1,,Global
+wfo-0000974503,87739847,87583558,Angraecopsis dolabriformis,ORCHIDACEAE,Angraecopsis,dolabriformis,,,,(Rolfe) Schltr.,Extinct,,3.1,,Global
+wfo-0000975186,87739867,87583728,Angraecum astroarche,ORCHIDACEAE,Angraecum,astroarche,,,,Ridl.,Extinct,,3.1,,Global
+wfo-0000830934,91172324,91172297,Cyanea linearifolia,CAMPANULACEAE,Cyanea,linearifolia,,,,Rock,Extinct,,3.1,,Global
+wfo-0000830959,91172534,91172490,Cyanea minutiflora,CAMPANULACEAE,Cyanea,minutiflora,,,,Lammers,Extinct,,3.1,,Global
+wfo-0000830970,91172818,91172805,Cyanea parvifolia,CAMPANULACEAE,Cyanea,parvifolia,,,,"(C.N.Forbes) Lammers, Givnish & Sytsma",Extinct,,3.1,,Global
+wfo-0000381458,91177028,91177012,Cyperus rockii,CYPERACEAE,Cyperus,rockii,,,,Kük.,Extinct,,3.1,,Global
+wfo-0000635670,91178537,91178520,Cyrtandra olona,GESNERIACEAE,Cyrtandra,olona,,,,C.N.Forbes,Extinct,,3.1,,Global
+wfo-0000088377,97083299,37856,Commidendrum gummiferum,ASTERACEAE,Commidendrum,gummiferum,,,,(Roxb.) DC.,Extinct,,2.3,,Global
+wfo-0001067981,97908365,97908360,Sanicula kauaiensis,APIACEAE,Sanicula,kauaiensis,,,,H.St.John,Extinct,,3.1,,Global
+wfo-0000438356,97909122,97909097,Schiedea amplexicaulis,CARYOPHYLLACEAE,Schiedea,amplexicaulis,,,,H.Mann,Extinct,,3.1,,Global
+wfo-0000428137,97910101,97910096,Wikstroemia hanalei,THYMELAEACEAE,Wikstroemia,hanalei,,,,Wawra,Extinct,,3.1,,Global
+wfo-0001003747,101442020,44072,Acaena exigua,ROSACEAE,Acaena,exigua,,,,A.Gray,Extinct,,3.1,,Global
+wfo-0000978389,107468212,107426635,Habenaria petromedusa,ORCHIDACEAE,Habenaria,petromedusa,,,,Webb,Extinct,,3.1,,Global
+wfo-0000314846,107468352,107428233,Stachytarpheta fallax,VERBENACEAE,Stachytarpheta,fallax,,,,A.E.Gonç.,Extinct,,3.1,,Global
+wfo-0000477208,113309830,113204000,Persoonia laxa,PROTEACEAE,Persoonia,laxa,,,,L.A.S.Johnson & P.H.Weston,Extinct,,3.1,,Global
+wfo-0000477940,113309835,113204241,Persoonia prostrata,PROTEACEAE,Persoonia,prostrata,,,,R.Br.,Extinct,,3.1,,Global
+wfo-0000831002,115496789,78777637,Cyanea sessilifolia,CAMPANULACEAE,Cyanea,sessilifolia,,,,(O.Deg.) Lammers,Extinct,,3.1,,Global
+wfo-0000415613,124282152,117319979,Etlingera heyneana,ZINGIBERACEAE,Etlingera,heyneana,,,,(Valeton) R.M.Sm.,Extinct,,3.1,,Global
+wfo-0000833368,126609708,126608606,Hesperelaea palmeri,OLEACEAE,Hesperelaea,palmeri,,,,A.Gray,Extinct,,3.1,,Global
+wfo-0000808671,126613426,126612753,Faramea chiapensis,RUBIACEAE,Faramea,chiapensis,,,,Borhidi,Extinct,,3.1,,Global
+wfo-0001275332,137376414,136814105,Bourreria veracruzana,EHRETIACEAE,Bourreria,veracruzana,,,,G.Campos-Ríos & F.Chiang,Extinct,,3.1,,Global
+wfo-0000549074,140414986,140414966,Scleria chevalieri,CYPERACEAE,Scleria,chevalieri,,,,J.Raynal,Extinct,,3.1,,Global
+wfo-0000411424,140416594,140416589,Eriocaulon inundatum,ERIOCAULACEAE,Eriocaulon,inundatum,,,,Moldenke,Extinct,,3.1,,Global
+wfo-0000411507,140416698,140416686,Eriocaulon jordanii,ERIOCAULACEAE,Eriocaulon,jordanii,,,,(Moldenke) Meikle,Extinct,,3.1,,Global
+wfo-0000562017,145297738,145283841,Beilschmiedia ningmingensis,LAURACEAE,Beilschmiedia,ningmingensis,,,,S.K.Lee & Y.T.Wei,Extinct,,3.1,,Global
+wfo-0000193118,149811572,30393,Streblorrhiza speciosa,FABACEAE,Streblorrhiza,speciosa,,,,Endl.,Extinct,,3.1,,Global
+wfo-0000681042,149812995,31679,Euchorium cubense,SAPINDACEAE,Euchorium,cubense,,,,Ekman & Radlk.,Extinct,,3.1,,Global
+wfo-0000724656,149814208,33469,Hopea shingkeng,DIPTEROCARPACEAE,Hopea,shingkeng,,,,(Dunn) Bor,Extinct,,3.1,,Global
+wfo-0000448106,149815846,35111,Myoporum rimatarense,SCROPHULARIACEAE,Myoporum,rimatarense,,,,F.Br.,Extinct,,3.1,,Global
+wfo-0000921338,149816104,35254,Banara wilsonii,SALICACEAE,Banara,wilsonii,,,,Alain,Extinct,,3.1,,Global
+wfo-0000976224,149816916,38848,Guettarda retusa,RUBIACEAE,Guettarda,retusa,,,,C.Wright,Extinct,,3.1,,Global
+wfo-1000042256,149821996,147088627,Monteverdia lineata,CELASTRACEAE,Monteverdia,lineata,,,,(C.Wright ex Griseb.) Biral,Extinct,,3.1,,Global
+wfo-0001070849,149822106,149618647,Licaria mexicana,LAURACEAE,Licaria,mexicana,,,,(Brandegee) Kosterm.,Extinct,,3.1,,Global
+wfo-0000536578,149822436,31675,Angostura ossana,RUTACEAE,Angostura,ossana,,,,(DC.) Beurton,Extinct,,3.1,,Global
+wfo-0001344690,158050426,158037164,Pycnandra micrantha,SAPOTACEAE,Pycnandra,micrantha,,,,(Beauvis.) Munzinger & Swenson,Extinct,,3.1,,Global
+wfo-0000474347,158544179,111907266,Musa fitzalanii,MUSACEAE,Musa,fitzalanii,,,,F.Muell.,Extinct,,3.1,,Global
+wfo-0000318775,168631084,168623053,Syzygium humblotii,MYRTACEAE,Syzygium,humblotii,,,,Labat & Schatz,Extinct,,3.1,,Global
+wfo-0000831505,173119116,173119104,Delissea sinuata,CAMPANULACEAE,Delissea,sinuata,,,,Hillebr.,Extinct,,3.1,,Global
+wfo-0000453102,183183123,33670,Melicope macropus,RUTACEAE,Melicope,macropus,,,,(Hillebr.) T.G.Hartley & B.C.Stone,Extinct,,3.1,,Global
+wfo-0000831538,183183404,34040,Delissea undulata,CAMPANULACEAE,Delissea,undulata,,,,Gaudich.,Extinct,,3.1,,Global
+wfo-0000442530,185558142,113168368,Leucadendron grandiflorum,PROTEACEAE,Leucadendron,grandiflorum,,,,(Salisb.) R.Br.,Extinct,,3.1,,Global
+wfo-0000442449,185559739,113166006,Leucadendron spirale,PROTEACEAE,Leucadendron,spirale,,,,(Salisb. ex Knight) I.Williams,Extinct,,3.1,,Global
+wfo-0000477308,201053885,201053876,Peperomia degeneri,PIPERACEAE,Peperomia,degeneri,,,,Yunck.,Extinct,,3.1,,Global
+wfo-0000431005,216881879,216881863,Govenia floridana,ORCHIDACEAE,Govenia,floridana,,,,P.M.Br.,Extinct,,3.1,,Global
+wfo-1000001663,227962657,227962655,Neonauclea kranjiensis,RUBIACEAE,Neonauclea,kranjiensis,,,,K.M.Wong & W.W.Seah,Extinct,,3.1,,Global
+wfo-0000041719,233623962,232110633,Centaurea tuntasia,ASTERACEAE,Centaurea,tuntasia,,,,Heldr. ex Halácsy,Extinct,,3.1,,"Global, Europe & Mediterranean"
+wfo-0000699693,233623987,232118222,Geocaryum bornmuelleri,APIACEAE,Geocaryum,bornmuelleri,,,,(H. Wolff) Engstrand,Extinct,,3.1,,"Global, Europe & Mediterranean"
+wfo-0000699698,233623997,232120666,Geocaryum divaricatum,APIACEAE,Geocaryum,divaricatum,,,,(Boiss. & Orph.) Engstrand,Extinct,,3.1,,"Global, Europe & Mediterranean"
+wfo-0001277451,236050685,199173251,Vachellia polypyrigenes,FABACEAE,Vachellia,polypyrigenes,,,,(Greenm.) Seigler & Ebinger,Extinct,,3.1,,Global
+wfo-0001277465,236050922,31645,Vachellia zapatensis,FABACEAE,Vachellia,zapatensis,,,,(Urb. & Ekman) Seigler & Ebinger,Extinct,,3.1,,Global
+wfo-0000002662,236663133,37924,Fitchia mangarevensis,ASTERACEAE,Fitchia,mangarevensis,,,,F.Br.,Extinct,,3.1,,Global
+wfo-0000284775,236673639,30475,Psychotria adamsonii,RUBIACEAE,Psychotria,adamsonii,,,,Fosberg,Extinct,,3.1,,Global
+wfo-0000516351,236684638,146907699,Achyranthes mangarevica,AMARANTHACEAE,Achyranthes,mangarevica,,,,Suess.,Extinct,,3.1,,Global
+wfo-1000088069,236694411,236694409,Ceodes rapaensis,NYCTAGINACEAE,Ceodes,rapaensis,,,,(J.Florence) E.F.S.Rossetto & Caraballo,Extinct,,3.1,,Global
+wfo-0000956250,240967765,31659,Eugenia acutissima,MYRTACEAE,Eugenia,acutissima,,,,Urb. & Ekman,Extinct,,3.1,,Global
+wfo-0001330243,251943261,176986,Limnophila limnophiloides,PLANTAGINACEAE,Limnophila,limnophiloides,,,,(Blatt. & Hallb.) Karthik. & V.S.Kumar,Extinct,,3.1,,Global
+wfo-0001041011,253645439,34042,Henriettea membranifolia,MELASTOMATACEAE,Henriettea,membranifolia,,,,(Cogn.) Alain,Extinct,,3.1,,Global
+wfo-0000959035,253646057,212059494,Eugenia serrasuela,MYRTACEAE,Eugenia,serrasuela,,,,Krug & Urb.,Extinct,,3.1,,Global
+wfo-0000474600,254580788,236692161,Pavonia domatiifera,MALVACEAE,Pavonia,domatiifera,,,,J.Florence,Extinct,,3.1,,Global
+wfo-1000041511,268501052,268275087,Pytinicarpa tonitrui,ASTERACEAE,Pytinicarpa,tonitrui,,,,"Lannuzel, Gâteblé & M.Pignal",Extinct,,3.1,,Global
+wfo-0000577229,275116864,32226,Byttneria ivorensis,MALVACEAE,Byttneria,ivorensis,,,,Hallé,Extinct,,2.3,,Global
+wfo-0000572887,277416122,115537131,Brunoniella neocaledonica,ACANTHACEAE,Brunoniella,neocaledonica,,,,(Heine) Moylan,Extinct,,3.1,,Global

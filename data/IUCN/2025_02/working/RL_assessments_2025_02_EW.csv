@@ -1,0 +1,46 @@
+WFO_ID,assessmentId,internalTaxonId,scientificName,familyName,genusName,speciesName,infraType,infraName,infraAuthority,authority,redlistCategory,redlistCriteria,criteriaVersion,populationTrend,scopes
+wfo-0001300009,1584696,179630,Kalanchoe fadeniorum,CRASSULACEAE,Kalanchoe,fadeniorum,,,,Raadts,Extinct in the Wild,,3.1,,Global
+wfo-0000527347,1960457,190888,Alphonsea hortensis,ANNONACEAE,Alphonsea,hortensis,,,,H.Huber,Extinct in the Wild,,3.1,,Global
+wfo-0001240034,1975870,191323,Camellia amplexicaulis,THEACEAE,Camellia,amplexicaulis,,,,(Pit.) Cohen-Stuart,Extinct in the Wild,,3.1,,Global
+wfo-0000139352,3874098,133711,Senecio leucopeplus,ASTERACEAE,Senecio,leucopeplus,,,,Cabrera,Extinct in the Wild,,3.1,,Global
+wfo-0000855305,5993241,165228,Bromus bromoideus,POACEAE,Bromus,bromoideus,,,,(Lej.) Crep.,Extinct in the Wild,,3.1,,Global & Europe
+wfo-0000855797,5995954,165247,Bromus interruptus,POACEAE,Bromus,interruptus,,,,(Hack.) Druce,Extinct in the Wild,,3.1,,Global & Europe
+wfo-0000356226,9593744,30932,Kokia cookei,MALVACEAE,Kokia,cookei,,,,O.Deg.,Extinct in the Wild,,2.3,,Global
+wfo-0000679818,9645757,31680,Erythroxylum echinodendron,ERYTHROXYLACEAE,Erythroxylum,echinodendron,,,,Ekman,Extinct in the Wild,,2.3,,Global
+wfo-0000963270,10066217,37613,Euphorbia mayurnathanii,EUPHORBIACEAE,Euphorbia,mayurnathanii,,,,Croiz.,Extinct in the Wild,,2.3,,Global
+wfo-0000400036,10079242,37821,Rhododendron kanehirae,ERICACEAE,Rhododendron,kanehirae,,,,Wilson,Extinct in the Wild,,2.3,,Global
+wfo-0000925847,10118302,38493,Corypha taliera,ARECACEAE,Corypha,taliera,,,,Roxb.,Extinct in the Wild,,2.3,,Global
+wfo-0000636103,10854084,44056,Cyrtandra waiolani,GESNERIACEAE,Cyrtandra,waiolani,,,,Wawra,Extinct in the Wild,,3.1,,Global
+wfo-0000830977,10856873,44109,Cyanea pinnatifida,CAMPANULACEAE,Cyanea,pinnatifida,,,,(Cham.) E.Wimm.,Extinct in the Wild,,3.1,,Global
+wfo-0000831018,10863009,44135,Cyanea superba,CAMPANULACEAE,Cyanea,superba,,,,(Cham.) A.Gray,Extinct in the Wild,,3.1,,Global
+wfo-0000442752,12535686,61670,Lysimachia minoricensis,PRIMULACEAE,Lysimachia,minoricensis,,,,J.J.Rodr.,Extinct in the Wild,,3.1,,"Global, Europe & Mediterranean"
+wfo-0000922165,43520162,35042,Ochrosia brownii,APOCYNACEAE,Ochrosia,brownii,,,,(Fosberg & Sachet) Lorence & Butaud,Extinct in the Wild,,3.1,,Global
+wfo-0000186151,47608529,272625865,Clianthus puniceus,FABACEAE,Clianthus,puniceus,,,,(G.Don) Banks Sol. Ex Lindl.,Extinct in the Wild,,3.1,,Global
+wfo-0001019767,51248842,51247667,Brugmansia insignis,SOLANACEAE,Brugmansia,insignis,,,,(Barb. Rodr.) Lockwood ex R.E. Schult.,Extinct in the Wild,,3.1,,Global
+wfo-0000163201,56605215,56605187,Diplazium laffanianum,ATHYRIACEAE,Diplazium,laffanianum,,,,(Baker) C.Chr.,Extinct in the Wild,,3.1,,Global
+wfo-0001019752,58386508,51247708,Brugmansia arborea,SOLANACEAE,Brugmansia,arborea,,,,(L.) Sweet,Extinct in the Wild,,3.1,,Global
+wfo-0001019777,58396933,51247690,Brugmansia sanguinea,SOLANACEAE,Brugmansia,sanguinea,,,,(Ruiz & Pavón) D. Don,Extinct in the Wild,,3.1,,Global
+wfo-0001019786,58903534,51247712,Brugmansia vulcanicola,SOLANACEAE,Brugmansia,vulcanicola,,,,(A.S.Barclay) R.E.Schult.,Extinct in the Wild,,3.1,,Global
+wfo-0001019755,58906215,38124,Brugmansia aurea,SOLANACEAE,Brugmansia,aurea,,,,Lagerh.,Extinct in the Wild,,3.1,,Global
+wfo-0001019785,58908295,38125,Brugmansia versicolor,SOLANACEAE,Brugmansia,versicolor,,,,Lagerh.,Extinct in the Wild,,3.1,,Global
+wfo-0001019783,58913403,51247699,Brugmansia suaveolens,SOLANACEAE,Brugmansia,suaveolens,,,,(Willd.) Sweet,Extinct in the Wild,,3.1,,Global
+wfo-0000371229,61526819,32059,Mangifera casturi,ANACARDIACEAE,Mangifera,casturi,,,,Kosterm.,Extinct in the Wild,,3.1,,Global
+wfo-0000692148,62077322,30408,Franklinia alatamaha,THEACEAE,Franklinia,alatamaha,,,,Marshall,Extinct in the Wild,,3.1,,Global
+wfo-0000193785,62758122,62758119,Arachis rigonii,FABACEAE,Arachis,rigonii,,,,Krapov. & W.C.Greg.,Extinct in the Wild,,3.1,,Global
+wfo-0000133120,67370818,37595,Lachanodes arborea,ASTERACEAE,Lachanodes,arborea,,,,(Roxb.) B.Nord.,Extinct in the Wild,,3.1,,Global
+wfo-0000458817,67371983,30560,Trochetiopsis erythroxylon,MALVACEAE,Trochetiopsis,erythroxylon,,,,(G.Forst.) Marais,Extinct in the Wild,,3.1,,Global
+wfo-0000512199,122926208,122926206,Abutilon pitcairnense,MALVACEAE,Abutilon,pitcairnense,,,,Fosberg,Extinct in the Wild,,3.1,,Global
+wfo-0000754541,123986038,123986030,Agave lurida,ASPARAGACEAE,Agave,lurida,,,,Aiton,Extinct in the Wild,,3.1,,Global
+wfo-0000336106,126613386,126612397,Csapodya splendens,RUBIACEAE,Csapodya,splendens,,,,(Breedlove & Lorence) Borhidi,Extinct in the Wild,,3.1,,Global
+wfo-0000193869,149811526,30392,Sophora toromiro,FABACEAE,Sophora,toromiro,,,,(Phil.) Skottsb.,Extinct in the Wild,,3.1,,Global
+wfo-0001426304,154696297,152357598,Amomum sumatranum,ZINGIBERACEAE,Amomum,sumatranum,,,,(Valeton) Skornick. & Hlavatá,Extinct in the Wild,,3.1,,Global
+wfo-0000653941,164117292,164111324,Dombeya rodriguesiana,MALVACEAE,Dombeya,rodriguesiana,,,,F.Friedmann,Extinct in the Wild,,3.1,,Global
+wfo-0000826061,184207893,44080,Brighamia insignis,CAMPANULACEAE,Brighamia,insignis,,,,A.Gray,Extinct in the Wild,,3.1,,Global
+wfo-0000758828,197312879,110097724,Aloe silicicola,ASPHODELACEAE,Aloe,silicicola,,,,H.Perrier,Extinct in the Wild,,3.1,,Global
+wfo-0000184535,227965606,226776565,Amherstia nobilis,FABACEAE,Amherstia,nobilis,,,,Wall.,Extinct in the Wild,,3.1,,Global
+wfo-0000027863,241413513,34169,Dendroseris gigantea,ASTERACEAE,Dendroseris,gigantea,,,,Johow,Extinct in the Wild,,3.1,,Global
+wfo-0000667348,243423919,41882,Encephalartos brevifoliolatus,ZAMIACEAE,Encephalartos,brevifoliolatus,,,,Vorster,Extinct in the Wild,,3.1,,Global
+wfo-0000667385,243426977,41888,Encephalartos heenanii,ZAMIACEAE,Encephalartos,heenanii,,,,R.A.Dyer,Extinct in the Wild,,3.1,,Global
+wfo-0000667435,243431182,41896,Encephalartos nubimontanus,ZAMIACEAE,Encephalartos,nubimontanus,,,,P.J.H.Hurter,Extinct in the Wild,,3.1,,Global
+wfo-0000667448,243432097,41764,Encephalartos relictus,ZAMIACEAE,Encephalartos,relictus,,,,P.J.H.Hurter,Extinct in the Wild,,3.1,,Global
+wfo-0000667480,243434007,41881,Encephalartos woodii,ZAMIACEAE,Encephalartos,woodii,,,,Sander,Extinct in the Wild,,3.1,,Global
