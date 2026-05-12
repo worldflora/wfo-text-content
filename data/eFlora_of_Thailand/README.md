@@ -1,5 +1,3 @@
 #eFlora of Thailand
 
-Compiled DWCA from several different sent files from the eFoT team.
-
-
+Compiled DWCA from several different sent files from the eFoT t
