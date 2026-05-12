@@ -1,0 +1,95 @@
+<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
+	<core encoding="UTF-8" linesTerminatedBy="\n" fieldsTerminatedBy="\t" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+		<files>
+			<location>classification.txt</location>
+		</files>
+		
+		<id index="0"/>
+		<field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+		<field index="1" term="http://rs.worldfloraonline/terms/localID"/>
+	</core>
+	
+	<extension encoding="UTF-8" linesTerminatedBy="\n" fieldsTerminatedBy="\t" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Reference">
+		<files>
+		  <location>references.txt</location>
+		</files>
+		<coreid index="0" />		
+		<field index="1" term="http://purl.org/dc/terms/identifier" />
+		<field index="2" term="http://purl.org/dc/terms/bibliographicCitation" />
+		<field index="3" term="http://purl.org/dc/elements/1.1/relation"/>
+		<field term="http://purl.org/dc/terms/license" default="https://creativecommons.org/publicdomain/zero/1.0"/>
+		<field term="http://purl.org/dc/terms/rights" default="CC0 1.0 Universal (CC0 1.0)." />
+	</extension>
+	
+	<extension encoding="UTF-8" linesTerminatedBy="\r\n" fieldsTerminatedBy="\t" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/VernacularName">
+		<files>
+		<location>vernacular.txt</location>
+		</files>
+		<coreid index="0"/>
+		<field index="1" term="http://purl.org/dc/terms/identifier"/>
+		<field index="2" term="http://rs.tdwg.org/dwc/terms/vernacularName"/>
+		<field index="3" term="http://rs.gbif.org/terms/1.0/isPreferredName"/>
+		<field index="4" term="http://purl.org/dc/terms/source"/>
+		<field index="5" term="http://purl.org/dc/terms/language"/>
+		<field index="6" term="http://rs.tdwg.org/dwc/terms/countryCode"/>
+		<field index="7" term="http://purl.org/dc/elements/1.1/relation"/>
+		<field index="8"  term="http://purl.org/dc/terms/rights" default="CC0 1.0 Universal (CC0 1.0)." />
+		<field index="9"  term="http://purl.org/dc/terms/license" default="https://creativecommons.org/publicdomain/zero/1.0"/>
+	</extension>
+	
+	<extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\r\n" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Description">
+		<files>
+			<location>description.txt</location>
+		</files>
+		<coreid index="0"/>
+		<field index="1" term="http://purl.org/dc/terms/type"/>
+		<field index="2" term="http://purl.org/dc/terms/language" default="EN"/>
+		<field index="3" term="http://purl.org/dc/terms/description"/>
+		<field index="4" term="http://purl.org/dc/terms/contributor"/>
+		<field index="5" term="http://purl.org/dc/terms/audience"/>
+		<field index="6" term="http://purl.org/dc/terms/rightsHolder" default="Forest Herbarium"/>
+		<field index="7" term="http://purl.org/dc/terms/created"/>
+		<field index="8" term="http://purl.org/dc/terms/creator"/>
+		<field index="9" term="http://purl.org/dc/terms/source"/>
+		<field index="10" term="http://purl.org/dc/terms/rights" default="Forest Herbarium"/>
+		<field index="11" term="http://purl.org/dc/terms/license" default="All rights reserved"/>
+	</extension>
+	
+	<extension encoding="UTF-8" linesTerminatedBy="\r\n" fieldsTerminatedBy="\t" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Distribution">
+		<files>
+		<location>distribution.txt</location>
+		</files>
+		<coreid index="0"/>
+		<field index="1" term="http://rs.tdwg.org/dwc/terms/countryCode"/>
+		<field index="2" term="http://rs.tdwg.org/dwc/terms/locationID"/>
+		<field index="3" term="http://rs.tdwg.org/dwc/terms/locality"/>
+		<field index="4" term="http://rs.tdwg.org/dwc/terms/establishmentMeans"/>
+		<field index="5" term="http://purl.org/dc/terms/source"/>
+	</extension>
+	
+	<extension encoding="UTF-8" linesTerminatedBy="\r\n" fieldsTerminatedBy="\t" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Image">
+		<files>
+			<location>images.txt</location>
+		</files>
+		<coreid index="0"/>
+		<field index="1" term="http://purl.org/dc/terms/title"/>
+		<field index="19" term="http://purl.org/dc/terms/identifier"/>
+		<field index="3" term="http://purl.org/dc/terms/rights" default="Forest Herbarium"/>
+		<field index="4" term="http://purl.org/dc/terms/license" default="All rights reserved"/>
+		<field index="5" term="http://purl.org/dc/terms/format"/>
+		<field index="6" term="http://purl.org/dc/terms/source"/>
+		<field index="7" term="http://purl.org/dc/terms/audience"/>
+		<field index="8" term="http://purl.org/dc/terms/creator"/>
+		<field index="9" term="http://purl.org/dc/terms/created"/>
+		<field index="10" term="http://purl.org/dc/terms/modified"/>
+		<field index="11" term="http://purl.org/dc/terms/contributor"/>
+		<field index="12" term="http://purl.org/dc/terms/publisher"/>
+		<field index="13" term="http://purl.org/dc/terms/description"/>
+		<field index="14" term="http://iptc.org/std/Iptc4xmpExt/1.0/xmlns/Location"/>
+		<field index="15" term="http://purl.org/dc/terms/subject"/>
+		<field index="16" term="http://purl.org/dc/terms/rightsHolder" default="Flora of Thailand"/>
+		<field index="17" term="http://rs.tdwg.org/dwc/terms/decimalLatitude"/>
+		<field index="18" term="http://rs.tdwg.org/dwc/terms/decimalLongitude"/>
+		<field index="2" term="http://rs.tdwg.org/dwc/terms/references"/>
+	</extension>
+</archive>
