@@ -38,15 +38,22 @@ df["Volume"], df["Part"] = zip(*df["bibliographicCitation"].apply(extract_vol_pa
 # ---------------------------------------------------------
 
 desired_order = [
+    "WFOID",
+    "description",
+    "type",
+    "language",
+    "contributor",
+    "audience",
+    "rightsHolder",
+    "created",
+    "creator",
+    "source",
     "Volume",
     "Part",
-    "type",
-    "scientificName",
-    "taxonRank",
-    "family",
-    "description",
     "bibliographicCitation",
-    # add/remove fields as needed
+    "URI"
+    "rights",
+    "license"
 ]
 
 # ---------------------------------------------------------
