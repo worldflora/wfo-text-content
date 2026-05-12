@@ -5,19 +5,19 @@ from pathlib import Path
 # ---------------------------------------------------------
 #  Paths to csvs to combine and where to write to working 
 # ---------------------------------------------------------
-input_csv = Path(r"data\eFlora_of_Thailand\Vol_1_to_8\working\descriptions_combined.csv")
-output_root = Path(r"data\eFlora_of_Thailand\Vol_1_to_8\output")
+input_csv = Path(r"data\eFlora_of_Thailand\Vol_1_to_16\working\descriptions_combined.csv")
+output_root = Path(r"data\eFlora_of_Thailand\Vol_1_to_16\out")
 # ---------------------------------------------------------
 
 df = pd.read_csv(input_csv)
 
 # ---------------------------------------------------------
-# Extract Volume and Part from bibliographicCitation. I hope this works.
+# Extract Volume and Part from bibliographicCitation
 # ---------------------------------------------------------
 
 vol_part_regex = re.compile(
-    r"Vol\.?\s*(\d+)"          # Volume number
-    r"(?:\s*[\.,]?\s*Part\s*(\d+))?",  # Part number
+    r"Vol\.?\s*(\d+)"                 # Volume number
+    r"(?:\s*[\.,]?\s*Part\s*(\d+))?", # Optional Part number
     flags=re.IGNORECASE
 )
 
@@ -34,15 +34,35 @@ def extract_vol_part(text):
 df["Volume"], df["Part"] = zip(*df["bibliographicCitation"].apply(extract_vol_part))
 
 # ---------------------------------------------------------
-# Split and write outputs It might mess with the Github three folder scheme.
+# Desired output column order (edit as needed)
+# ---------------------------------------------------------
+
+desired_order = [
+    "Volume",
+    "Part",
+    "type",
+    "scientificName",
+    "taxonRank",
+    "family",
+    "description",
+    "bibliographicCitation",
+    # add/remove fields as needed
+]
+
+# ---------------------------------------------------------
+# Split and write outputs
 # ---------------------------------------------------------
 
 for (vol, part, dtype), group in df.groupby(["Volume", "Part", "type"]):
     if pd.isna(vol) or pd.isna(part):
-        continue  # skip rows with no volume/part match
+        continue
 
     outdir = output_root / f"Vol_{int(vol)}" / f"Part_{int(part)}"
     outdir.mkdir(parents=True, exist_ok=True)
+
+    # Reorder columns safely (ignore missing ones)
+    cols = [c for c in desired_order if c in group.columns]
+    group = group.reindex(columns=cols + [c for c in group.columns if c not in cols])
 
     outfile = outdir / f"{dtype}.csv"
     group.to_csv(outfile, index=False)

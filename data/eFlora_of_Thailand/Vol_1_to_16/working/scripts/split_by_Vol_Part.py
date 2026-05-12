@@ -5,8 +5,8 @@ from pathlib import Path
 # ---------------------------------------------------------
 #  Paths to csvs to combine and where to write to working 
 # ---------------------------------------------------------
-input_csv = Path(r"data\eFlora_of_Thailand\Vol_1_to_8\working\vernacular_combined.csv")
-output_root = Path(r"data\eFlora_of_Thailand\Vol_1_to_8\output")
+input_csv = Path(r"data\eFlora_of_Thailand\Vol_1_to_16\working\vernacular_combined.csv")
+output_root = Path(r"data\eFlora_of_Thailand\Vol_1_to_16\out")
 # ---------------------------------------------------------
 
 df = pd.read_csv(input_csv)
@@ -34,15 +34,27 @@ def extract_vol_part(text):
 df["Volume"], df["Part"] = zip(*df["bibliographicCitation"].apply(extract_vol_part))
 
 # ---------------------------------------------------------
-# Split and write outputs (vernacular only, so no type split)
+# Desired output column order
+# ---------------------------------------------------------
+
+desired_order = [
+    "WFOID",  "vernacularName", "identifier", "isPreferredName", "source", "language", "countryCode", "uri",  "bibliographicCitation", "rights", "license"
+    # add/remove fields as needed
+]
+
+# ---------------------------------------------------------
+# Split and write outputs
 # ---------------------------------------------------------
 
 for (vol, part), group in df.groupby(["Volume", "Part"]):
     if pd.isna(vol) or pd.isna(part):
-        continue  # skip rows with no volume/part match
+        continue
 
     outdir = output_root / f"Vol_{int(vol)}" / f"Part_{int(part)}"
     outdir.mkdir(parents=True, exist_ok=True)
+
+    # Reorder columns (ignore missing ones safely)
+    group = group.reindex(columns=[c for c in desired_order if c in group.columns])
 
     outfile = outdir / "vernacular.csv"
     group.to_csv(outfile, index=False)
