@@ -21,15 +21,17 @@ CSV was added to an SQLite DB. Query to extract a csv for each Redlist Category 
 |Extinct |	143|
 |Lower Risk/least concern |	116|
 |Lower Risk/conservation dependent |	101|
-Extinct in the Wild	46|
+|Extinct in the Wild	|46|
 
 Lower Risk assessments have been excluded. 
 
-*TO DO*
-- upload swap out 2025 with 2026.
+2026_01 assessments linked to Fyllo - August 2026.
+
+**TO DO**
+
 - Try to match remaining names.
 
-|--------------------------------------------------------------------------------------------------------------|
+--------------------------------------------------------------------------------------------------------------
 
 Downloaded Redlist version 2025_2.
 
