@@ -6,3 +6,6 @@ data/GBIF/parsed_occurrences_01/raw/parseGBIF_useable_rechecked_successfully_plu
 data/GBIF/parsed_occurrences_01/working/mapping.db
 data/GBIF/parsed_occurrences_01/raw/parseGBIF_useable_rechecked_successfully_plus.csv
 .gitignore
+
+data/IUCN/2026_01/working/crossref_full_harvest2026_06.csv 
+data/IUCN/2026_01/working/crossref_full_harvestIds.csv
