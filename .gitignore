@@ -4,3 +4,5 @@
 
 data/GBIF/parsed_occurrences_01/raw/parseGBIF_useable_rechecked_successfully_plus.csv.zip
 data/GBIF/parsed_occurrences_01/working/mapping.db
+data/GBIF/parsed_occurrences_01/raw/parseGBIF_useable_rechecked_successfully_plus.csv
+.gitignore

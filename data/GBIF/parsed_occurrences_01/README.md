@@ -22,13 +22,13 @@ The specimens are named according to Kew's WCVP data set releasd 2026-01-07 (htt
 
 It is computationally straight forward to attribute geospatial points to zones that are defined as simple latitudinal bands or longitudinal segments on the earth's surface. These zones can be chosen to align with useful categories people may wish to query botanical data on. They can be particularly useful when combined. These are not biologically perfect  (it would be nice to have one run through the Wallace Line for example) but their usefulness far exceeds the cost of scoring data to them. Here we define: 
 
-1. __Tropical Band:__ Plants occuring above -23.4° and below +23.4° latitude.
-1. __Northern Temperate Band:__ Plants occuring above +23.4° and below +60° latitude.
-1. __Southern Temperate Band:__ Plants occuring above -60° and below -23.4° latitude.
-1. __Temperate Bands:__ Plants occuring in either Northern or Southern temperate zones.
-1. __Arctic Band:__ Plants occuring above +60° latitude.
-1. __Antarctic Band:__ Plants occuring below -60° latitude.
-1. __Polar Bands:__ Plants occuring in Arctic or Antarctic regions.
+1. __Tropical Band:__ Plants occurring above -23.4° and below +23.4° latitude.
+1. __Northern Temperate Band:__ Plants occurring above +23.4° and below +60° latitude.
+1. __Southern Temperate Band:__ Plants occurring above -60° and below -23.4° latitude.
+1. __Temperate Bands:__ Plants occurring in either Northern or Southern temperate zones.
+1. __Arctic Band:__ Plants occurring above +60° latitude.
+1. __Antarctic Band:__ Plants occurring below -60° latitude.
+1. __Polar Bands:__ Plants occurring in Arctic or Antarctic regions.
 1. __Western Segment:__ The zone from -30° to -170° longitude. This is from just West of Iceland to approximately the international date line and includes North America, South America and Greenland.
 1. __Afro-European Segment:__ From -30° to +60° longitude. This is from mid Atlantic to the tip of Oman and roughly lines up with the Ural Mountains. It includes the whole of Europe (including European Russia) and the whole of Africa and West Asia.
 1. __South Asian Segment:__ From +60° to +95° longitude. Including the *stan countries, India and the nearly the whole of the Himalaya as well as central Russia.
