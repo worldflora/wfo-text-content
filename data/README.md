@@ -27,12 +27,10 @@ Data that needs ported from Emonocot to this.
   - Levy
   - Madagascar
   - MBG
-  - Nepal - Done
-  - Nepenthaceae
+  - Nepal - Done - More up to date Here.
   - NYBG
   - ParseGBIF
   - Photos
-  - RAINBIO ?
   - Solanaceae
   - South_Africa
 
