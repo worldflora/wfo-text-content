@@ -3,7 +3,7 @@
 This is where contributed files and their derivatives are stored.
 
 Data that needs ported from Emonocot to this.
-  - APD
+  - Australia
   - Begonia
   - Brazilian Flora 2020
   - Colombia
@@ -16,24 +16,24 @@ Data that needs ported from Emonocot to this.
   - Flora Malesiana
   - Flora of Australia
   - Flora of Turkey
-  Flora_Helvetica
-  Flore du Gabon
-  FNA
-  GTA
-  GTA
-  IrishNames
-  IUCN - Done
-  Kew -?
-  Levy
-  Madagascar
-  MBG
-  Nepal - Done
-  Nepenthaceae
-  NYBG
-  ParseGBIF
-  Photos
-  RAINBIO ?
-  Solanaceae
-  South_Africa
+  - Flora_Helvetica
+  - Flore du Gabon
+  - FNA
+  - GTA
+  - GTS
+  - IrishNames
+  - IUCN - Done
+  - Kew -?
+  - Levy
+  - Madagascar
+  - MBG
+  - Nepal - Done
+  - Nepenthaceae
+  - NYBG
+  - ParseGBIF
+  - Photos
+  - RAINBIO ?
+  - Solanaceae
+  - South_Africa
 
 
