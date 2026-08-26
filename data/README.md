@@ -9,8 +9,10 @@ Data that needs ported from Emonocot to this.
   - Colombia
   - Dendroflora_Hungary
   - Edinburgh - Rhododendron
-  - eFloraOfThailand - Done
-  - efloras - China and FNA
+  - eFloraOfThailand - MORE UP TO DATE FYLLO
+  - efloras
+       - China
+       - FNA
   - Flora d'Afrique
   - Flora d'Afrique
   - Flora Malesiana
@@ -22,12 +24,23 @@ Data that needs ported from Emonocot to this.
   - GTA
   - GTS
   - IrishNames
-  - IUCN - Done
-  - Kew - multiple
-  - Levy
+  - IUCN - MORE UP TO DATE FYLLO
+  - Kew - multiple These need concatenated. 
+      - FTWA
+      - FWTA
+      - FZ
+  - Leon Levy
   - Madagascar
   - MBG - multiple
-  - Nepal - Done - More up to date Here.
+      - Central American Mosses
+      -  Fo China
+      -  Fo Nicaragua
+      -  Fo Pakistan
+      -  Fo Panama
+      -  Manual Costa Rica
+      -  Moss Flora China
+      -  Novon content
+  - Nepal - MORE UP TO DATE FYLLO
   - NYBG - multiple
       - NE Flora
       - Memoirs
