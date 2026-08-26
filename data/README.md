@@ -23,14 +23,12 @@ Data that needs ported from Emonocot to this.
   - GTS
   - IrishNames
   - IUCN - Done
-  - Kew -?
+  - Kew - multiple
   - Levy
   - Madagascar
-  - MBG
+  - MBG - multiple
   - Nepal - Done - More up to date Here.
-  - NYBG
-  - ParseGBIF
-  - Photos
+  - NYBG - multiple
   - Solanaceae
   - South_Africa
 
