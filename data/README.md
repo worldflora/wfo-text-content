@@ -16,7 +16,7 @@ Data that needs ported from Emonocot to this.
   - Flora d'Afrique
   - Flora d'Afrique
   - Flora Malesiana
-  - Flora of Australia
+  - Flora of Australia - *FoA test data uploaded and APNI vernacular names. 1/9/26*
   - Flora of Turkey
   - Flora_Helvetica
   - Flore du Gabon
