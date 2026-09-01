@@ -2,6 +2,8 @@
 
 ## Descriptive content
 - Only a subset shared in 2020. I think to test?
+- Stripped html tags from each file.
+- Literature as text needs work.
 - Need to contact them about additional records.
 
 ## Common names from APNI
