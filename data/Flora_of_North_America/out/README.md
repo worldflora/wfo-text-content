@@ -1,4 +1,4 @@
 # Fyllo Linking
 
-- description - September 2026
-- vernacularName - September 2026
+- general - September 2026
+- vernacular - September 2026
