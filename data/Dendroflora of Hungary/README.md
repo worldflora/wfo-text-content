@@ -2,4 +2,4 @@
 
 raw - folder has the data as supplied with WFO ID field added.
 working - records with content data associated with them.
-out - separated into files for the facet/snippet server. For snippets there are distribution and habit.
+out - separated into files for the facet/snippet server. For snippets there are distribution and habit. For facets there are habit_subshrub, habit_epiphyte, habit_liana, habit_shrub, habit_tree, and hungary_native.
