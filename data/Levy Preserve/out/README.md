@@ -5,3 +5,4 @@
   - habitat - August 2026
   - use - August 2026
   - vernacular - August 2026
+  - bahamas_native – August 2026
