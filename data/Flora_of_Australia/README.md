@@ -5,6 +5,7 @@
 - Stripped html tags from each file.
 - Literature as text needs work.
 - Need to contact them about additional records.
+- Added to Fyllo 01 Sept 2026.
 
 ## Common names from APNI
 - Download common names from here. (https://biodiversity.org.au/nsl/services/export/index)
