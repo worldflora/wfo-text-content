@@ -1,1 +1,1 @@
-Data provided by Botanic Gardens Conservation International.
+Data from the Global Tree Assessment provided by Botanic Gardens Conservation International.
