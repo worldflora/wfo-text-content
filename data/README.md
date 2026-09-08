@@ -11,7 +11,7 @@ Data that needs ported from Emonocot to this.
   - Edinburgh - Rhododendron
   - eFloraOfThailand - MORE UP TO DATE FYLLO
   - efloras
-       - China
+       - China – *FoC uploaded (3/9/26) and linked in Fyllo. 8/9/26*
        - FNA - *FoNA uploaded and linked in Fyllo. 2/9/26*
   - Flora d'Afrique
   - Flora d'Afrique
@@ -21,7 +21,7 @@ Data that needs ported from Emonocot to this.
   - Flora_Helvetica
   - Flore du Gabon
   - FNA
-  - GTA
+  - GTA – *GTA uploaded (3/9/26) and linked in Fyllo. 8/9/26*
   - GTS
   - IrishNames - *IN uploaded and linked in Fyllo. 1/9/26*
   - IUCN - MORE UP TO DATE FYLLO
