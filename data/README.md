@@ -13,8 +13,7 @@ Data that needs ported from Emonocot to this.
   - efloras
        - China – *FoC uploaded (3/9/26) and linked in Fyllo. 8/9/26*
        - FNA - *FoNA uploaded and linked in Fyllo. 2/9/26*
-  - Flora d'Afrique
-  - Flora d'Afrique
+  - Flora d'Afrique - *FdA uploaded and linked in Fyllo. 9/9/26* (vernacular still needs work)
   - Flora Malesiana
   - Flora of Australia - *FoA test data uploaded and APNI vernacular names. 1/9/26*
   - Flora of Turkey
@@ -22,7 +21,7 @@ Data that needs ported from Emonocot to this.
   - Flore du Gabon
   - FNA
   - GTA – *GTA uploaded (3/9/26) and linked in Fyllo. 8/9/26*
-  - GTS
+  - GTS – outdated GTA
   - IrishNames - *IN uploaded and linked in Fyllo. 1/9/26*
   - IUCN - MORE UP TO DATE FYLLO
   - Kew - multiple These need concatenated. 
