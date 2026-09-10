@@ -31,7 +31,7 @@ def extract_monograph_number(citation):
     return m.group(1) if m else None
 
 # --- 3. Load your datasets ---
-jstor_df = parse_jstor_file(r"data\New_York_Botanic_Garden\Flora Neotropica\work\citations (5).txt")
+jstor_df = parse_jstor_file(r"data\New_York_Botanic_Garden\Flora Neotropica\work\FloraNeotropicaBibtex.txt")
 refs_df = pd.read_csv(r"data\New_York_Botanic_Garden\Flora Neotropica\work\neotropica_refs.csv")
 
 # --- 4. Add monograph number to your refs ---
