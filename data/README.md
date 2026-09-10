@@ -1,14 +1,16 @@
-/# Data
+# Data
 
 This is where contributed files and their derivatives are stored.
 
 Data that needs ported from Emonocot to this.
   - Australia - *FoA test data uploaded and APNI vernacular names. 1/9/26*
-  - Begonia - *2024 data brought in 1/9/26*
+  
   - Brazilian Flora 2020 - *FoB uploaded and linked in Fyllo. 2/9/26*
   - Colombia - *2/9/26*
   - Dendroflora_Hungary - *DoH uploaded and linked in Fyllo. 1/9/26*
-  - Edinburgh - Rhododendron
+  - Edinburgh
+      - Rhododendron - *added and linked to fyllo 9/2026*
+      - Begonia - *2024 data brought in 1/9/26*
   - eFloraOfThailand - MORE UP TO DATE FYLLO
   - efloras
        - China – *FoC uploaded (3/9/26) and linked in Fyllo. 8/9/26*
@@ -43,8 +45,8 @@ Data that needs ported from Emonocot to this.
   - NYBG - multiple
       - NE Flora
       - Memoirs
-      - FloraNeotropica
-       - brittonia
+      - FloraNeotropica - *Linked to fyllo 10/9/2026*
+       - Brittonia - *Linked to fyllo 10/9/2026*
   - Solanaceae - *Solanaceae uploaded and linked in Fyllo. 10/9/26*
   - South_Africa
 
