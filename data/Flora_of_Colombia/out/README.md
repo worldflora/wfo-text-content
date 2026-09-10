@@ -1,3 +1,3 @@
 ## Fyllo Linking
 
-- general - 9/2/26
+- general - September 2, 2026
