@@ -2,51 +2,48 @@
 
 This is where contributed files and their derivatives are stored.
 
-Data that needs ported from Emonocot to this.
-  - Australia - *FoA test data uploaded and APNI vernacular names. 1/9/26*
-    - Brazilian Flora 2020 - *FoB uploaded and linked in Fyllo. 2/9/26*
-  - Colombia - *2/9/26*
-  - Dendroflora_Hungary - *DoH uploaded and linked in Fyllo. 1/9/26*
-  - Edinburgh
-      - Rhododendron - *added and linked to fyllo 9/2026*
-      - Begonia - *2024 data brought in 1/9/26*
-  - eFloraOfThailand - MORE UP TO DATE FYLLO
-  - efloras
-       - China – *FoC uploaded (3/9/26) and linked in Fyllo. 8/9/26*
-       - FNA - *FoNA uploaded and linked in Fyllo. 2/9/26*
-  - Flora d'Afrique - *FdA uploaded and linked in Fyllo. 9/9/26* (vernacular still needs work)
-  - Flora Malesiana
-  - Flora of Australia - *FoA test data uploaded and APNI vernacular names. 1/9/26*
-  - Flora of Turkey - *Fyllo linked 10/9/2026*
-  - Flora_Helvetica
-  - Flore du Gabon - *Fyllo linked 10 Sept 2026*
-  - FNA - *Fyllo linked  Sept 2026*
-  - GTA – *GTA uploaded (3/9/26) and linked in Fyllo. 8/9/26*
-  - GTS – outdated GTA
-  - IrishNames - *IN uploaded and linked in Fyllo. 1/9/26*
-  - IUCN - MORE UP TO DATE FYLLO
-  - Kew - multiple These need concatenated. Raw files downloaded
-      - FTWA
-      - FWTA
-      - FZ
-  - Leon Levy - *FoB uploaded and linked in Fyllo. 31/8/26*
-  - Madagascar - endemic list -*FoB uploaded and linked in Fyllo. 11/9/26*
-  - MBG - multiple - Raw files added
-      -  Central American Mosses
-      -  Fo Nicaragua
-      -  Fo Mesoamaerica
-      -  Fo Pakistan
-      -  Fo Panama
-      -  Manual Costa Rica
-      -  Moss Flora China
-      -  Novon content
-  - Nepal - MORE UP TO DATE FYLLO
-  - NYBG - multiple
-      - NE Flora
-      - Memoirs
-      - FloraNeotropica - *Linked to fyllo 10/9/2026*
-       - Brittonia - *Linked to fyllo 10/9/2026*
-  - Solanaceae - *Solanaceae uploaded and linked in Fyllo. 10/9/26*
-  - South_Africa
+|Source| Uploaded|Notes|
+|------|-|-|
+|Flora of Australia	|uploaded 01/09/2026|
+|APNI vernacular names NEW 57.5k added, 6.7k need name match work.	| uploaded 01/09/2026
+|Brazilian Flora 2020	| uploaded 2/9/26
+|Colombia	| uploaded  2/9/26
+|Dendroflora_Hungary	| uploaded  1/9/26
+|RBGE -Rhododendron monograph	| uploaded 01/9/2026
+|RBGE -Begonia content *2024	| uploaded 01/09/2026
+|eFloraOfThailand	| Test group. Done
+|Flora of China 	| uploaded 8/9/26
+|Flora of North America	| uploaded 2/9/26
+|Flora d'Afrique	| uploaded 9/9/26 (vernacular still needs work)
+|Flora of Turkey	| uploaded 10/9/2026
+|Flore du Gabon	| uploaded 10/9/2026
+|GTA	|Uploaded 8/9/26
+|IrishNames	|Uploaded 01/09/2026
+|IUCN 	|Test Group. 20k more assessment than portal
+|Leon Levy	|Uploaded 31/8/26
+|Catalogue of Plants of Madagascar - endemic list	| uploaded 11/09/2026
+|Plants of Nepal	| Test group. Done
+|NYBG - Northeastern Flora of US and Canada	| uploaded 11/9/26
+|NYBG - Memoirs of NYBG	| uploaded 11/9/26
+|NYBG - FloraNeotropica	| uploaded 10/9/26
+|NYBG - Brittonia	| uploaded 10/9/26
+|Solanaceae 	| uploaded 10/9/26
+|Flora Malesiana	| unworked This contains xml files never worked and Flora Guianas xml too
+| Flora Guianas  | unworked xml too
+|Flora_Helvetica	| Amber working on it
+|RBGKEW - FTWA	|To do
+|RBGKEW - FWTA	|To do
+|RBGKEW - FZ	|To do
+|Mobot - Central American Mosses	|To do
+|Mobot - Fo Nicaragua	|To do
+|Mobot - Fo Mesoamaerica	|To do
+|Mobot - Fo Pakistan	|To do
+|Mobot - Fo Panama	|To do
+|Mobot - Manual Costa Rica	|To do
+|Mobot - Moss Flora China	|To do
+|Mobot - Novon content	|To do
+|South_Africa	|Partially worked, to finish
+|Webbs Irish Flora NEW  |Uploaded 11/9/26. Partially 78 Families uploaded. 26 to do. | 480 vernacular (124 GA, 359 EN ),  83 distribution, 15 diagnosis, 690 ecology, 134 general, 686 morphology, 631 reproductive – so far |
+
 
 
