@@ -30,8 +30,8 @@ This is where contributed files and their derivatives are stored.
 |Solanaceae 	| uploaded 10/9/26
 |Flora Malesiana	| unworked This contains xml files never worked and Flora Guianas xml too
 |Flora Guianas  | xml parsed. still needs alot of work.
-|Flora_Helvetica	| Amber working on it
-|RBGKEW - FTWA	|To do
+|Flora_Helvetica	| uploaded 10/9/26
+|RBGKEW - FTWA	| Amber working on
 |RBGKEW - FWTA	|To do
 |RBGKEW - FZ	|To do
 |Mobot - Central American Mosses	|To do
