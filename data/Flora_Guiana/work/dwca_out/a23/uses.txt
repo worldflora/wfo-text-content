@@ -1,0 +1,4 @@
+"taxonID","use"
+"taxon-13-Justicia_pectoralis","Uses: Reported to have numerous medicinal, hallucinogenic and economic uses throughout its wide range. The sweetly fragrant dried leaves are pulverized by some South American Indians and are added to their Virola-based hallucinogenic snuff. It is suspected that it is employed as a flavoring rather than a hallucinogenic agent."
+"taxon-2-Thunbergia_erecta","Use: Medicine given to children against worms."
+"taxon-Trichanthera_gigantea","Use: Reyne found this tree planted as a windbreak in Suriname."

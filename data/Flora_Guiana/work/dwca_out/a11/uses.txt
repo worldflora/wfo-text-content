@@ -1,0 +1,7 @@
+"taxonID","use"
+"taxon-21-MORACEAE","Economic uses: Some of the species furnish valuable timber: Bagassa guianensis , Brosimum guianense and B. rubescens . For fruit the two introduced Artocarpus species are cultivated, and less commonly Ficus carica . The Ficus species introduced from Asia are planted as ornamental trees or climbers. Castilla elastica Sesse has been introduced in Surinam from Central America for rubber production, but without success. The latex of Brosimum parinarioides has been used to adulterate balata."
+"taxon-1-Bagassa_guianensis","Use: timber; balata bleeders used to drink the milksap when food was scarce."
+"taxon-1a-Brosimum_acutifolium","Use: the poisonous (hallucinogenic) milksap is drunk by Indian witch-doctors."
+"taxon-3-Brosimum_guianense","Use: Timber (hard wood)."
+"taxon-Brosimum_parinarioides","Use: The latex has been used to adulterate balata; also used against lung diseases."
+"taxon-6-Brosimum_rubescens","Use: Valuable timber for furniture construction. Wood used to make bows."

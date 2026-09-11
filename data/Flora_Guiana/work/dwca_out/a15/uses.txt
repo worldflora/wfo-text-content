@@ -1,0 +1,2 @@
+"taxonID","use"
+"taxon-1-Xiphidium_caeruleum","Uses: In Guyana the plant is used to cure the worm infection which gives a curved foot (Hardy 245). In Suriname the plant is a remedy (= bina) against torn foot soles (= ebesere) (Ostendorf, 1962). Xiphidium caeruleum is also cultivated in several neotropical countries as an ornamental."

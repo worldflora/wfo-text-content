@@ -1,0 +1,5 @@
+"multimediaID","taxonID","identifier","title","description"
+"media-ID_328","taxon-1-ARISTOLOCHIA","fotg-a-20-328.jpg","Fig. 1","Transverse section."
+"media-ID_325","taxon-10-Aristolochia_leprieurii","fotg-a-20-325.gif","Fig. 1",""
+"media-ID_326","taxon-13-Aristolochia_peltatodeltoidea","fotg-a-20-326.gif","Fig. 2",""
+"media-ID_327","taxon-15-Aristolochia_stahelii","fotg-a-20-327.gif","Fig. 3","1-5,"

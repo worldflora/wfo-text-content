@@ -1,0 +1,8 @@
+"taxonID","use"
+"taxon-1-ARISTOLOCHIA","Economic uses: Several species are in cultivation in tropical and temperate areas as greenhouse or garden plants prized for their flowers. Often Aristolochia species are used in folk medicine."
+"taxon-9-Aristolochia_iquitensis","Use: Sticks boiled for stomach ache. Vernacular name: Suriname: kwashi-bita."
+"taxon-10-Aristolochia_leprieurii","Use: Entire plant boiled and used externally to reduce fever (from label, A.C. Smith 2831). Medicinally used by the Wayampi people against diarrhoea, also known by the Palikour people and the Creole population, according to Grenand et al. (1987) who treated this species together with Aristolochia mossii S. Moore ."
+"taxon-11-Aristolochia_mossii","Use: See use of Aristolochia leprieurii Duchartre ."
+"taxon-15-Aristolochia_stahelii","Use: Medicinally used in French Guiana, mainly by the Creole population near Saint-Georges to stop fever or as a remedy against diabetes, also used by the Palikour people."
+"taxon-16-Aristolochia_surinamensis","Use: Febrifuge."
+"taxon-17-Aristolochia_trilobata","Use: Cultivated in French Guiana as a medicinal plant (Moretti 104, 993) by the Creole population: leaves (or the caterpillars of Parides feeding on the flowers) are used to cure mosquito and snake bites, liver troubles, malaria."

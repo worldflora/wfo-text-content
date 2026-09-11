@@ -1,0 +1,2399 @@
+<publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file://BGBM-PESIHPC/efloraSchema/FlorMLv4_latest.xsd" xmlns:mods="http://www.loc.gov/mods/v3" lang="en">
+	<metaData>
+		<defaultMediaUrl>http://media.e-taxonomy.eu/flora-guianas/</defaultMediaUrl>
+		<mods:mods>
+			<mods:titleInfo>
+				<mods:title>﻿FLORA OF THE GUIANAS</mods:title>
+				<mods:partNumber>Series A: Phanerogams Fascicle 20</mods:partNumber>
+				<mods:partName>10. ARISTOLOCHIACEAE</mods:partName>
+			</mods:titleInfo>
+			<mods:name type="personal">
+				<mods:description>10. ARISTOLOCHIACEAE</mods:description>
+				<mods:namePart>C. Feuillet</mods:namePart>
+				<mods:affiliation>Department of Botany, Smithsonian Institution, Washington, D.C., U.S.A.</mods:affiliation>
+			</mods:name>
+			<mods:name type="personal">
+				<mods:description>10. ARISTOLOCHIACEAE</mods:description>
+				<mods:namePart>O. Poncy</mods:namePart>
+				<mods:affiliation>Laboratoire de Phanerogamie, Museum National d'Histoire Naturelle, Paris, France.</mods:affiliation>
+			</mods:name>
+			<mods:name type="personal">
+				<mods:description>Wood and Timber</mods:description>
+				<mods:namePart>B.J.H. ter Welle</mods:namePart>
+			</mods:name>
+			<mods:name type="personal">
+				<mods:description>Wood and Timber</mods:description>
+				<mods:namePart>P. Detienne</mods:namePart>
+			</mods:name>
+			<mods:name type="personal">
+				<mods:description>Editor</mods:description>
+				<mods:namePart>A.R.A. GORTS-VAN RUN</mods:namePart>
+			</mods:name>
+			<mods:name type="personal">
+				<mods:description>Editor</mods:description>
+				<mods:namePart>M.J. JANSEN-JACOBS</mods:namePart>
+			</mods:name>
+			<mods:originInfo>
+				<mods:publisher>Royal Botanic Gardens, Kew</mods:publisher>
+				<mods:dateIssued>1998</mods:dateIssued>
+			</mods:originInfo>
+			<mods:identifier>ISBN 1 900347 44 X</mods:identifier>
+		</mods:mods>
+	</metaData>
+	<treatment>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>10</num>
+						<name class="family">ARISTOLOCHIACEAE</name>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<writer>CHRISTIAN FEUILLET<footnoteRef ref="FN_1"><num>1</num></footnoteRef> &amp; ODILE PONCY<footnoteRef ref="FN_2"><num>2</num></footnoteRef></writer>
+			<feature class="description">
+				<char class="habit">Woody or herbaceous vines or less often perennial herbs or shrubs, sometimes arising from tubers or from <subChar class="texture">fleshy</subChar> roots; 
+					<subChar class="nodes">nodes 3-lacunar. </subChar>
+				</char>
+				<char class="leaves">Leaves alternate, simple and mostly entire, sometimes lobed; 
+					<subChar class="stipules">stipules wanting, a pseudostipule present in the leaf axil in some South American species. </subChar>
+				</char>
+				<char class="flowers">Flowers solitary, or in <subChar class="inflorescences"><subChar class="position">terminal or lateral</subChar> racemes or cymes</subChar>, perfect, actinomorphic or zygomorphic, mostly epigynous, otherwise hemi-epigynous or perigynous, often smelling like rotting meat; 
+					<subChar class="calyx">calyx synsepalous, <subChar class="shape">tubular at least below</subChar>, actinomorphic and <subChar class="lobe number">3-lobed</subChar> to zygomorphic and <subChar class="lobe number">3-lobed to 1-lobed or not lobed</subChar>, often large and <subChar class="colour">colourful</subChar>; </subChar>
+					<subChar class="petals">petals wanting, much reduced or well developed (Saruma); </subChar>
+					<subChar class="stamens">stamens <subChar class="stamen number">4-many</subChar>, 
+						<subChar class="anthers">anthers dithecal and tetrasporangiate, extrorse; </subChar>
+					</subChar>
+					<subChar class="gynoecium">gynoecium of <subChar class="carpel number">4-6</subChar> carpels; </subChar>
+					<subChar class="ovary">ovary <subChar class="locule number">4- to 6-locular</subChar>, or with <subChar class="partition number">4-6</subChar> incomplete partitions, placentation axile or parietal; </subChar>
+					<subChar class="ovules">ovules <subChar class="ovule number">numerous</subChar>, crassinucellar and mostly anatropous; </subChar>
+					<subChar class="endosperm">endosperm development cellular. </subChar>
+				</char>
+				<char class="fruits">Fruits usually capsular, rarely follicular or indehiscent; 
+					<subChar class="seeds">seeds with abundant, oily endosperm; </subChar>
+					<subChar class="embryo">embryo very small, sometimes undifferentiated, basal.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="world">Throughout the world in tropical and temperate regions</distributionLocality>; an estimated 650 species in 6-7 genera (3 monospecific), most of the species (about 550) belong to <fullName rank="genus" freetextName="true">Aristolochia</fullName>, and most of the remaining (about 75) to the north temperate genus <fullName rank="genus" freetextName="true">Asarum</fullName>; in the <distributionLocality class="world">Neotropics</distributionLocality> probably about 250 species in 3 genera; in the <distributionLocality class="region">Guianas</distributionLocality> 18 species in one genus.</string>
+			</feature>
+			<feature class="phenology">
+				<string><subHeading>Pollination:</subHeading> The flowers are usually pollinated by flies attracted by the strong smell of the flowers.</string>
+			</feature>
+			<footnote id="FN_1"><footnoteString>1 Department of Botany, Smithsonian Institution, Washington, D.C., U.S.A.</footnoteString></footnote>
+			<footnote id="FN_2"><footnoteString>2 Laboratoire de Phanerogamie, Museum National d'Histoire Naturelle, Paris, France. Drawings made by G. Chypre.</footnoteString></footnote>
+			<references>
+				<heading>LITERATURE</heading>
+				<reference>
+					<refPart class="author">Duchartre, P.</refPart>
+					<refPart class="year">1854</refPart>
+					<refPart class="pubtitle">Methodicae Divisionis Generis Aristolochia</refPart>
+					<refPart class="pubname">Ann. Sci. Nat.</refPart>
+					<refPart class="series">ser. 4</refPart>
+					<refPart class="volume">2</refPart>
+					<refPart class="pages">29-76</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Duchartre, P.</refPart>
+					<refPart class="year">1864</refPart>
+					<refPart class="pubtitle">Aristolochiaceae</refPart>
+					<refPart class="editors">A.P. De Candolle</refPart>
+					<refPart class="pubname">Prodr.</refPart>
+					<refPart class="volume">15</refPart>
+					<refPart class="issue">1</refPart>
+					<refPart class="pages">421-498</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Gonzalez, F.</refPart>
+					<refPart class="year">1990</refPart>
+					<refPart class="pubtitle">Aristolochiaceae</refPart>
+					<refPart class="pubname">Flora de Colombia</refPart>
+					<refPart class="volume">12</refPart>
+					<refPart class="pages">1-184</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Gonzalez, F.</refPart>
+					<refPart class="year">1991</refPart>
+					<refPart class="pubtitle">Notes on the systematics of Aristolochia subsect</refPart>
+					<refPart class="pubname">Hexandrae. Ann. Missouri Bot. Gard.</refPart>
+					<refPart class="volume">78</refPart>
+					<refPart class="pages">497-503</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Gonzalez, F.</refPart>
+					<refPart class="year">1994</refPart>
+					<refPart class="pubtitle">Aristolochiaceae</refPart>
+					<refPart class="editors">G. Harling &amp; L. Andersson</refPart>
+					<refPart class="pubname">Flora of Ecuador</refPart>
+					<refPart class="volume">51</refPart>
+					<refPart class="pages">3-42</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Grenand, P., C. Moretti &amp; H. Jacquemin.</refPart>
+					<refPart class="year">1987</refPart>
+					<refPart class="pubtitle">Pharmacopees traditionnelles en Guyane</refPart>
+					<refPart class="pubname">ORSTOM Memoires</refPart>
+					<refPart class="volume">108. Aristolochiaceae</refPart>
+					<refPart class="pages">p. 144-149</refPart>
+					<refPart class="publocation">Paris</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Hoehne, F.C.</refPart>
+					<refPart class="year">1927</refPart>
+					<refPart class="pubtitle">Monogr. Aristol. Bras.</refPart>
+					<refPart class="pubname">Mem. Inst. Oswaldo Cruz</refPart>
+					<refPart class="volume">20</refPart>
+					<refPart class="issue">1</refPart>
+					<refPart class="pages">1-111</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Hoehne, F.C.</refPart>
+					<refPart class="year">1942</refPart>
+					<refPart class="pubtitle">Aristolochiaceas</refPart>
+					<refPart class="editors">F.C. Hoehne</refPart>
+					<refPart class="pubname">Flora Brasflica</refPart>
+					<refPart class="volume">15</refPart>
+					<refPart class="issue">2</refPart>
+					<refPart class="pages">1-141</refPart>
+					<refPart class="details">123 tab</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Malme, G.O.A.</refPart>
+					<refPart class="year">1904</refPart>
+					<refPart class="pubtitle">Beitrage zur Kenntnis der siidamerikanischen Aristolochiaceen</refPart>
+					<refPart class="pubname">Ark. Bot.</refPart>
+					<refPart class="volume">1</refPart>
+					<refPart class="pages">521-552</refPart>
+					<refPart class="details">t. 31-33</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Masters, M.T.</refPart>
+					<refPart class="year">1875</refPart>
+					<refPart class="pubtitle">Aristolochiaceae</refPart>
+					<refPart class="editors">C.F.P. von Martius</refPart>
+					<refPart class="pubname">Flora Brasiliensis</refPart>
+					<refPart class="volume">4</refPart>
+					<refPart class="issue">2</refPart>
+					<refPart class="pages">77-114</refPart>
+					<refPart class="details">tab. 17-26</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Pfeifer, H.W.</refPart>
+					<refPart class="year">1966</refPart>
+					<refPart class="pubtitle">Revision of the North and Central American hexandrous species of Aristolochia (Aristolochiaceae)</refPart>
+					<refPart class="pubname">Ann. Missouri Bot. Gard.</refPart>
+					<refPart class="volume">53</refPart>
+					<refPart class="pages">115-196</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Schomburgk, M.R.</refPart>
+					<refPart class="year">1849</refPart>
+					<refPart class="pubtitle">Reisen in Britisch-Guiana in den Jahren 1840-1844</refPart>
+					<refPart class="volume">Vol. 3</refPart>
+					<refPart class="pubname"> Flora</refPart>
+					<refPart class="pages">787-1260</refPart>
+					<refPart class="publocation">Leipzig</refPart>
+				</reference>
+			</references>
+			<feature class="taxonomy">
+				<heading>NOMENCLATURAL CHANGES AND NEW TYPIFICATIONS</heading>
+				<string><subHeading>New synonyms:</subHeading>
+				<ul>
+					<li><fullName rank="species" freetextName="true">Aristolochia platyloba Garcke</fullName>, Linnaea 22: 69. 1849 = <fullName rank="species" freetextName="true">Aristolochia surinamensis Willdenow</fullName></li>
+					<li><fullName rank="species" freetextName="true">Aristolochia macrota Duchartre</fullName>, Ann. Sci. Nat., ser. 4, 2: 43. 1854 = <fullName rank="species" freetextName="true">Aristolochia surinamensis Willdenow</fullName></li>
+				</ul>
+				<subHeading>Typifications:</subHeading>
+				<ul>
+					<li><fullName rank="species" freetextName="true">Aristolochia macrota Duchartre</fullName>, Ann. Sci. Nat., ser. 4, 2: 43. 1854. Lectotype here designated: Rob. Schomburgk I 679 (lectotype G-DC, photo, F, US, isotypes BM, F, K (2 sheets), US).</li>
+					<li><fullName rank="species" freetextName="true">Aristolochia rodriguesii Hoehne</fullName>, Mem. Inst. Oswaldo Cruz 20(1): 76 (140), tab. 72. 1927. Lectotype here designated: Brazil, Ule 9338 (lectotype MG).</li>
+					<li><fullName rank="species" freetextName="true">Howardia schomburgkii Klotzsch</fullName>, Monatsber. Konigl. Preuss. Akad. Wiss. Berlin 1859: 613. 1859. Neotype here proposed: Guyana. Pirara, Rich. Schomburgk II 414 (holotype P, isotype BM, K).</li>
+					<li><fullName rank="subspecies" freetextName="true">Aristolochia weddellii Duchartre subsp. rondoniana Hoehne</fullName>, Arch. Bot. Est. Sao Paulo 1(1): 19, tab. 8. 1925. Lectotype here designated: Brazil, Comm. Rondon 2445 (lectotype SP, isotype RB).</li>
+				</ul></string>
+			</feature>
+			<feature class="specimens">
+				<heading>COLLECTIONS STUDIED</heading>
+				<string>Numerous collections without flower, and therefore impossible to identify, are not cited here. Numbers in italics represent type collections.
+				<gatheringGroup geoscope="guyana">GUYANA
+				<gathering><collector>Acevedo, P.</collector>, <fieldNum>3308</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Appun, C.F.</collector>, <fieldNum>288</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector>Bartlett, A.W.</collector>, <fieldNum>s.n. (anno 1908)</fieldNum> (<fullName rank="species">Aristolochia consimilis Masters</fullName>)</gathering>
+				<gathering><collector>Fanshawe, D.B.</collector>, <fieldNum>1181</fieldNum> = <alternativeFieldNum>FD 3917</alternativeFieldNum> (<fullName rank="species">Aristolochia consimilis Masters</fullName>)</gathering>; <gathering><fieldNum>1383</fieldNum> = <alternativeFieldNum>FD 4119</alternativeFieldNum> (<fullName rank="species">Aristolochia daemoninoxia Masters</fullName>)</gathering>
+				<gathering><collector>Feuillet, C.</collector>, <fieldNum>10642</fieldNum> (<fullName rank="species">Aristolochia rugosa Lamarck</fullName>)</gathering>
+				<gathering><collector>Gillespie, L.J. et al.</collector>, <fieldNum>830</fieldNum> (<fullName rank="species">Aristolochia daemoninoxia Masters</fullName>)</gathering>; <gathering><fieldNum>869</fieldNum> (<fullName rank="species">Aristolochia hians Willdenow</fullName>)</gathering>; <gathering><fieldNum>1018</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Graham, V.</collector>, <fieldNum>220</fieldNum> (<fullName rank="species">Aristolochia consimilis Masters</fullName>)</gathering>
+				<gathering><collector>Hancock, J.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>
+				<gathering><collector>Im Thurn, E.F.</collector>, <fieldNum>1945</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia consimilis Masters</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia hians Willdenow</fullName>)</gathering>
+				<gathering><collector>Jansen-Jacobs, M.J. et al.</collector>, <fieldNum>705</fieldNum> (<fullName rank="species">Aristolochia peltatodeltoidea Hoehne</fullName>)</gathering>; <gathering><fieldNum>4592</fieldNum> (<fullName rank="species">Aristolochia peltatodeltoidea Hoehne</fullName>)</gathering>
+				<gathering><collector>Jenman, G.S.</collector>, <fieldNum>1945</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>4192</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>; <gathering><fieldNum>4615</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>6543</fieldNum> (<fullName rank="species">Aristolochia daemoninoxia Masters</fullName>)</gathering>; <gathering><fieldNum>6915</fieldNum> (<fullName rank="species">Aristolochia daemoninoxia Masters</fullName>)</gathering>; <gathering><fieldNum>6916</fieldNum> (<fullName rank="species">Aristolochia consimilis Masters</fullName>)</gathering>; <gathering><fieldNum>6934</fieldNum> (<fullName rank="species">Aristolochia hians Willdenow</fullName>)</gathering>; <gathering><fieldNum>7226</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>7227</fieldNum> (<fullName rank="species">Aristolochia hians Willdenow</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector>Maas, P.J.M. et al.</collector>, <fieldNum>4058</fieldNum> (<fullName rank="species">Aristolochia peltatodeltoidea Hoehne</fullName>)</gathering>; <gathering><fieldNum>4184</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Persaud, C.A.</collector>, <fieldNum>33</fieldNum> = <alternativeFieldNum>FD 5342</alternativeFieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>; <gathering>, <fieldNum>121</fieldNum> = <alternativeFieldNum>FD 6772</alternativeFieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector>Sandwith, N.Y.</collector>, <fieldNum>1548</fieldNum> (<fullName rank="species">Aristolochia consimilis Masters</fullName>)</gathering>; <gathering><fieldNum>1594</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector doubtful="true">Schomburgk, Rich. or Rob.?</collector>, <fieldNum>114</fieldNum> (<fullName rank="species">Aristolochia rugosa Lamarck</fullName>)</gathering>
+				<gathering><collector>Schomburgk, Rich.</collector>, <fieldNum>II 414</fieldNum> (<fullName rank="species">Aristolochia rugosa Lamarck</fullName>)</gathering>; <gathering><fieldNum>611</fieldNum>, <gatheringNotes>not extant</gatheringNotes> (<fullName rank="species">Aristolochia rugosa Lamarck</fullName>)</gathering>
+				<gathering><collector>Schomburgk, Rob.</collector>, <fieldNum>1679</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>; <gathering><fieldNum>I add. ser. 144 S</fieldNum> (<fullName rank="species">Aristolochia hians Willdenow</fullName>)</gathering>; <gathering><fieldNum>II 4</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>85</fieldNum> (<fullName rank="species">Aristolochia rugosa Lamarck</fullName>)</gathering>
+				<gathering><collector>Smith, A.C.</collector>, <fieldNum>2831</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>3385</fieldNum> (<fullName rank="species">Aristolochia peltatodeltoidea Hoehne</fullName>)</gathering>
+				<gathering><collector>Tutin, T.G.</collector>, <fieldNum>136</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector>Waby, J.F.</collector>, <fieldNum>8363</fieldNum> (<fullName rank="species">Aristolochia consimilis Masters</fullName>)</gathering>
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">SURINAME
+				<gathering><collector>Anonymous</collector>, <fieldNum>44</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Boldingh, I.</collector>, <fieldNum>3817B</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Boon, H.</collector>, <fieldNum>1149</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>BW</collector>, <fieldNum>3281</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>6520</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>6632</fieldNum> (<fullName rank="species">Aristolochia guianensis Poncy</fullName>)</gathering>
+				<gathering><collector>Florschiitz, J. &amp; P.A.</collector>, <fieldNum>893</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Focke, H.C.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Geijskes, D.C.</collector>, <fieldNum>70</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector>Heyde, N.M.</collector>, <fieldNum>401</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Herb. N.J. Jacquin</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Hostmann, F.W.</collector>, <fieldNum>611</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Hugh-Jones, D.H.</collector>, <fieldNum>32</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Kappler, A.</collector>, <fieldNum>1604</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Kegel, H.A.H.</collector>, <fieldNum>632</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Lanjouw, J. &amp; J.C. Lindeman</collector>, <fieldNum>1069</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>
+				<gathering><collector>Lindeman, J.C., A.L. Stoffers et al.</collector>, <fieldNum>370</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>617</fieldNum> (<fullName rank="species">Aristolochia guianensis Poncy</fullName>)</gathering>
+				<gathering><collector>Splitgerber, F.L.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Stahel, G.</collector>, <fieldNum>70</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>; <gathering><fieldNum>150</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>
+				<gathering><collector>Stahel, G. &amp; J.W. Gonggrijp</collector>, <fieldNum>BW 6520</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Vreden, F.E.</collector>, <fieldNum>LBB 11303</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Went, F.A.F.C.</collector>, <fieldNum>425</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Wullschlagel, H.R.</collector>, <fieldNum>452</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Zaandam, C.J.</collector>, <fieldNum>BW 6632</fieldNum> (<fullName rank="species">Aristolochia guianensis Poncy</fullName>)</gathering>
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">FRENCH GUIANA
+				<gathering><collector>Anonymous</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>
+				<gathering><collector>Aubert de la Rue, M.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector>Aublet, J.B.C.F. d'</collector>, <fieldNum>s.n.</fieldNum> (after <fullName rank="variety">A. weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector>Aubreville, A.</collector>, <fieldNum>89</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Benoist, R.</collector>, <fieldNum>357</fieldNum> (<fullName rank="species">Aristolochia guianensis Poncy</fullName>)</gathering>; <gathering><fieldNum>891</fieldNum> (<gatheringNotes>see note A. rugosa Lamarck</gatheringNotes>)</gathering>; <gathering><fieldNum>953</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>
+				<gathering><collector>Cremers, G.</collector>, <fieldNum>6069</fieldNum> (<fullName rank="species">Aristolochia didyma S. Moore</fullName>)</gathering>; <gathering><fieldNum>6455</fieldNum> (<fullName rank="species">Aristolochia cremersii Poncy</fullName>)</gathering>
+				<gathering><collector>Cremers, G. &amp; F. Crozier</collector>, <fieldNum>14677</fieldNum> (<gatheringNotes>see note A. rugosa Lamarck</gatheringNotes>)</gathering>
+				<gathering><collector>Feuillet, C.</collector>, <fieldNum>308</fieldNum> (<fullName rank="species">Aristolochia cremersii Poncy</fullName>)</gathering>; <gathering><fieldNum>707</fieldNum> (<fullName rank="species">Aristolochia surinamensis Willdenow</fullName>)</gathering>; <gathering><fieldNum>1373</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>1565</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>2103</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>2282</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>2330</fieldNum> (<fullName rank="species">Aristolochia guianensis Poncy</fullName>)</gathering>; <gathering><fieldNum>3004</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Fleury, M.</collector>, <fieldNum>537</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>
+				<gathering><collector>Foresta, H. de</collector>, <fieldNum>548</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>568</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Gabriel, A.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>
+				<gathering><collector>Granville, J.J. de (et al.)</collector>, <fieldNum>682</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>928</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>3440</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>4530</fieldNum> (<fullName rank="species">Aristolochia guianensis Poncy</fullName>)</gathering>; <gathering><fieldNum>6752</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>7968</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>; <gathering><fieldNum>10000</fieldNum> (<fullName rank="variety">Aristolochia weddellii Duchartre var. rondoniana (Hoehne) Hoehne</fullName>)</gathering>; <gathering><fieldNum>I 0300</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>10947</fieldNum> (<fullName rank="species">Aristolochia didyma S. Moore</fullName>)</gathering>; <gathering><fieldNum>11703</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>13173</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Grenand, P.</collector>, <fieldNum>260</fieldNum> (<fullName rank="species">Aristolochia mossii S. Moore</fullName>)</gathering>; <gathering><fieldNum>565</fieldNum> (<fullName rank="species">Aristolochia mossii S. Moore</fullName>)</gathering>; <gathering><fieldNum>656</fieldNum> (<fullName rank="species">Aristolochia consimilis Masters</fullName>)</gathering>
+				<gathering><collector>Grenand, P. &amp; M.F. Prevost</collector>, <fieldNum>2049</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>
+				<gathering><collector>Herb. Rudge</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>
+				<gathering><collector>Jacquemin, H.</collector>, <fieldNum>1712</fieldNum> (<fullName rank="species">Aristolochia mossii S. Moore</fullName>)</gathering>; <gathering><fieldNum>2180</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>2605</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>
+				<gathering><collector>Leprieur, F.R.M.</collector>, <fieldNum>s.n. (anno 1839)</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>
+				<gathering><collector>Lescure, J.P.</collector>, <fieldNum>374</fieldNum> (<fullName rank="species">Aristolochia mossii S. Moore</fullName>)</gathering>
+				<gathering><collector>Loubry, D.</collector>, <fieldNum>2925</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Melinon, E.</collector>, <fieldNum>236</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>381</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>; <gathering><fieldNum>428</fieldNum> (<gatheringNotes>see note A. rugosa Lamarck</gatheringNotes>)</gathering>
+				<gathering><collector>Moretti, C.</collector>, <fieldNum>104</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>993</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>; <gathering><fieldNum>1147</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Mori, S.A. et al.</collector>, <fieldNum>21637</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>; <gathering><fieldNum>22251</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>; <gathering><fieldNum>22953</fieldNum> (<fullName rank="species">Aristolochia cremersii Poncy</fullName>)</gathering>; <gathering><fieldNum>22965</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>; <gathering><fieldNum>23347</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>; <gathering><fieldNum>23966</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>
+				<gathering><collector>Oldeman, R.A.A.</collector>, <fieldNum>2622</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>
+				<gathering><collector>Poiteau, P.A.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>
+				<gathering><collector>Poncy, O.</collector>, <fieldNum>2</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>3</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>217</fieldNum> (<fullName rank="species">Aristolochia cremersii Poncy</fullName>)</gathering>; <gathering><fieldNum>536</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>; <gathering><fieldNum>987</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Prevost, M.F.</collector>, <fieldNum>604</fieldNum> (<fullName rank="species">Aristolochia bukuti Poncy</fullName>)</gathering>; <gathering><fieldNum>621</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>; <gathering><fieldNum>1113</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>1353</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>1485</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>1753</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>; <gathering><fieldNum>1768</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>1770</fieldNum> (<fullName rank="species">Aristolochia flava Poncy</fullName>)</gathering>; <gathering><fieldNum>2154</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>2184</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Prevost, M.P. &amp; P. Grenand</collector>, <fieldNum>1491</fieldNum> (<fullName rank="species">Aristolochia mossii S. Moore</fullName>)</gathering>; <gathering><fieldNum>1941</fieldNum> (<fullName rank="species">Aristolochia mossii S. Moore</fullName>)</gathering>
+				<gathering><collector>Richard, L.C.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia mossii S. Moore</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>
+				<gathering><collector>Riera, B.</collector>, <fieldNum>273</fieldNum> (<fullName rank="species">Aristolochia stahelii O.C. Schmidt</fullName>)</gathering>
+				<gathering><collector>Rohr, J.P.B. von</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>
+				<gathering><collector>Sagot, P.</collector>, <fieldNum>1159</fieldNum> (<fullName rank="species">Aristolochia guianensis Poncy</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia iquitensis O.C. Schmidt</fullName>)</gathering>; <gathering><fieldNum>s.n.</fieldNum> (<fullName rank="species">Aristolochia leprieurii Duchartre</fullName>)</gathering>
+				<gathering><collector>Sastre, C.</collector>, <fieldNum>5698</fieldNum> (<fullName rank="species">Aristolochia paramaribensis Duchartre</fullName>)</gathering>; <gathering><fieldNum>6897</fieldNum> (<fullName rank="species">Aristolochia trilobata Linnaeus</fullName>)</gathering>
+				<gathering><collector>Sastre, C. &amp; D. Bell</collector>, <fieldNum>8031</fieldNum> (<fullName rank="species">Aristolochia guianensis Poncy</fullName>)</gathering>
+				<gathering><collector>Skog, L.E., &amp; C. Feuillet</collector>, <fieldNum>5675</fieldNum> (<fullName rank="species">Aristolochia didyma S. Moore</fullName>)</gathering>
+			</gatheringGroup></string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>1</num>
+						<name class="genus">ARISTOLOCHIA</name>
+						<name class="author">Linnaeus</name>
+						<citation class="publication">
+							<refPart class="pubname">Sp. Pl.</refPart>
+							<refPart class="pages">960</refPart>
+							<refPart class="year">1753</refPart>
+						</citation>
+						<citation class="usage">
+							<refPart class="pubname">Gen. Pl.</refPart>
+							<refPart class="pages">410</refPart>
+							<refPart class="year">1754</refPart>
+						</citation>
+					</nom>
+					<nameType typeStatus="lectotype">
+						<nom class="nametype">Lectotype: 
+							<name class="genus abbreviation">A.</name>
+							<name class="species">rotunda</name>
+							<name class="author">Linnaeus</name>
+						</nom>
+					</nameType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Howardia</name>
+						<name class="author">Klotzsch</name>
+						<citation class="publication">
+							<refPart class="pubname">Monatsber. Konigl. Preuss. Akad. Wiss. Berlin</refPart>
+							<refPart class="volume">1859</refPart>
+							<refPart class="pages">584, 607</refPart>
+							<refPart class="year">1860</refPart>
+							<refPart class="homonyms">non Wedd. 1854.</refPart>
+						</citation>
+					</nom>
+					<nameType>
+						<nom class="nametype">Type: 
+							<name class="genus abbreviation">H.</name>
+							<name class="species">ringens</name>
+							<name class="author">Klotzsch</name>
+						</nom>
+					</nameType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Aromatic woody or herbaceous vines, roots often tuberous; 
+					<subChar class="stems">stem of several species with <subChar class="cork">thick, fissured cork</subChar>. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="pseudostipules">with or without axillar pseudostipules; </subChar>
+					<subChar class="petiole">petioles long, twisting; </subChar>
+					<subChar class="blade">blades entire, <subChar class="lobe number">3-lobed in 2 species</subChar>, 
+						<subChar class="base">base <subChar class="shape">usually cordate</subChar>, </subChar>
+						<subChar class="veins">venation prominent beneath, main veins pedate at base, tertiary veins forming a tight net. </subChar>
+					</subChar>
+				</char>
+				<char class="flowers">Flowers solitary or in racemose or cymose inflorescences, <subChar class="position">axillary or cauliflorous</subChar>; 
+					<subChar class="flowers">flowers resupinate, as a result of twisting of the inferior ovary; </subChar>
+					<subChar class="perianth">perianth composed of <subChar class="sepal number">3</subChar> sepals, zygomorphic, <subChar class="shape">slightly curved to tightly S-shaped</subChar>, its <subChar class="part number">3</subChar> parts easy to distinguish: 
+						<subChar class="perianth parts"><subChar class="utricles">the basal, inflated utricle</subChar>, <subChar class="tube">the narrow or trumpet-shaped median tube</subChar>, <subChar class="distal part">the <subChar class="position">distal</subChar> part, usually <subChar class="lobe number">1- to 3-lobed</subChar>, very variable in shape, size and colour</subChar>; </subChar>
+					</subChar>
+					<subChar class="ovary">ovary <subChar class="cell number">6-celled</subChar>, long and narrow, barely thicker than the pedicel, 
+						<subChar class="apex">apex forming a hexandrous gynostemium with <subChar class="anther number">6</subChar> anthers and <subChar class="stigmatic lobe number">6</subChar> stigmatic lobes in the utricle. </subChar>
+					</subChar>
+				</char>
+				<char class="capsules">Capsules <subChar class="locule number">6-locular</subChar>, <subChar class="shape">cylindric</subChar>, with dorsal keel on each cell; 
+					<subChar class="dehiscence">dehiscence septicidal, starting from the peduncle and incomplete, dehisced fruit basket-like; </subChar>
+					<subChar class="seeds">seeds <subChar class="seed number">numerous</subChar>, <subChar class="shape">generally flat, piled in each cell, often winged</subChar>, </subChar>
+					<subChar class="seed coat">seed coat slightly verrucose, adaxially with a longitudinal prominent raphe.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="world">Tropical and subtropical regions of the world</distributionLocality>; only a few temperate species. In the <distributionLocality class="region">Guianas</distributionLocality> in dense primary forest and secondary vegetation or disturbed areas.</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in dense primary forest and secondary vegetation or disturbed areas.</habitat></string>
+			</feature>
+			<feature class="phenology">
+				<string><subHeading>Phenology:</subHeading> Flowering is erratic among the species growing in the forest in the Guianas. All species are rarely collected (which does not permit to draw trustable conclusions about the phenology of the taxa growing in open vegetation).</string>
+			</feature>
+			<feature class="taxonomy">
+				<string><subHeading>Subdivisions:</subHeading> All known South American species belong to sect. <fullName rank="subsection" freetextName="true">Gymnolobus Duchartre subsect. Hexandrae Duchartre</fullName> as traditionally accepted since Duchartre (1864). Gonzalez (1991) divided this subsect. in 2 series:<br />
+				<ol>
+					<li><fullName rank="series" freetextName="true">ser. Thyrsicae Gonzalez</fullName>, characterized by the presence of an abscission zone at the base of the petiole, the structure of the inflorescence, the comb-like shape of the wall of the dehiscing fruit, and 2-winged seeds;</li>
+					<li><fullName rank="series" freetextName="true">ser. Hexandrae</fullName> splitted into 2 subseries <fullName rank="subseries" freetextName="true">Anthocaulicae</fullName> and <fullName rank="subseries" freetextName="true">Hexandrae</fullName>.</li>
+				</ol><br />
+				According to this system, <fullName rank="species" freetextName="true">A. consimilis Masters</fullName> and <fullName rank="species" freetextName="true">A. paramaribensis Duchartre</fullName> should fall into <fullName rank="series" freetextName="true">ser. Thyrsicae</fullName>. As far as their fruits are known, the other Guianan species belong to <fullName rank="subseries" freetextName="true">ser. Hexandrae subser. Hexandrae</fullName> (non cauliflorous) and <fullName rank="subseries" freetextName="true">subser. Anthocaulicae Gonzalez</fullName> (cauliflorous).</string>
+			</feature>
+			<feature class="uses">
+				<string><subHeading>Economic uses:</subHeading> Several species are in cultivation in tropical and temperate areas as greenhouse or garden plants prized for their flowers. Often <fullName rank="genus" freetextName="true">Aristolochia</fullName> species are used in folk medicine.</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> The alleged property to ease child birth explains the scientific name of the genus, "Aristo-lochia" =best-delivery" in Greek, as well as one of its English vernacular names: "birthwort". Medicinal data and vernacular names were taken either from Grenand et al. (1987) or from cited specimens.</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular names:</subHeading><vernacularNames>
+					<subHeading>French Guiana:</subHeading>
+					<vernacularName><name class="vernacular">bukuti</name> (<localLanguage>Wayampi</localLanguage>, <localLanguage>Palikour</localLanguage>), <name class="vernacular">Iiane amere</name> (<localLanguage>Creole</localLanguage>; also applied to <fullName rank="genus" freetextName="true">Tynospora</fullName> of the <fullName rank="family" freetextName="true">Menispermaceae</fullName>)</vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+			<feature class="wood">
+				<heading>WOOD AND TIMBER</heading>
+				<writer>BEN J.H.TER WELLE<footnoteRef ref="FN_3"><num>3</num></footnoteRef> &amp; PIERRE DETIENNE<footnoteRef ref="FN_4"><num>4</num></footnoteRef></writer>
+				<figureRef ref="ID_328">Fig. <num>1</num></figureRef>
+				<string><subHeading>WOOD ANATOMY GENERIC DESCRIPTION</subHeading><br />Growth rings absent.<br />Vessels diffuse, solitary (up to 90%), and some irregular clusters of 2-3, round to slightly oval, the longest axis is in tangential direction, 16-19(8-25) per sq. mm, diameter variable, in two distinct size groups, 50-55(35-85) and 150-190(115-210) pm, respectively. Vessel-member length: 256(184-311) μm. Perforations simple. Intervascular pits scarce, alternate, round to oval, 4-7 μm. Vessel-ray and vessel-parenchyma pits similar to slightly larger than the intervascular pits. Thin-walled tyloses scarcely present.<br />Rays large, interfascicular, dissecting the stem into bundles with fibre tracheids, vessels and parenchyma; multiseriate, 10-20 cells wide, 1(0-2) per mm, up to >9000 μm (= >220 cells) high. Heterogeneous, composed of various shapes of procumbent cells and few square/upright cells. Rhombic crystals abundant.<br />Parenchyma few, scanty paratracheal and some diffuse strands.<br />Fibre tracheids, thin-walled, lumen up to 12-18 pm, walls up to 3-4 μm. Pits clearly bordered, abundant on radial and tangential walls, 4-6 μm. Length: 914(690-1208) μm. FN ratio: 3.57.</string>
+			</feature>
+			<feature class="wood observation species">
+				<string><subHeading>Studied:</subHeading> <fullName rank="species" freetextName="true">A. daemoninoxia</fullName>, <fullName rank="species" freetextName="true">A. stahelii</fullName>.</string>
+			</feature>
+			<footnote id="FN_3"><footnoteString>3 Herbarium Division, Department of Plant Ecology and Evolutionary Biology, Heidelberglaan 2, 3584 CS Utrecht, The Netherlands.</footnoteString></footnote>
+			<footnote id="FN_4"><footnoteString>4 C.I.R.A.D.-Foret, Maisoll de la TechnoIogie, BP 5035, Montpellier, Cedex 1, France.</footnoteString></footnote>
+			<references>
+				<heading>LITERATURE ON WOOD AND TIMBER</heading>
+				<reference>
+					<refPart class="author">Carlquist, S.</refPart>
+					<refPart class="year">1993</refPart>
+					<refPart class="pubtitle">Wood and bark anatomy of Aristolochiaceae; systematic and habital correlations</refPart>
+					<refPart class="pubname">IAWA Jouml.</refPart>
+					<refPart class="volume">14</refPart>
+					<refPart class="issue">4</refPart>
+					<refPart class="pages">341-357</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Metcalfe, C.R. &amp; L. Chalk.</refPart>
+					<refPart class="year">1950</refPart>
+					<refPart class="pubname">Anatomy of the Dicotyledons</refPart>
+					<refPart class="volume">2 Vols</refPart>
+					<refPart class="publisher">Clarendon Press</refPart>
+					<refPart class="publocation">Oxford</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Record, S.J. &amp; R.W. Hess.</refPart>
+					<refPart class="year">1943</refPart>
+					<refPart class="pubname">Timbers of the New World</refPart>
+					<refPart class="publisher">Yale University Press</refPart>
+					<refPart class="publocation">New Haven, CT</refPart>
+				</reference>
+			</references>
+			<figure id="ID_328" type="photo" url="fotg-a-20-328.jpg">Fig. <num>1</num>. <figureLegend>Transverse section. <fullName rank="species" freetextName="true">Aristolochia stahelii O.C. Schmidt</fullName>.</figureLegend></figure>
+			<key>
+				<keyTitle>KEY TO THE SPECIES</keyTitle>
+				<couplet num="1">
+					<question num="a">
+						<text>Leaves 3-lobed</text>
+						<toCouplet num="2">2</toCouplet>
+					</question>
+					<question num="b">
+						<text>Leaves not lobed</text>
+						<toCouplet num="3">3</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="2">
+					<question num="a">
+						<text>Pseudostipules lacking; lateral lobes of leaves perpendicular to middle lobe; superior lobe of perianth triangular and emarginate at apex</text>
+						<toTaxon num="16">A. surinamensis</toTaxon>
+					</question>
+					<question num="b">
+						<text>Pseudostipules present; lateral lobes of leaves falciform, pointing partly forward; superior lobe of perianth ovate, with a long apical filament at least 10 cm long</text>
+						<toTaxon num="17">A. trilobata</toTaxon>
+					</question>
+				</couplet>
+				<couplet num="3">
+					<question num="a">
+						<text>Leaves peltate</text>
+						<toTaxon num="13">A. peltatodeltoidea</toTaxon>
+					</question>
+					<question num="b">
+						<text>Leaves not peltate, or very slightly so</text>
+						<toCouplet num="4">4</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="4">
+					<question num="a">
+						<text>Plant cauliflorous and leaves wider than long</text>
+						<toCouplet num="5">5</toCouplet>
+					</question>
+					<question num="b">
+						<text>Plant not cauliflorous or, if cauliflorous, then leaves longer than wide</text>
+						<toCouplet num="7">7</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="5">
+					<question num="a">
+						<text>Limb of perianth not spreading, but at first reflexed backwards to the utricle and apically coming forward, but finally recurved outwards and forming a horse-shoe-shaped cavity around the mouth of the tube; fruit more than 6 cm long, external wall thick, woody</text>
+						<toTaxon num="15">A. stahelii</toTaxon>
+					</question>
+					<question num="b">
+						<text>Limb of perianth spreading; fruit similar or thin-walled</text>
+						<toCouplet num="6">6</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="6">
+					<question num="a">
+						<text>Upper part of the limb wider than long, apex rounded; fruit more than 6 cm long, external wall thick, woody</text>
+						<toTaxon num="4">A. daemoninoxia</toTaxon>
+					</question>
+					<question num="b">
+						<text>Upper part of the limb longer than wide, apex acute; fruit up to 6 cm long, external wall thin, chartaceous</text>
+						<toTaxon num="1">A. bukuti</toTaxon>
+					</question>
+				</couplet>
+				<couplet num="7">
+					<question num="a">
+						<text>Perianth with only 1 superior lobe (with small inferior lobe in A. cremersii).</text>
+						<toCouplet num="8">8</toCouplet>
+					</question>
+					<question num="b">
+						<text>Perianth with 2 lobes (2 lateral lobes, or 1 superior and 1 inferior lobe).</text>
+						<toCouplet num="15">15</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="8">
+					<question num="a">
+						<text>Perianth lobe hangmg, like a scallopped tape</text>
+						<toTaxon>A. weddellii var. rondoniana</toTaxon>
+					</question>
+					<question num="b">
+						<text>Perianth lobe erect</text>
+						<toCouplet num="9">9</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="9">
+					<question num="a">
+						<text>Inflorescences cauliflorous or axillary racemes</text>
+						<toTaxon num="3">A. cremersii</toTaxon>
+					</question>
+					<question num="b">
+						<text>Flowers solitary or arranged in axillary inflorescences</text>
+						<toCouplet num="10">10</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="10">
+					<question num="a">
+						<text>Flowers solitary; inside wall of dehiscing fruit not comb-like</text>
+						<toCouplet num="11">11</toCouplet>
+					</question>
+					<question num="b">
+						<text>Flowers in axillary inflorescences; inside wall of dehiscing fruit comb-like.</text>
+						<toCouplet num="14">14</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="11">
+					<question num="a">
+						<text>Perianth large, utricle 3 x 1.5 cm, larger than the lobe</text>
+						<toTaxon num="11">A. mossii</toTaxon>
+					</question>
+					<question num="b">
+						<text>Perianth with the utricle smaller than the lobe</text>
+						<toCouplet num="12">12</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="12">
+					<question num="a">
+						<text>Perianth lobe triangular, without fimbriae, but with dark violet spots</text>
+						<toTaxon num="7">A. guianensis</toTaxon>
+					</question>
+					<question num="b">
+						<text>Perianth lobe with fleshy, dark purple fimbriae</text>
+						<toCouplet num="13">13</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="13">
+					<question num="a">
+						<text>Perianth lobe triangular, acute, marginally reflexed</text>
+						<toTaxon num="10">A. leprieurii</toTaxon>
+					</question>
+					<question num="b">
+						<text>Perianth lobe distally ovoid, with acuminate apex</text>
+						<toTaxon num="14">A. rugosa</toTaxon>
+					</question>
+				</couplet>
+				<couplet num="14">
+					<question num="a">
+						<text>Perianth lobe with terminal filiform appendage; seed wings apically truncate, seed base truncate</text>
+						<toTaxon num="12">A. paramaribensis</toTaxon>
+					</question>
+					<question num="b">
+						<text>Perianth lobe triangular with acute apex; seed wings apically rounded, seed base cordate</text>
+						<toTaxon num="2">A. consimilis</toTaxon>
+					</question>
+				</couplet>
+				<couplet num="15">
+					<question num="a">
+						<text>Perianth with 2 lateral lobes</text>
+						<toTaxon num="9">A. iquitensis</toTaxon>
+					</question>
+					<question num="b">
+						<text>Perianth with superior and inferior lobe</text>
+						<toCouplet num="16">16</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="16">
+					<question num="a">
+						<text>Utricle less than 1.5 cm long, superior lobe linear, twisted</text>
+						<toTaxon num="6">A. flava</toTaxon>
+					</question>
+					<question num="b">
+						<text>Utricle more than 2 cm long</text>
+						<toCouplet num="17">17</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="17">
+					<question num="a">
+						<text>Superior lobe deeply 2-fid, up to 5 cm long</text>
+						<toTaxon num="5">A. didyma</toTaxon>
+					</question>
+					<question num="b">
+						<text>Superior lobe paddle-shaped, 1.5-3 cm long, wider in its distal part</text>
+						<toTaxon num="8">A. hians</toTaxon>
+					</question>
+				</couplet>
+			</key>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>1</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">bukuti</name>
+						<name class="author">Poncy</name>
+						<citation class="publication">
+							<refPart class="pubname">Bull. Mus. Hist. Nat. (Paris)</refPart>
+							<refPart class="series">ser. 4</refPart>
+							<refPart class="volume">10</refPart>
+							<refPart class="pages">337</refPart>
+							<refPart class="details">tab. 1</refPart>
+							<refPart class="year">1989</refPart>
+							<refPart class="notes">("1988")</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">French Guiana, Arataye R.</locality><collector>Poncy</collector><fieldNum>536</fieldNum><collectionAndType>(holotype P, isotypes CAY, US)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Woody vine; 
+					<subChar class="stems">stem <subChar class="diameter">1.5-2 cm diam.</subChar>, 
+						<subChar class="bark">bark very thick and fissured; </subChar>
+					</subChar>
+					<subChar class="branchlets">branchlets rather thick, <subChar class="diameter">3-4 mm diam.</subChar>, indument caducous; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole thick, twining, <subChar class="length">5-7 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">chartaceous</subChar>, <subChar class="shape">widely triangular</subChar>, <subChar class="dimensions">11-16 x 15-20 cm</subChar>, <subChar class="hairs">glabrous and shining above, <subChar class="colour">greyish</subChar> and pubescent beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute to slightly acuminate</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">slightly cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="lateral veins">lateral veins marginal at base. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">cauliflorous</subChar>, <subChar class="racemes">a dense cluster of <subChar class="length">1-2 cm long</subChar> racemes, each bearing <subChar class="flowers"><subChar class="flower number">± 5</subChar> flowers with <subChar class="bracts">small <subChar class="texture">scaly</subChar> bracts</subChar></subChar></subChar>; 
+					<subChar class="pedicels">pedicels thin, <subChar class="length">3-3.5 cm long, excluding the ovary</subChar>. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="ovary">ovary <subChar class="length">2-2.5 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">whitish, <subChar class="hairs">glabrous</subChar>, outside with protruding violet brown veins</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">2-3 x 1.5 cm</subChar>, <subChar class="appendages">with a <subChar class="shape">cup-shaped, annular</subChar>, <subChar class="width">1 mm wide</subChar> appendage at base</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="dimensions">2 x 0.5 cm</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">suborbicular, surrounding the throat except for a ventral sinus</subChar>, <subChar class="dimensions">5-6 x 4-5 cm</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute</subChar>, <subChar class="colour">inside brown with golden speckles near the margin, the colour fading to yellow at middle</subChar>, </subChar>
+						<subChar class="throat">throat <subChar class="colour">yellow</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">ca. 6 cm long</subChar>, 
+					<subChar class="outer walls">external wall <subChar class="texture">thin, chartaceous</subChar>.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> Only known from <distributionLocality class="country">French Guiana</distributionLocality>; (FG: 5).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in forests on slopes.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="region">near Saiil</locality>, <collector>Mori</collector> <fieldNum>21637</fieldNum> <collectionAndType>(CAY, NY, P, US)</collectionAndType></gathering>; <gathering><locality class="locality">Camopi</locality>, <collector>Oldeman</collector> <fieldNum>2622</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>; <gathering><locality class="locality">Cabassou</locality>, <collector>Prevost</collector> <fieldNum>604</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>; <gathering><locality class="locality">Mt. Bellevue de l'Inini</locality>, <collector>de Granville</collector> <fieldNum>7968</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>2</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">consimilis</name>
+						<name class="author">Masters</name>
+						<citation class="publication">
+							<refPart class="pubname">Bull. Misc. Inform</refPart>
+							<refPart class="year">1906</refPart>
+							<refPart class="pages">7</refPart>
+							<refPart class="year">1906</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Guyana, Demerara R.</locality><collector>Jenman</collector><fieldNum>6916</fieldNum><collectionAndType>(holotype K, isotypes BRG, K, NY, P-JUSS, B probably not extant, photo COL, F, G, MO, NY, US)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Woody vine; 
+					<subChar class="stems">stem <subChar class="dimensions">15 x 10 mm</subChar> in cross section, 
+						<subChar class="bark">bark thick and fissured; </subChar>
+					</subChar>
+					<subChar class="branchlets">branchlets with <subChar class="hairs">fine, short and sparse trichomes</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole twining, <subChar class="length">about 2 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">chartaceous</subChar>, <subChar class="shape">elliptic</subChar>, <subChar class="dimensions">7-11 x 4-7 cm</subChar>, <subChar class="hairs">pubescent when young, becoming glabrescent except on the veins and <subChar class="colour">dull above</subChar>, beneath pubescent</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute to acuminate</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">deeply cordate</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">axillary</subChar>, hanging, <subChar class="inflorescence number">1-2(-3)</subChar> together; 
+					<subChar class="racemes">racemes <subChar class="length">2-4 cm long, occasionally up to 10 cm</subChar>, <subChar class="relative distance">about 1 cm between flowers</subChar>; </subChar>
+					<subChar class="bracts">bracts small, leafy, <subChar class="shape">linear to triangular</subChar>, <subChar class="dimensions">6-10 x 2-4 mm</subChar>; </subChar>
+					<subChar class="pedicels">pedicels <subChar class="length">± 5 mm long not longer than the ovary</subChar>, <subChar class="hairs">pubescent</subChar>. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="ovary">ovary <subChar class="length">± 7 mm long</subChar>, <subChar class="hairs">pubescent</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="hairs">pilose with multicellular hairs</subChar>, <subChar class="colour">dark purple with green veins outside</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="length">7 mm long</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="length">10-15 mm long</subChar>, <subChar class="shape">broadening into a flattened mouth</subChar>; </subChar>
+					<subChar class="lobes">lobe <subChar class="shape">triangular</subChar>, <subChar class="dimensions">about 15 mm long and wide</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute</subChar>, <subChar class="colour">inside yellow</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">(4-)5-6 cm long</subChar>, <subChar class="hairs">glabrous</subChar>, with a longitudinal ridge along the middle of each carpel, 
+					<subChar class="inner walls">inner walls <subChar class="texture">membranaceous</subChar>, comb-like; </subChar>
+					<subChar class="seeds">seeds <subChar class="shape">cordiform</subChar>, <subChar class="dimensions">5 x 5 mm</subChar>, surrounded by <subChar class="wings"><subChar class="wing number">2</subChar> parallel, <subChar class="texture">papyraceous</subChar> wings, <subChar class="apex">with <subChar class="shape">rounded</subChar> apex</subChar></subChar>, <subChar class="dimensions including wings">7-8 x 12-15 mm</subChar> including wings, 
+						<subChar class="base">base <subChar class="shape">cordate</subChar>.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="region">Guyana (NW region)</distributionLocality> and <distributionLocality class="country">French Guiana</distributionLocality> (GU: 7; FG: 1). </string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Mazaruni Station</locality>, <collector>Sandwith</collector> <fieldNum>1548</fieldNum> <collectionAndType>(K, NY, U)</collectionAndType></gathering>; <gathering><locality class="locality">Penal Settlement</locality>, <collector>Waby</collector> <fieldNum>8363</fieldNum> <collectionAndType>(BRG, NY)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Trois-Sauts</locality>, <collector>Grenand</collector> <fieldNum>656</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>
+				</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> The only differences with <fullName rank="species" freetextName="true">A. paramaribensis</fullName> are mentioned in the key (14). In the future, with more collections available showing the variability of this species, <fullName rank="species" freetextName="true">A. consimilis</fullName> might prove to be a synonym. In the treatment for Flora of Ecuador, Gonzalez prefers to place <fullName rank="species" freetextName="true">A. consimilis</fullName> in the synonymy of <fullName rank="species" freetextName="true">A. acutifolia Duchartre</fullName>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>3</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">cremersii</name>
+						<name class="author">Poncy</name>
+						<citation class="publication">
+							<refPart class="pubname">Bull. Mus. Hist. Nat. (Paris)</refPart>
+							<refPart class="series">ser. 4</refPart>
+							<refPart class="volume">10</refPart>
+							<refPart class="pages">339</refPart>
+							<refPart class="details">tab. 2</refPart>
+							<refPart class="year">1989</refPart>
+							<refPart class="notes">("1988")</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">French Guiana, Sommet Tabulaire</locality><collector>Cremers</collector><fieldNum>6455</fieldNum><collectionAndType>(holotype P, isotypes CAY, P, U, US)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Woody vine; 
+					<subChar class="stems">stem <subChar class="diameter">to 6-7 cm diam.</subChar>, 
+						<subChar class="bark">bark thick and fissured; </subChar>
+					</subChar>
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole twining, <subChar class="length">up to 6 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">chartaceous</subChar>, <subChar class="shape">widely triangular</subChar>, <subChar class="dimensions">9-14 x 7-14 cm</subChar>, <subChar class="hairs">glabrous, shining above, <subChar class="colour">greyish</subChar> and slightly tomentose beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute to acuminate</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">truncate to slightly cordate</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="inflorescences">Inflorescence a <subChar class="position">cauliflorous or axillary</subChar> raceme <subChar class="length">up to 10 cm long</subChar>, <subChar class="flowers">bearing <subChar class="flower number">10-15</subChar> flowers <subChar class="bracts">with very small (<subChar class="length">1 mm long)</subChar> petiolate bracts</subChar></subChar>; 
+					<subChar class="pedicels">pedicels thin, <subChar class="length">up to 5 cm long</subChar>. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="ovary">ovary <subChar class="length">8-10 mm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">globose</subChar>, <subChar class="diameter">3-5 mm diam.</subChar>, <subChar class="corona">with a small, <subChar class="texture">scaly</subChar> corona at base</subChar>; </subChar>
+					<subChar class="tube">tube 2-2,<subChar class="length">5 cm long</subChar>, <subChar class="colour">yellowish, with brown veins</subChar>; </subChar>
+					<subChar class="limbs">limb with <subChar class="upper lobes">superior lobe <subChar class="colour">brown</subChar>, <subChar class="shape">sublinear</subChar>, <subChar class="dimensions">3-3.5 x 0.2-0.4 cm</subChar></subChar>, 
+						<subChar class="lower lobes">inferior lobe <subChar class="dimensions">0.5-0.8 cm</subChar>, <subChar class="shape">gutter-shaped</subChar>, emarginate. </subChar>
+					</subChar>
+				</char>
+				<char class="infructescences">Infructescence <subChar class="length">up to 20 cm long</subChar> <subChar class="bracts">with <subChar class="length">4 mm long</subChar> bracts</subChar>; 
+					<subChar class="fruits">fruit <subChar class="hairs">glabrous</subChar>, <subChar class="length">3-5 cm long</subChar>; </subChar>
+					<subChar class="seeds">seeds <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">5 x 3 mm</subChar>, <subChar class="apex"><subChar class="shape">acuminate at apex</subChar></subChar>, <subChar class="base"><subChar class="shape">emarginate at base</subChar></subChar>.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> Known only from <distributionLocality class="region">central French Guiana</distributionLocality> (FG: 3).</string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Paul Isnard</locality>, <collector>Feuillet</collector> <fieldNum>308</fieldNum> <collectionAndType>(CAY, US)</collectionAndType></gathering>; <gathering><locality class="locality">Arataye R., Saut-Parare</locality>, <collector>Poncy</collector> <fieldNum>217</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>4</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">daemoninoxia</name>
+						<name class="author">Masters</name>
+						<citation class="publication">
+							<refPart class="pubname">Bull. Misc. Inform</refPart>
+							<refPart class="year">1906</refPart>
+							<refPart class="pages">6</refPart>
+							<refPart class="year">1906</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Guyana, Demerara</locality><collector>Jenman</collector><fieldNum>6915</fieldNum><collectionAndType>(holotype K, isotypes BRG, K, NY)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<figureRef ref="ID_327">Plate <num>3</num>. <figurePart>6-10</figurePart>.</figureRef>
+			<feature class="description">
+				<char class="habit">Woody vine; 
+					<subChar class="stems">stem <subChar class="diameter">2 cm diam.</subChar>, 
+						<subChar class="bark">bark deeply ridged, fissured; </subChar>
+					</subChar>
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole twining, <subChar class="length">up to 7 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">chartaceous</subChar>, <subChar class="shape">triangular</subChar>, <subChar class="dimensions">8-15 x 8-18 cm</subChar>, <subChar class="hairs">glabrous, shining above, glaucous, velvet-tomentose beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">obtuse or acute (acuminate in Gillespie 830)</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">straight to slightly cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="lateral veins">lateral veins marginal at base. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">cauliflorous, or rarely axillary (Fanshawe 1383)</subChar>; 
+					<subChar class="racemes">racemes contracted (<subChar class="length">up to 1 cm, mostly less than 5 mm)</subChar>, <subChar class="flowers">bearing <subChar class="flower number">few</subChar> flowers <subChar class="bracts">with minute <subChar class="texture">scaly</subChar> bracts</subChar></subChar>; </subChar>
+					<subChar class="pedicels">pedicels <subChar class="length">2-3.5 cm long</subChar>. </subChar>
+				</char>
+				<char class="flowers">Flowers (poorly known): 
+					<subChar class="ovary">ovary <subChar class="length">1-1.5 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="hairs">tomentose outside when young</subChar>, <subChar class="colour">pale brownish green with darker veins</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">2 x 1.3 cm</subChar>; </subChar>
+					<subChar class="tube">tube short, <subChar class="shape">funnel-shaped</subChar>; </subChar>
+					<subChar class="upper lobes">superior lobe <subChar class="shape">ovate</subChar>, wider than long, <subChar class="dimensions">3 x 5-6 cm</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">truncate and mucronate</subChar>, <subChar class="texture">inside verrucose</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">7-10 cm long</subChar>, <subChar class="texture">rough</subChar>, <subChar class="hairs">glabrous</subChar>, midrib of carpels thickened, with a median groove, 
+					<subChar class="outer walls">external wall <subChar class="texture">thick, woody</subChar>; </subChar>
+					<subChar class="seeds">seeds <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">5 x 2.5 mm</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">rounded</subChar>, </subChar>
+						<subChar class="base">base emarginate, <subChar class="funicles">with the funicle <subChar class="shape">slightly winged</subChar>, longitudinally protruding</subChar>.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> Only known from <distributionLocality class="country">Guyana</distributionLocality> (GU: 4).</string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><collector>Jenman</collector> <fieldNum>6543</fieldNum> <collectionAndType>(BRG)</collectionAndType></gathering>; <gathering><locality class="locality">Mazaruni Station</locality>, <collector>Fanshawe</collector> <fieldNum>1383</fieldNum> = <alternativeCollector>FD</alternativeCollector> <alternativeFieldNum>4119</alternativeFieldNum> <collectionAndType>(K, NY)</collectionAndType></gathering>; <gathering><locality class="locality">Kato</locality>, <collector>Gillespie</collector> <fieldNum>830</fieldNum> <collectionAndType>(BRG, P, US)</collectionAndType></gathering>.
+					</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular names:</subHeading><vernacularNames>
+					<subHeading>Guyana:</subHeading>
+					<vernacularName><name class="vernacular">boehari</name>, <name class="vernacular">boohiari</name>, <name class="vernacular">boyarri</name> (<localLanguage>Arawak</localLanguage>), <name class="vernacular">devildoer</name> (<localLanguage>Creole</localLanguage>), <name class="vernacular">pauisima</name> (<localLanguage>Arawak</localLanguage>)</vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>5</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">didyma</name>
+						<name class="author">S. Moore</name>
+						<citation class="publication">
+							<refPart class="pubname">J. Bot.</refPart>
+							<refPart class="volume">53</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">7</refPart>
+							<refPart class="year">1915</refPart>
+						</citation>
+						<citation class="usage">
+							<refPart class="pubname">J. Bot.</refPart>
+							<refPart class="volume">53</refPart>
+							<refPart class="part">2</refPart>
+							<refPart class="details">tab. 535, fig. 1</refPart>
+							<refPart class="year">1915</refPart>
+						</citation>
+						<citation class="usage">
+							<refPart class="author">Hoehne</refPart>
+							<refPart class="pubname">Fl. Brasflica</refPart>
+							<refPart class="volume">15</refPart>
+							<refPart class="part">2</refPart>
+							<refPart class="details">tab. 101</refPart>
+							<refPart class="year">1942</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="state">Brazil, Para</locality>, <collector>Moss</collector> <fieldNum>s.n. in 1912</fieldNum><collectionAndType>(holotype probably at BM (not seen), isotype US)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">rodriguesii</name>
+						<name class="author">Hoehne</name>
+						<name class="notes">(as "rodriguessi")</name>
+						<citation class="publication">
+							<refPart class="pubname">Mem. Inst. Oswaldo Cruz</refPart>
+							<refPart class="volume">20</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">76</refPart>
+							<refPart class="details">(140), tab. 72</refPart>
+							<refPart class="year">1927</refPart>
+						</citation>
+					</nom>
+					<specimenType typeStatus="lectotype"><gathering>Lectotype here designated: <locality class="country">Bolivia</locality><collector>Ule</collector><fieldNum>9338</fieldNum><collectionAndType>(holotype MG)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Vine; 
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>, hollow; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves <subChar class="hairs">glabrous</subChar>: 
+					<subChar class="petiole">petiole twining, <subChar class="length">5-8 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">membranous</subChar>, <subChar class="shape">triangular, widely cordiform</subChar>, <subChar class="dimensions">8-25 x 6-17 cm</subChar>, glaucous beneath, 
+						<subChar class="apex">apex <subChar class="shape">triangular, acute to acuminate</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">deeply cordate with acute sinus</subChar>, </subChar>
+						<subChar class="margins">margin <subChar class="margin type">undulate</subChar>; </subChar>
+					</subChar>
+					<subChar class="lateral veins">lateral veins marginal at base. </subChar>
+				</char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel thin, <subChar class="length">5-8 cm long (up to 11 cm in Black 47-2159, Para, Brazil)</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">± 2 cm long (up to 6 cm in Black 47-2159)</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">yellow green outside</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">3-4 x 5-6 cm</subChar>, <subChar class="colour">black spotted</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">cylindric</subChar>, <subChar class="dimensions">about 3 x 1-1.5 cm</subChar>; </subChar>
+					<subChar class="upper lobes">superior lobe with margin <subChar class="colour">usually shortly violet-fimbriate, purple veined</subChar>, <subChar class="length">4-5 cm long</subChar>, 2-fid, <subChar class="lobules">each lobule <subChar class="dimensions">about 2.5 x 1 cm</subChar></subChar>, 
+						<subChar class="apex">apex <subChar class="shape">rounded</subChar>, </subChar>
+						<subChar class="lower lobes">inferior lobe <subChar class="length">1.5-2 cm long</subChar>, </subChar>
+						<subChar class="throat">throat <subChar class="colour">yellow</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit unknown.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Colombia</distributionLocality>, <distributionLocality class="country">Venezuela</distributionLocality>, <distributionLocality class="country">French Guiana</distributionLocality>, <distributionLocality class="country">Peru</distributionLocality>, <distributionLocality class="region">Amazonian Brazil</distributionLocality> (+1 collection from <distributionLocality class="region">Espirito Santo</distributionLocality>), <distributionLocality class="country">Bolivia</distributionLocality>; 10 collections studied (FG: 4).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in forests on slopes.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Mts. de Kaw</locality>, <collector>Skog &amp; Feuillet</collector> <fieldNum>5675</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>; <gathering><locality class="locality">Atachi Bacca</locality>, <collector>de Granville et al.</collector> <fieldNum>10947</fieldNum> <collectionAndType>(CAY, P, US)</collectionAndType></gathering>; <gathering><locality class="locality">Saiil</locality>, <collector>Cremers</collector> <fieldNum>6069</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> In spite of its large, odd looking and rather showy flowers, and of its large distribution area, this species has been very poorly collected, probably because the axillary flowers are inaccessible on this large vine.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>6</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">flava</name>
+						<name class="author">Poncy</name>
+						<citation class="publication">
+							<refPart class="pubname">Bull. Mus. Hist. Nat. (Paris)</refPart>
+							<refPart class="series">ser. 4</refPart>
+							<refPart class="volume">10</refPart>
+							<refPart class="pages">341</refPart>
+							<refPart class="details">tab. 3, fig. 1</refPart>
+							<refPart class="year">1989</refPart>
+							<refPart class="notes">("1988")</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">French Guiana, Sinnamary R., Petit Saut</locality><collector>Prevost</collector><fieldNum>770</fieldNum><collectionAndType>(holotype P, isotypes CAY, P)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Woody vine; 
+					<subChar class="stems">stem <subChar class="diameter">0.5-0.7 cm diam.</subChar>, <subChar class="bark">with a relatively thin bark</subChar>; </subChar>
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole thin, <subChar class="length">3-5 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="shape">triangular</subChar>, <subChar class="dimensions">11-17 x 9-12 cm</subChar>, <subChar class="hairs">glabrous, shining above, <subChar class="colour">greyish</subChar>, pubescent beneath</subChar>, 
+						<subChar class="apex">apex long <subChar class="shape">acuminate</subChar>, </subChar>
+						<subChar class="acumen">acumen <subChar class="length">2-2.5 cm long</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">straight to slightly cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="lateral veins">lateral veins submarginal at base. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">axillary to cauline</subChar>, <subChar class="racemes">racemes <subChar class="shape">thin, long</subChar> (<subChar class="length">up to 25 cm</subChar>), with a long peduncle, <subChar class="flowers">bearing <subChar class="flower number">15-20</subChar> flowers <subChar class="bracts">with minute (<subChar class="length">&lt; 1 mm long)</subChar> petiolate bracts</subChar></subChar></subChar>; 
+					<subChar class="pedicels">pedicels very thin, <subChar class="length">3 cm long</subChar>. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="ovary">ovary <subChar class="length">1 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">entirely yellow</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">globose</subChar>, <subChar class="diameter">about 0.5 cm in diam.</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">slightly funnel-shaped</subChar>, <subChar class="length">1.5 cm long</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">funnel-shaped</subChar>, 
+						<subChar class="lower lobes">inferior lobe <subChar class="shape">widely elliptic</subChar>, <subChar class="dimensions">2 x 3-3.5 cm</subChar>, </subChar>
+						<subChar class="upper lobes">superior lobe <subChar class="shape">linear</subChar>, twisted, <subChar class="length">about 4 cm long</subChar>, <subChar class="hairs">shortly papillose inside</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit unknown.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> Known only from the type collection from lowland forest in <distributionLocality class="region">northern French Guiana</distributionLocality>.</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat><altitude>lowland</altitude> forest</habitat></string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>7</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">guianensis</name>
+						<name class="author">Poncy</name>
+						<citation class="publication">
+							<refPart class="pubname">Bull. Mus. Hist. Nat. (Paris)</refPart>
+							<refPart class="series">ser. 4</refPart>
+							<refPart class="volume">10</refPart>
+							<refPart class="pages">343</refPart>
+							<refPart class="details">tab. 3, fig. 2</refPart>
+							<refPart class="year">1989</refPart>
+							<refPart class="notes">("1988")</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">French Guiana, Mana R., Saut Sabbat</locality><collector>de Granville</collector><fieldNum>4530</fieldNum><collectionAndType>(holotype P, isotype CAY)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Herbaceous, <subChar class="colour">white</subChar> <subChar class="hairs">pubescent</subChar> vine; 
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole thin, <subChar class="length">3-6 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="shape">ovate</subChar>, <subChar class="dimensions">8-11(-12) x 5-7(-9) cm</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">deeply cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="lateral veins">lateral veins marginal at base. </subChar>
+				</char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel thin, <subChar class="length">5-8 cm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">1-1.5 cm long</subChar>, <subChar class="hairs">more densely pubescent than the pedicel</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">wine-red, yellowish green veined outside</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">pyriform</subChar>, <subChar class="dimensions">1.7 x 1.7 cm</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">cylindric</subChar>, <subChar class="length">1.5-2 cm long</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">funnel-shaped, opening narrowed in the middle</subChar>, 
+						<subChar class="upper lobes">superior lobe vertical, <subChar class="shape">triangular</subChar>, <subChar class="width">2-3 cm wide at base</subChar>, </subChar>
+						<subChar class="apex">apex <subChar class="shape">shortly acuminate</subChar>, <subChar class="colour">inside white, with dark violet spots distally</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit unknown.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> Known from the <distributionLocality class="region">coastal area of E Suriname</distributionLocality> and <distributionLocality class="region">W French Guiana</distributionLocality>; (SU: 2; FG: 5).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in open vegetation at the edge of the forest (FG).</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="locality">Brownsberg</locality>, <collector>Zaandam BW</collector> <fieldNum>6632</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>; <gathering><locality class="locality">Lely Mts.</locality>, <collector> Lindeman, Stoffers et al.</collector> <fieldNum>617</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">between Organabo and Saut Sabbat</locality>, <collector>Feuillet</collector> <fieldNum>2330</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>; <gathering><locality class="region">near Saut Sabbat</locality>, <collector>Sastre &amp; Bell</collector> <fieldNum>8031</fieldNum> <collectionAndType>(CAY, P, US)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>8</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">hians</name>
+						<name class="author">Willdenow</name>
+						<citation class="publication">
+							<refPart class="pubname">Mem. Soc. Imp. Naturalistes Moscou</refPart>
+							<refPart class="volume">2</refPart>
+							<refPart class="pages">100</refPart>
+							<refPart class="year">1809</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Howardia</name>
+						<name class="species">hians</name>
+						<name class="paraut">Willdenow</name>
+						<name class="author">Klotzsch</name>
+						<citation class="publication">
+							<refPart class="pubname">Monatsber. Konigl. Preuss. Akad. Wiss. Berlin</refPart>
+							<refPart class="volume">1859</refPart>
+							<refPart class="pages">607</refPart>
+							<refPart class="year">1860</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="country">Venezuela</locality><collector>Bredemeyer</collector><fieldNum>27</fieldNum><collectionAndType>(holotype B-W)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Vine; 
+					<subChar class="branchlets">branchlets hollow, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules <subChar class="shape">foliaceous, cordiform</subChar>, <subChar class="length">up to 2.5 cm long</subChar>. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole thin, <subChar class="length">3-5 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="shape">round, cordiform</subChar>, <subChar class="dimensions">6-10 x 6-11 cm</subChar>, <subChar class="hairs">glabrous</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">obtuse to rounded</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="lateral veins">lateral veins marginal at base. </subChar>
+				</char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel twining, <subChar class="length">7-8 cm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">3-4 cm long</subChar>, <subChar class="shape">bending at a right angle from the pedicel</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">whitish outside, purple-veined</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle obpyriform, <subChar class="dimensions">2-6 x 1.5-4 cm</subChar>, <subChar class="colour">its very base purple</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">cylindric</subChar>, <subChar class="length">up to 1.5 cm long</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="lobe number">2-lobed</subChar>, <subChar class="shape">rounded and hanging</subChar>, <subChar class="dimensions">4-6 x 5-7 cm</subChar>, <subChar class="colour">pale brown</subChar>, 
+						<subChar class="upper lobes">superior lobe <subChar class="shape">paddle-shaped, linear and upright at base</subChar>, <subChar class="length">1.5-3 cm long</subChar>, </subChar>
+						<subChar class="lower lobes">inferior lobe <subChar class="shape">linear</subChar>, <subChar class="dimensions">7-9 (up to 15) x 0.5-1.5 cm</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">8 cm long</subChar>, <subChar class="hairs">glabrous</subChar>, <subChar class="texture">chartaceous</subChar>, carpels keeled along midrib; 
+					<subChar class="seeds">seeds <subChar class="shape">triangular, <subChar class="dimensions">3-4 mm long and wide</subChar>, winged, <subChar class="dimensions including wings">13-16 x 7-10 mm</subChar> including wing, slightly emarginate at base, very thin</subChar>.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Venezuela</distributionLocality>, <distributionLocality class="country">Guyana</distributionLocality>, <distributionLocality class="country">Brazil</distributionLocality>; 17 collections studied (GU: 5).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in secondary forest and shrubby vegetation.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Kato</locality>, <collector>Gillespie</collector> <fieldNum>869</fieldNum> <collectionAndType>(P, US)</collectionAndType></gathering>; <gathering><locality class="locality">Barima R.</locality>, <collector>Jenman</collector> <fieldNum>6934</fieldNum> <collectionAndType>(BRG, K, NY)</collectionAndType></gathering>; <gathering><collector>Im Thurn</collector> <fieldNum>s.n.</fieldNum> <collectionAndType>(K)</collectionAndType></gathering>; <gathering><collector>Rob. Schomburgk</collector> <fieldNum>I add. ser. 144 S</fieldNum> <collectionAndType>(K)</collectionAndType></gathering>; <gathering><locality class="unknown">no loc.</locality>, <collector>Jenman</collector> <fieldNum>7227</fieldNum> <collectionAndType>(BRG)</collectionAndType>?</gathering>
+				</gatheringGroup>
+				</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>9</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">iquitensis</name>
+						<name class="author">O.C. Schmidt</name>
+						<citation class="publication">
+							<refPart class="pubname">Notizbl. Bot. Gart. Berlin-Dahlem</refPart>
+							<refPart class="volume">10</refPart>
+							<refPart class="pages">196</refPart>
+							<refPart class="year">1927</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Peru, Iquitos</locality><collector>Tessmann</collector><fieldNum>5120</fieldNum><collectionAndType>(holotype B, probably destroyed, photo COL, F, G, GH, MO, NY)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">macrophylla</name>
+						<name class="author">Duchartre</name>
+						<citation class="publication">
+							<refPart class="pubname">Ann. Sci. Nat.</refPart>
+							<refPart class="series">ser. 4</refPart>
+							<refPart class="volume">2</refPart>
+							<refPart class="pages">68</refPart>
+							<refPart class="year">1854</refPart>
+							<refPart class="homonyms">non Lamarck 1783.</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus abbreviation">A.</name>
+						<name class="species">magnifolia</name>
+						<name class="author">Briquet</name>
+						<name class="status">nom. inval.: ms. on the type.</name>
+					</nom>
+					<specimenType><gathering>Type: <locality class="region">French Guiana, Cayenne</locality>, <collector>Leprieur</collector><fieldNum>s.n. in 1839</fieldNum><collectionAndType>(holotype G-DEL, photo F, US)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Woody vine; 
+					<subChar class="stems">stem to <subChar class="diameter">ca. 1 cm in diam.</subChar>, 
+						<subChar class="bark">bark relatively thin, irregularly thickened; </subChar>
+					</subChar>
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole twining, <subChar class="length">3-6 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">chartaceous</subChar>, <subChar class="shape">elongate elliptic with strongly curved to parallel margins</subChar>, <subChar class="dimensions">8-17(-20) x 5-7 cm</subChar>, <subChar class="hairs">glabrous above, barely pubescent beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">usually acuminate</subChar> (<subChar class="length">5-10 mm long</subChar>), </subChar>
+						<subChar class="base">base <subChar class="shape">deeply cordate to auriculate</subChar>; </subChar>
+					</subChar>
+					<subChar class="lateral veins">lateral veins usually marginal at very base. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">cauliflorous</subChar>; 
+					<subChar class="racemes">1-2 racemes, <subChar class="length">2-6 cm long</subChar>, bearing commonly <subChar class="flower number">10 flowers or many more</subChar>; </subChar>
+					<subChar class="bracts">bracts small, <subChar class="texture">scaly</subChar>; </subChar>
+					<subChar class="pedicels">pedicels thin, <subChar class="length">3.5-5 cm long</subChar> (in the Guianas, shorter in the type specimen). </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="ovary">ovary <subChar class="length">1-1.5 cm long</subChar>, thin, <subChar class="hairs">glabrous</subChar>, <subChar class="colour">pink</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="hairs">glabrous</subChar>, <subChar class="colour">purple brown outside</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">7 x 4.5 mm</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">funnel-shaped</subChar>, short, <subChar class="length">usually less than 1 cm long</subChar>; </subChar>
+					<subChar class="limbs">limb with <subChar class="lobes"><subChar class="lobe number">2</subChar> <subChar class="position">lateral</subChar> lobes which are <subChar class="shape">more or less triangular and oblique downward</subChar>, variable in size</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">round</subChar>, <subChar class="colour">yellow with brown markings</subChar>, <subChar class="lower margins">lower margin <subChar class="texture">fleshy</subChar> fimbriate</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">6-8 cm long</subChar>, <subChar class="hairs">glabrous</subChar>; 
+					<subChar class="seeds">seeds <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">5 x 3 mm</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute</subChar>, </subChar>
+						<subChar class="base">base emarginate.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="region">Amazonian regions of Colombia</distributionLocality>, <distributionLocality class="country">Peru</distributionLocality> and <distributionLocality class="country">Brazil</distributionLocality>, and the <distributionLocality class="region">Guianas</distributionLocality>; 18 collections studied (GU: 1; SU: 1; FG: 8).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in primary and secondary forest.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Pakaraima Mts.</locality>, <collector>Maas et al.</collector> <fieldNum>4184</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="locality">Maroni R.</locality>, <collector>Hugh-Jones</collector> <fieldNum>32</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Mt. Nouragues</locality>, <collector>Prevost</collector> <fieldNum>2184</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>; <gathering><locality class="locality">Piste de St. Elie</locality>, <collector>Feuillet</collector> <fieldNum>2282</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>; <gathering><locality class="locality">Saiil</locality>, <collector>de Granville</collector> <fieldNum>928</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="uses">
+				<string><subHeading>Use:</subHeading> Sticks boiled for stomach ache. Vernacular name: Suriname: kwashi-bita.</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> The colour and structure of the perianth are constant, but the size and orientation of the lobes, and the size of the flowers are variable.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>10</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">leprieurii</name>
+						<name class="author">Duchartre</name>
+						<name class="notes">(as "leprieurei")</name>
+						<citation class="publication">
+							<refPart class="editors">De Candolle</refPart>
+							<refPart class="pubname">Prodr.</refPart>
+							<refPart class="volume">15</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">451</refPart>
+							<refPart class="year">1864</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">rubromarginata</name>
+						<name class="author">Fischer</name>
+						<name class="status">nom. nud., on the holotype and the LE isotype.</name>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">French Guiana, Cayenne</locality><collector>Leprieur</collector><fieldNum>s.n.</fieldNum><collectionAndType>(holotype P, isotypes G-DEL, LE, photo F, NY, US)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">gabrielis</name>
+						<name class="author">Duchartre ex Briquet</name>
+						<citation class="publication">
+							<refPart class="pubname">Candollea</refPart>
+							<refPart class="volume">4</refPart>
+							<refPart class="pages">351</refPart>
+							<refPart class="year">1931</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="country">French Guiana</locality><collector>Gabriel</collector><fieldNum>s.n.</fieldNum><collectionAndType>(anno 1802) (holotype G-DEL, photo F, US, isotype F)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<figureRef ref="ID_325">Plate <num>1</num></figureRef>
+			<feature class="description">
+				<char class="habit">Sarmentose vine, <subChar class="rootstock">with <subChar class="texture">thick woody</subChar> rootstock</subChar>; 
+					<subChar class="branchlets">branchlets thin, <subChar class="hairs">hirsute</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole thin, <subChar class="hairs">more densely hirsute</subChar>, <subChar class="length">1.5-3 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">chartaceous</subChar>, <subChar class="shape">triangular, cordiform</subChar>, <subChar class="dimensions">6-12 x 3-6 cm</subChar>, <subChar class="hairs">glabrous above, finely pubescent beneath</subChar>, 
+						<subChar class="apex">apex variable in one plant, </subChar>
+						<subChar class="base">base <subChar class="shape">cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate, marginal at base. </subChar>
+				</char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel thin, <subChar class="hairs">pubescent like the petioles</subChar>, <subChar class="length">2-3.5 cm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="hairs">more pubescent than pedicel</subChar>, <subChar class="length">± 1 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">white</subChar>, <subChar class="hairs">pubescent</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="colour">whitish green</subChar>, <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">8-15 x 5-8 mm</subChar>, <subChar class="upper parts">upper part with an area of smaller, probably secreting cells</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="colour">dark purple</subChar>, straight, <subChar class="length">up to 1.5 cm</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">funnel-shaped</subChar>, 
+						<subChar class="upper lobes">superior lobe <subChar class="shape">triangular, gutter-shaped</subChar>, <subChar class="length">up to 2.5 cm long</subChar>, </subChar>
+						<subChar class="apex">apex <subChar class="shape">acute</subChar>, <subChar class="colour">violet</subChar>, marginally reflexed, <subChar class="texture">fleshy fimbriate inside</subChar>, </subChar>
+						<subChar class="throat">throat <subChar class="colour">pale yellow</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">about 4 cm long</subChar>, <subChar class="hairs">sometimes with sparse hairs</subChar>, <subChar class="rostrum">rostrum <subChar class="length">up to 1 cm</subChar></subChar>; 
+					<subChar class="seeds">seeds <subChar class="shape">triangular</subChar>, <subChar class="dimensions">4 x 4 mm</subChar>, 
+						<subChar class="funicles">funicle <subChar class="shape">slightly winged, longitudinally protruding</subChar>.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Venezuela</distributionLocality> (1 coli., Hahn 4915 (P, US) from <distributionLocality class="state">Portuguesa</distributionLocality>), <distributionLocality class="country">Guyana</distributionLocality>, <distributionLocality class="country">French Guiana</distributionLocality>; 17 collections studied (GU: 1; FG: 15).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>rather common weed between Cayenne and Saint-Georges (FG).</habitat></string>
+			</feature>
+			<figure id="ID_325" type="lineart" url="fotg-a-20-325.gif">Plate <num>1</num>. <figureLegend><fullName rank="species" freetextName="true">Aristolochia leprieurii Duchartre</fullName>: 1, stem with leaves and flower; 2, detail of venation; 3, flower: frontal view of perianth limb; 4, detail of the area with secreting cells on the upper utricle; 4', detail of hairs on erect lobe of perianth; 5, gynostemium; 6, fruit; 7-8, seed, both faces (1-5, <gathering><collector>Poncy</collector> <fieldNum>2</fieldNum></gathering>; 6-8, <gathering><collector>Poncy</collector> <fieldNum>3</fieldNum></gathering>).</figureLegend></figure>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Essequibo R., near mouth of Blackwater Cr.</locality>, <collector>A.C. Smith</collector> <fieldNum>2831</fieldNum> <collectionAndType>(P)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Matoury</locality>, <collector>Feuillet</collector> <fieldNum>1373</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>; <gathering><collector>de Granville</collector> <fieldNum>682</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>.
+					</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="uses">
+				<string><subHeading>Use:</subHeading> Entire plant boiled and used externally to reduce fever (from label, A.C. Smith 2831). Medicinally used by the Wayampi people against diarrhoea, also known by the Palikour people and the Creole population, according to Grenand et al. (1987) who treated this species together with <fullName rank="species" freetextName="true">Aristolochia mossii S. Moore</fullName>.</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular names:</subHeading><vernacularNames>
+					<subHeading>Guyana:</subHeading>
+					<vernacularName><name class="vernacular">mametala</name> (<localLanguage>Waiwai</localLanguage>)</vernacularName>
+					<subHeading>French Guiana:</subHeading>
+					<vernacularName><name class="vernacular">bukuti</name> (<localLanguage>Palikour</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">Iiane amere</name> (<localLanguage>Creole</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">ulu?ay</name>, <name class="vernacular">uluwu?ay</name> (<localLanguage>Wayampi</localLanguage>)</vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>11</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">mossii</name>
+						<name class="author">S. Moore</name>
+						<citation class="publication">
+							<refPart class="pubname">J. Bot.</refPart>
+							<refPart class="volume">53</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">7</refPart>
+							<refPart class="year">1915</refPart>
+						</citation>
+						<citation class="usage">
+							<refPart class="pubname">J. Bot.</refPart>
+							<refPart class="volume">53</refPart>
+							<refPart class="part">2</refPart>
+							<refPart class="details">tab. 535, fig. 2</refPart>
+							<refPart class="year">1915</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="state">Brazil, Para</locality><collector>Moss</collector><fieldNum>86</fieldNum><collectionAndType>(holotype BM? (not seen), isotype US)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">dubia</name>
+						<name class="author">Hoehne</name>
+						<citation class="publication">
+							<refPart class="pubname">Mem. Inst. Oswaldo Cruz</refPart>
+							<refPart class="volume">20</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">111</refPart>
+							<refPart class="details">(175), tab. 103</refPart>
+							<refPart class="year">1927</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="state">Brazil, Para</locality><collector>Moss MG</collector><fieldNum>15482</fieldNum><collectionAndType>(holotype MG)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Vine, stem <subChar class="hairs">glabrous</subChar>; 
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole <subChar class="length">2.5-6 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">papyraceous when dry</subChar>, <subChar class="shape">triangular-oblong</subChar>, <subChar class="dimensions">6-15 x 3-6 cm</subChar>, <subChar class="hairs">glabrous</subChar>, <subChar class="colour">shining above, paler beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">deeply cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate. </subChar>
+				</char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel <subChar class="hairs">glabrous</subChar>, <subChar class="length">5-7 cm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">2.5-4 cm long</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">yellow outside</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">obovoid</subChar>, <subChar class="dimensions">3 x 1.5 cm</subChar>, <subChar class="colour">veins and dots dark purple outside</subChar>; </subChar>
+					<subChar class="tube">tube large, <subChar class="dimensions">3 x 1 cm</subChar>, with less <subChar class="colour">purple</subChar>; </subChar>
+					<subChar class="lobes">lobe unique, <subChar class="shape">superior, more or less rectangular and small, <subChar class="dimensions">1 x 1 cm</subChar>, partly closing the tube</subChar>, <subChar class="colour">with dark purple margin</subChar>, 
+						<subChar class="apex">apex emarginate, <subChar class="colour">inside dark purple near apex and yellow at base</subChar>, </subChar>
+						<subChar class="throat">throat <subChar class="colour">yellow</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="dimensions">6-7 x 2 cm</subChar>, <subChar class="hairs">glabrous</subChar>; 
+					<subChar class="seeds">seeds <subChar class="shape">cordiform</subChar>, <subChar class="dimensions">4 x 4 mm</subChar>, 
+						<subChar class="wings">wing <subChar class="shape">obovate</subChar>, <subChar class="dimensions including wings">9-11 x 8-10 mm</subChar> including wing.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Venezuela</distributionLocality>, <distributionLocality class="country">French Guiana</distributionLocality>, <distributionLocality class="country">Brazil</distributionLocality> (<distributionLocality class="state">Para</distributionLocality>); 9 collections studied (FG: 6).</string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><collector>Richard</collector> <fieldNum>s.n.</fieldNum> <collectionAndType>(P)</collectionAndType></gathering>; <gathering><locality class="locality">Trois Sauts</locality>, <collector>Grenand</collector> <fieldNum>260</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>; <gathering><fieldNum>565</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>; <gathering><collector>Lescure</collector> <fieldNum>374</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>; <gathering><collector>Prevost &amp; Grenand</collector> <fieldNum>1491</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>; <gathering><fieldNum>1941</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="uses">
+				<string><subHeading>Use:</subHeading> See use of <fullName rank="species" freetextName="true">Aristolochia leprieurii Duchartre</fullName>.</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular name:</subHeading><vernacularNames>
+					<subHeading>French Guiana:</subHeading>
+					<vernacularName><name class="vernacular">uluwu?ay</name> (<localLanguage>Wayampi</localLanguage>)</vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>12</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">paramaribensis</name>
+						<name class="author">Duchartre</name>
+						<citation class="publication">
+							<refPart class="editors">De Candolle</refPart>
+							<refPart class="pubname">Prodr.</refPart>
+							<refPart class="volume">15</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">496</refPart>
+							<refPart class="year">1864</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Suriname, near Paramaribo</locality><collector>Wullschlagel</collector><fieldNum>452</fieldNum><collectionAndType>(holotype in herb. Mart.)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<figureRef ref="ID_326">Plate <num>2</num></figureRef>
+			<feature class="description">
+				<char class="habit">Vine, <subChar class="hairs">glabrescent, pubescent when young</subChar>; 
+					<subChar class="branchlets">branchlets <subChar class="shape">angular to obtuse-angled</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole <subChar class="length">1-2 cm</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">coriaceous</subChar>, <subChar class="shape">elliptic</subChar>, <subChar class="dimensions">8-15 x 3-8 cm</subChar>, <subChar class="colour">shining above</subChar>, 
+						<subChar class="apex">apex emarginate or <subChar class="shape">round or acute to acuminate</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">narrowly cordate</subChar>, sometimes with overlapping basal lobes; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate, 
+						<subChar class="secondary veins">secondary veins parallel. </subChar>
+					</subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">axillary</subChar>, <subChar class="length">5-6 cm long</subChar>, <subChar class="hairs">tomentose</subChar>, <subChar class="flowers">bearing <subChar class="flower number">7-10</subChar> flowers</subChar>; 
+					<subChar class="bracts">bracts <subChar class="shape">linear</subChar>, <subChar class="length">3-5 mm long</subChar>; </subChar>
+					<subChar class="pedicels">pedicels minute to absent. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="ovary">ovary <subChar class="length">up to 1 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">brownish green outside</subChar>, <subChar class="hairs">tomentose when young, becoming sparsely tomentose along veins</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">1 x 0.5-0.7 cm</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="length">about 1 cm</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">funnel-shaped</subChar>, <subChar class="dimensions">3 x 1.5 cm</subChar>, 
+						<subChar class="upper lobes">superior lobe <subChar class="shape">triangular</subChar>, <subChar class="dimensions">1-1.5 cm</subChar>, </subChar>
+						<subChar class="apex">apex <subChar class="shape">acute with <subChar class="position">terminal</subChar> filiform appendage</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">6-7 cm long</subChar>, <subChar class="hairs">glabrous</subChar>, 
+					<subChar class="inner walls">inner walls <subChar class="texture">membranaceous</subChar>, comb-like; </subChar>
+					<subChar class="seeds">seeds <subChar class="shape">cordiform, <subChar class="dimensions">5 x 5 mm</subChar>, <subChar class="wings">bearing <subChar class="wing number">2</subChar> parallel, rectangular</subChar>, <subChar class="texture">papyraceous</subChar> wings</subChar>, <subChar class="dimensions including wings">ca. 10 x 15 mm</subChar> including wings, 
+						<subChar class="base">base <subChar class="shape">truncate</subChar>.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> The <distributionLocality class="region">Guianas</distributionLocality>, <distributionLocality class="country">Brazil</distributionLocality>, <distributionLocality class="country">Peru</distributionLocality>; 10 collections studied (GU: 1; SU: 5; FG: 4).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in secondary vegetation in the coastal area.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Essequibo Islands</locality>, <collector>Gillespie</collector> <fieldNum>1018</fieldNum> <collectionAndType>(BRG, P, US)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="region">near Paramaribo</locality>, <collector>Heyde</collector> <fieldNum>40</fieldNum> <collectionAndType>(P, U)</collectionAndType></gathering>; <gathering><locality class="locality">Albina</locality>, <collector>Went</collector> <fieldNum>425</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">St. Jean du Maroni</locality>, <collector>Prevost</collector> <fieldNum>621</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>; <gathering><locality class="locality">Maroni</locality>, <collector>Melinon</collector> <fieldNum>381</fieldNum> <collectionAndType>(P)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> An anonymous specimen is annotated <fullName rank="species" freetextName="true">Aristolochia guyanensis</fullName>. This name has not been published. The specimen (Anonymous 44) belongs to <fullName rank="species" freetextName="true">Aristolochia paramaribensis Duchartre</fullName> and not to <fullName rank="species" freetextName="true">Aristolochia guianensis Poncy</fullName>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>13</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">peltatodeltoidea</name>
+						<name class="author">Hoehne</name>
+						<citation class="publication">
+							<refPart class="pubname">Fl. Brasilica</refPart>
+							<refPart class="volume">15</refPart>
+							<refPart class="issue">2</refPart>
+							<refPart class="part">6</refPart>
+							<refPart class="pages">102</refPart>
+							<refPart class="details">tab. 75</refPart>
+							<refPart class="year">1942</refPart>
+							<refPart class="notes">(as "peltato-deltoidea").</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Guyana, Kanuku Mts.</locality><collector>A.C. Smith</collector><fieldNum>3385</fieldNum><collectionAndType>(holotype US, isotypes F, G, K, MO, NY, P, U)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Glabrous vine <subChar class="rootstock">with <subChar class="texture">woody</subChar> rootstock</subChar>; 
+					<subChar class="branchlets">branchlets <subChar class="shape">sarmentose, thin</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole thin, <subChar class="length">1-2(-3) cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="shape">triangular</subChar>, <subChar class="dimensions">3-7(-10) x 1.5-3(-5.5) cm</subChar>, <subChar class="hairs"><subChar class="colour">greyish</subChar> and pubescent beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">triangular acute</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">straight to slightly cordate</subChar>, <subChar class="dimensions">1-2 mm</subChar> peltate; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate, tertiary veins forming an inconspicuous net. </subChar>
+				</char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary, <subChar class="racemes">or thin racemes <subChar class="length">up to 2 cm long</subChar>, <subChar class="flowers">bearing up to <subChar class="flower number">6</subChar> flowers <subChar class="bracts">with small <subChar class="shape">linear</subChar> bracts</subChar></subChar></subChar>; 
+					<subChar class="pedicels">pedicels very thin, <subChar class="length">5-8 mm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">3-5 mm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">pale green</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">subglobose to ovoid</subChar>, <subChar class="diameter">4-6 mm in diam.</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">cylindric</subChar>, <subChar class="length">3 mm</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">funnel-shaped</subChar>, 
+						<subChar class="upper lobes">superior lobe large, <subChar class="colour">brown</subChar>, <subChar class="shape">elliptic</subChar>, <subChar class="dimensions">1.5 x 1 cm</subChar>, </subChar>
+						<subChar class="apex">apex <subChar class="shape">round</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit unknown.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> Only known from <distributionLocality class="country">Guyana</distributionLocality>, <distributionLocality class="locality">Kanuku Mts.</distributionLocality>, on rock boulders (GU: 3).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>on rock boulders</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">S of Kanuku Mts.</locality>, <collector>Maas et al.</collector> <fieldNum>4058</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>; <gathering><locality class="locality">Kanuku Mts., Nappi Cr.</locality>, <collector>Jansen-Jacobs et al.</collector> <fieldNum>705</fieldNum> <collectionAndType>(BRG, P, U)</collectionAndType></gathering>; <gathering><locality class="locality">Kanuku Mts., foothills at Moco Moco R., rocky outcrop</locality>, <collector>Jansen-Jacobs et al.</collector> <fieldNum>4592</fieldNum> <collectionAndType>(BRG, P, U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+			<figure id="ID_326" type="lineart" url="fotg-a-20-326.gif">Plate <num>2</num>. <figureLegend><fullName rank="species" freetextName="true">Aristolochia paramaribensis Duchartre</fullName>: 1, leaves and inflorescence; 2, detail of reticulate venation; 3, upper perianth; 4, gynostemium in the utricle; 5, fruit; 6, transverse section of young fruit; 7-8, seed, both faces (l-4, <gathering><collector>Prevost</collector><fieldNum>621</fieldNum></gathering>; 5-8, <gathering><collector>Aubreville</collector><fieldNum>89</fieldNum></gathering>).</figureLegend></figure>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>14</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">rugosa</name>
+						<name class="author">Lamarck</name>
+						<citation class="publication">
+							<refPart class="pubname">Encycl.</refPart>
+							<refPart class="volume">1</refPart>
+							<refPart class="pages">252</refPart>
+							<refPart class="year">1783</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">obtusata</name>
+						<name class="author">Swartz</name>
+						<citation class="publication">
+							<refPart class="pubname">Prod. Veg. Ind. Occ.</refPart>
+							<refPart class="pages">126</refPart>
+							<refPart class="year">1788</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Howardia</name>
+						<name class="species">obtusata</name>
+						<name class="paraut">Swartz</name>
+						<name class="author">Klotzsch</name>
+						<citation class="publication">
+							<refPart class="pubname">Monatsber. Konigl. Preuss. Akad. Wiss. Berlin</refPart>
+							<refPart class="volume">1859</refPart>
+							<refPart class="pages">612</refPart>
+							<refPart class="year">1859</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="region">West Indies</locality><gatheringNotes>, see Plumier ic. 27, t. 33.</gatheringNotes></gathering></specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">barbata</name>
+						<name class="author">Jacquin</name>
+						<citation class="publication">
+							<refPart class="pubname">Ic. Pl. Rar.</refPart>
+							<refPart class="volume">3</refPart>
+							<refPart class="issue">6</refPart>
+							<refPart class="pages">608</refPart>
+							<refPart class="year">1789</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Howardia</name>
+						<name class="species">barbata</name>
+						<name class="paraut">Jacquin</name>
+						<name class="author">Klotzsch</name>
+						<citation class="publication">
+							<refPart class="pubname">Monatsber. Konigl. Preuss. Akad. Wiss. Berlin</refPart>
+							<refPart class="volume">1859</refPart>
+							<refPart class="pages">613</refPart>
+							<refPart class="year">1859</refPart>
+						</citation>
+					</nom>
+					<specimenType notSeen="true"><gathering>Type: <locality class="country">Venezuela</locality><collectionAndType>(holotype W (not seen))</collectionAndType></gathering> .</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Howardia</name>
+						<name class="species">schomhurgkii</name>
+						<name class="author">Klotzsch</name>
+						<citation class="publication">
+							<refPart class="pubname">Monatsber. Konigl. Preuss. Akad. Wiss. Berlin</refPart>
+							<refPart class="volume">1859</refPart>
+							<refPart class="pages">613</refPart>
+							<refPart class="year">1859</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">rumicifolia</name>
+						<name class="author">Rich. Schomburgk</name>
+						<name class="status">(not Martius et Zucc.) in sched. (414), nom. nud.</name>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">dictyantha</name>
+						<name class="author">Duchartre</name>
+						<name class="infrank">var.</name>
+						<name class="variety">schomburgkii</name>
+						<name class="infrparaut">Kiotzsch</name>
+						<name class="infraut">Duchartre</name>
+						<citation class="publication">
+							<refPart class="editors">De Candolle</refPart>
+							<refPart class="pubname">Prodr.</refPart>
+							<refPart class="volume">15</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">447</refPart>
+							<refPart class="year">1864</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">rumicifolia</name>
+						<name class="author">Schomburgk ex Duchartre</name>
+						<name class="status">pro syn., nom. nud.</name>
+						<citation class="publication">
+							<refPart class="editors">De Candolle</refPart>
+							<refPart class="pubname">Prodr.</refPart>
+							<refPart class="volume">15</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">447</refPart>
+							<refPart class="year">1864</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Guyana, Pirara</locality><collector>Rich. Schomburgk</collector><fieldNum>611</fieldNum><collectionAndType>(holotype B not extant)</collectionAndType></gathering>.</specimenType>
+					<specimenType typeStatus="neotype"><gathering>Neotype proposed here: <locality class="locality">Guyana, Pirara</locality><collector>Rich. Schomburgk</collector><fieldNum>II 414</fieldNum><collectionAndType>(holotype P, isotype BM, K)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Vine <subChar class="rootstock">with <subChar class="texture">woody</subChar> rootstock</subChar>; 
+					<subChar class="stems">stem sarmentose; </subChar>
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole <subChar class="length">2-3 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="shape">triangular to sagittate</subChar>, <subChar class="dimensions">6-13 x 4-8 cm</subChar>, <subChar class="hairs">glabrous</subChar>, <subChar class="colour">greyishshining above, beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute to rounded</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">slightly to strongly cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">axillary</subChar> or flower solitary; 
+					<subChar class="pedicels">pedicels <subChar class="length">2-5 cm long</subChar>. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="ovary">ovary <subChar class="length">0.7-15 mm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">pale brown with yellow veins outside</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">10-13 x 6-8 mm</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">cylindric</subChar>, <subChar class="length">1-1.5 cm</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">funnel-shaped</subChar>, <subChar class="diameter">about 1.5 in diam.</subChar>, 
+						<subChar class="lobes">lobe unique, superior, <subChar class="growth form">erect</subChar>, <subChar class="length">1-1.5 cm long</subChar>, <subChar class="colour">yellow at base, <subChar class="position">distal</subChar> part violet brown, with <subChar class="texture">fleshy</subChar>, dark purple fimbriae</subChar>, <subChar class="shape">ovoid</subChar>, </subChar>
+						<subChar class="apex">apex <subChar class="shape">acuminate</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit (from Caribbean collections) <subChar class="length">3-3.5 cm long</subChar>, <subChar class="hairs">glabrous</subChar>; 
+					<subChar class="seeds">seeds <subChar class="length">3-4 mm long</subChar>.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> Widely distributed in the <distributionLocality class="oceanic region">Caribbean region</distributionLocality>, W to <distributionLocality class="country">Brazil</distributionLocality> and S to <distributionLocality class="country">Bolivia</distributionLocality>; more than 30 collections studied (GU: 4; SU: 1; FG: 2).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in open vegetation.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="unknown">without locality</locality>, <collector>Schomburgk</collector> <fieldNum>114</fieldNum> <collectionAndType>(BM, K)</collectionAndType></gathering>; <gathering><collector>Rob. Schomburgk</collector> <fieldNum>85</fieldNum> <collectionAndType>(K, P)</collectionAndType></gathering>; <gathering><locality class="locality">Karasabal</locality>, <collector>Feuillet</collector> <fieldNum>10642</fieldNum> <collectionAndType>(US)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="locality">Upper Coppename R.</locality>, <collector>Boon</collector> <fieldNum>1149</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="unknown">without locality</locality>, <collector>Benoist</collector> <fieldNum>891</fieldNum> <collectionAndType>(P)</collectionAndType></gathering>; <gathering><locality class="locality">Saint Laurent</locality>, <collector>Melinon</collector> <fieldNum>428</fieldNum> <collectionAndType>(P)</collectionAndType></gathering>.
+					</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> A recent collection (Cremers and Crozier 14677), that came in after this treatment was completed, does not match with any of the species treated. It could belong to <fullName rank="species" freetextName="true">A. disticha Masters</fullName> which had not yet been recorded from the Guianas area (F. Gonzalez, pers. comm.). F. Gonzalez, who is carrying out a monographic study of the genus <fullName rank="genus" freetextName="true">Aristolochia</fullName>, also has informed us that two other specimens from the Guianas (Benoist 891 and Melinon 428) cited in this treatment under <fullName rank="species" freetextName="true">A. rugosa</fullName> would fit better in <fullName rank="species" freetextName="true">A. disticha</fullName>. Both species are very close, but the surface of the leaf of <fullName rank="species" freetextName="true">A. disticha</fullName> is smooth and the flowers are arranged in short distichous racemes, while <fullName rank="species" freetextName="true">A. rugosa</fullName> has rugose leaves and axillary flowers. The authors express their acknowledgments to F. Gonzalez for providing this information.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>15</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">stahelii</name>
+						<name class="author">O.C. Schmidt</name>
+						<name class="notes">(as "staheli")</name>
+						<citation class="publication">
+							<refPart class="pubname">Feddes Repert. Spec. Nov. Regni Veg.</refPart>
+							<refPart class="volume">45</refPart>
+							<refPart class="pages">52</refPart>
+							<refPart class="year">1938</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Suriname, Brownsberg Top</locality><collector>Stahel &amp; Gonggrijp</collector><fieldNum>BW 6520</fieldNum><collectionAndType>(holotype U, isotype NY)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<figureRef ref="ID_327">Plate <num>3</num>. <figurePart>1-5</figurePart>.</figureRef>
+			<feature class="description">
+				<char class="habit">Woody vine; 
+					<subChar class="stems">stem with corky expansions, <subChar class="diameter">1-3 cm in diam., 6-7 mm</subChar> without bark; </subChar>
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole <subChar class="length">5-7 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="texture">chartaceous</subChar>, <subChar class="shape">widely cordiform</subChar>, <subChar class="dimensions">7-13(-18) x 10-15(-22) cm</subChar>, <subChar class="hairs">glabrous and shining above, <subChar class="colour">greyish</subChar> and pubescent beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">obtuse or rounded to acuminate</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">slightly cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate, marginate at base. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">cauliflorous</subChar>; 
+					<subChar class="racemes">racemes short (<subChar class="length">up to 1 cm long</subChar>), <subChar class="flowers">bearing <subChar class="flower number">4-5</subChar> flowers <subChar class="bracts">with minute <subChar class="texture">scaly</subChar> bracts</subChar></subChar>; </subChar>
+					<subChar class="pedicels">pedicels <subChar class="length">2-4 cm long</subChar>. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="ovary">ovary <subChar class="length">about 2-3 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">whitish pink with reddish veins outside</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">3 x 1.5 cm</subChar>; </subChar>
+					<subChar class="tube">tube reduced and hidden by the limb; </subChar>
+					<subChar class="limbs">limb <subChar class="colour">red purple</subChar>, <subChar class="growth form">not spreading, but at first reflexed backwards to the utricle and apically coming forward, finally recurved outwards and forming a horse-shoe-shaped cavity around the mouth of the tube</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">acute</subChar>, <subChar class="growth form">reflexed backward</subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">8-10 cm long</subChar>, <subChar class="hairs">glabrous</subChar>, midrib of carpels thickened, 
+					<subChar class="outer walls">external wall <subChar class="texture">thick, woody</subChar>; </subChar>
+					<subChar class="seeds">seeds <subChar class="shape">triangular</subChar>, <subChar class="dimensions">6 x 3 mm</subChar>, 
+						<subChar class="funicles">funicle <subChar class="shape">longitudinally protruding</subChar>.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Suriname</distributionLocality>, <distributionLocality class="country">French Guiana</distributionLocality>, <distributionLocality class="country">Brazil</distributionLocality> (<distributionLocality class="state">Amapa</distributionLocality>); 8 collections studied (SU: 3; FG: 4). Many sterile collections from French Guiana probably belong to this common species.</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>in primary and old secondary forests.</habitat></string>
+			</feature>
+			<figure id="ID_327" type="lineart" url="fotg-a-20-327.gif">Plate <num>3</num>. <figureLegend>1-5, <fullName rank="species" freetextName="true">Aristolochia stahelii O.C. Schmidt</fullName>: I, leaf; 2, stem and flower in profile view; 3, perianth pavilion in front view; 4, fruit; 5, seed (1,4,5, <gathering><fieldNum>BW 3281</fieldNum></gathering>; 2-3, <gathering><collector>Stahel &amp; Gonggrijp</collector><fieldNum>6520</fieldNum></gathering>). 6-10, <fullName rank="species" freetextName="true">Aristolochia daemoninoxia Masters</fullName>: 6, leaf; 7, stem and flower in profile view; 8, perianth pavilion in front view; 9, fruit; 10, seed (6-10, <gathering><collector>Jenman</collector><fieldNum>6915</fieldNum></gathering>).</figureLegend></figure>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="locality">Lely Mts., Lindeman</locality>, <collector>Stoffers et al.</collector> <fieldNum>370</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>; <gathering><locality class="locality">Brownsberg</locality>, <collector>BW</collector> <fieldNum>3281</fieldNum> <collectionAndType>(NY, U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Piste de St. Elie</locality>, <collector>Prevost</collector> <fieldNum>2154</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>; <gathering><locality class="locality">Mts. de Kaw</locality>, <collector>Feuillet</collector> <fieldNum>2103</fieldNum> <collectionAndType>(B, BR, CAY, MO, NY, P, U, US)</collectionAndType></gathering>; <gathering><locality class="locality">Mts. de l'Observatoire</locality>, <collector>de Granville</collector> <fieldNum>6752</fieldNum> <collectionAndType>(CAY, P)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="uses">
+				<string><subHeading>Use:</subHeading> Medicinally used in French Guiana, mainly by the Creole population near Saint-Georges to stop fever or as a remedy against diabetes, also used by the Palikour people.</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular names:</subHeading><vernacularNames>
+					<subHeading>French Guiana:</subHeading>
+					<vernacularName><name class="vernacular">bukuti</name> (<localLanguage>Palikour</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">liane amere</name> (<localLanguage>Creole</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">ulu?ay</name>, <name class="vernacular">uluwu?ay</name> (<localLanguage>Wayampi</localLanguage>)</vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>16</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">surinamensis</name>
+						<name class="author">Willdenow</name>
+						<citation class="publication">
+							<refPart class="pubname">Sp. Pl.</refPart>
+							<refPart class="volume">4</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">151</refPart>
+							<refPart class="year">1805</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">trilobata</name>
+						<name class="author">Linnaeus sensu Lamarck</name>
+						<citation class="publication">
+							<refPart class="pubname">Encycl.</refPart>
+							<refPart class="volume">1</refPart>
+							<refPart class="pages">251</refPart>
+							<refPart class="year">1783</refPart>
+							<refPart class="homonyms">non Linnaeus.</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Howardia</name>
+						<name class="species">surinamensis</name>
+						<name class="paraut">Willdenow</name>
+						<name class="author">Klotzsch</name>
+						<citation class="publication">
+							<refPart class="pubname">Monatsber. Konigl. Preuss. Akad. Wiss. Berlin</refPart>
+							<refPart class="volume">1859</refPart>
+							<refPart class="pages">613</refPart>
+							<refPart class="year">1860</refPart>
+						</citation>
+					</nom>
+					<specimenType notSeen="true"><gathering>Type: <locality class="country">Suriname</locality><collector>Herb. N.J. Jacquin</collector><collectionAndType>(not seen)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">platyloba</name>
+						<name class="author">Garcke</name>
+						<name class="status">syn. nov.</name>
+						<citation class="publication">
+							<refPart class="pubname">Linnaea</refPart>
+							<refPart class="volume">22</refPart>
+							<refPart class="pages">69</refPart>
+							<refPart class="year">1849.</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Suriname, N of Paramaribo, Tourtonne Plantation</locality><collector>Kegel</collector><fieldNum>632</fieldNum><collectionAndType>(holotype, GOET)</collectionAndType></gathering></specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">macrota</name>
+						<name class="author">Duchartre</name>
+						<name class="status">syn. nov.</name>
+						<citation class="publication">
+							<refPart class="pubname">Ann. Sci. Nat.</refPart>
+							<refPart class="series">ser. 4</refPart>
+							<refPart class="volume">2</refPart>
+							<refPart class="pages">43</refPart>
+							<refPart class="year">1854</refPart>
+						</citation>
+					</nom>
+					<specimenType typeStatus="lectotype"><gathering>Lectotype here designated: <collector>Rob. Schomburgk</collector><fieldNum>I 679</fieldNum><collectionAndType>(holotype G-DC, photo F, US, isotypes BM, F, K (2 sheets), US)</collectionAndType></gathering></specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Vine; 
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules lacking. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole thin, <subChar class="length">2.5-5 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="lobe number">3-lobed</subChar>, <subChar class="dimensions">5-9 x 7-11 cm</subChar>, <subChar class="hairs">glabrous, <subChar class="colour">shining above, greyish</subChar> with very fine indument beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">rounded</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">truncate, sometimes slightly cordate</subChar>, </subChar>
+						<subChar class="lateral lobes">lateral lobes perpendicular to the middle lobe, </subChar>
+						<subChar class="middle lobes">middle lobe <subChar class="length">3-6 cm long</subChar>; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate, marginal at base. </subChar>
+				</char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel <subChar class="length">2.5-4 cm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">about 1.5 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="hairs">sparsely pilose to glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">1.0-1.5 x 0.8-1.2 cm</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="length">about 1.5 cm long</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">funnel-shaped</subChar>, 
+						<subChar class="upper lobes">superior lobe <subChar class="shape">rounded, triangular</subChar>, <subChar class="dimensions">up to 3.5 x 3 cm</subChar>, </subChar>
+						<subChar class="apex">apex emarginate. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit small, <subChar class="length">3.5 cm long</subChar>, 
+					<subChar class="acumen">acumen <subChar class="length">5 mm long</subChar>, </subChar>
+					<subChar class="pericarp">pericarp <subChar class="texture">membranous</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="seeds">seeds <subChar class="length">2 mm long</subChar>.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Guyana</distributionLocality> and <distributionLocality class="country">Suriname</distributionLocality>; 10 collections studied (GU: 2; SU: 8).</string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><collector>Rob. Schomburgk</collector> <fieldNum>I 679</fieldNum> <collectionAndType>(BM, G, F, L, P)</collectionAndType></gathering>; <gathering><locality class="locality">Rupununi distr.</locality>, <collector>Acevedo</collector> <fieldNum>3308</fieldNum> <collectionAndType>(US)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><collector>Hostmann</collector> <fieldNum>611</fieldNum> <collectionAndType>(BM, GH, P, U)</collectionAndType></gathering>; <gathering><locality class="locality">Lelydorp</locality>, <collector>Stahel</collector> <fieldNum>150</fieldNum> <collectionAndType>(NY, U)</collectionAndType></gathering>.
+					</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="uses">
+				<string><subHeading>Use:</subHeading> Febrifuge.</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular name:</subHeading><vernacularNames>
+					<subHeading>Suriname:</subHeading>
+					<vernacularName><name class="vernacular">loango tete</name></vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>17</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">trilobata</name>
+						<name class="author">Linnaeus</name>
+						<citation class="publication">
+							<refPart class="pubname">Sp. Pl.</refPart>
+							<refPart class="volume">2</refPart>
+							<refPart class="pages">960</refPart>
+							<refPart class="year">1753</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">triloba</name>
+						<name class="author">Salisbury</name>
+						<citation class="publication">
+							<refPart class="pubname">Prodromus</refPart>
+							<refPart class="volume">1796</refPart>
+							<refPart class="pages">214</refPart>
+							<refPart class="year">1796</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="continent">South America</locality><collector>Herb. Linnaeus</collector><fieldNum>1071-1</fieldNum><collectionAndType>(holotype LINN)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">macroura</name>
+						<name class="author">Gomez</name>
+						<citation class="publication">
+							<refPart class="pubname">Mem. Acad. Real Sci. Lisboa</refPart>
+							<refPart class="volume">2</refPart>
+							<refPart class="pages">29-34</refPart>
+							<refPart class="details">t. 4</refPart>
+							<refPart class="year">1803</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="country">Brazil</locality><collector>Martius</collector><fieldNum>1817</fieldNum><collectionAndType>(not seen)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Vine; 
+					<subChar class="branchlets">branchlets <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules leafy, <subChar class="shape">rounded</subChar>, <subChar class="diameter">about 1.5 cm in diam.</subChar> </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole <subChar class="hairs">glabrous</subChar>, <subChar class="length">1.5-3 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="lobe number">3-lobed</subChar>, <subChar class="dimensions">5-9 x 6-10 cm</subChar>, <subChar class="hairs">glabrous, shining above, pubescent beneath</subChar>, 
+						<subChar class="lobes">lobes <subChar class="shape">very variable in shape and size, middle one often diamond-shaped</subChar>, </subChar>
+						<subChar class="lateral lobes">lateral lobes <subChar class="shape">often falciform, always pointing forward</subChar>, </subChar>
+						<subChar class="apex">apex <subChar class="shape">rounded</subChar>, </subChar>
+						<subChar class="base">base straight; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate, submarginal at base. </subChar>
+				</char>
+				<char class="flowers">Flower <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel <subChar class="length">about 4 cm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">2 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">greenish yellow, dark red veined outside</subChar>, <subChar class="hairs">glabrous</subChar>; </subChar>
+					<subChar class="utricles">utricle <subChar class="shape">ovoid</subChar>, <subChar class="dimensions">4-5 x 4 cm</subChar>, <subChar class="appendages">with basal, retrorse appendages, <subChar class="length">3-4 mm long</subChar></subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">cylindric, wide from the base</subChar>, <subChar class="dimensions">4-5 x 1.5 cm</subChar>; </subChar>
+					<subChar class="upper lobes">superior lobe <subChar class="shape">ovoid</subChar>, <subChar class="filaments">with a long apical filament of <subChar class="length">10(+) cm long</subChar></subChar>, <subChar class="colour">inside whitish</subChar>. </subChar>
+				</char>
+				<char class="fruits">Fruit <subChar class="length">6 cm long</subChar>, <subChar class="hairs">glabrous</subChar>; 
+					<subChar class="seeds">seeds <subChar class="shape">flat, as wide as long</subChar>, <subChar class="dimensions">ca. 6-7 mm</subChar>.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="region">Caribbean Islands</distributionLocality> and from <distributionLocality class="country">Honduras</distributionLocality> to <distributionLocality class="country">Argentina</distributionLocality>; 17 collections studied (GU: 8; SU: 1; FG: 3).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>common vine in open vegetation, especially near villages, where it is often protected if not cultivated.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><collector>Im Thurn</collector> <fieldNum>1945</fieldNum> <collectionAndType>(K)</collectionAndType></gathering>; <gathering><locality class="locality">Essequibo, Wakenaam</locality>, <collector>Jenman</collector> <fieldNum>s.n.</fieldNum> <collectionAndType>(NY)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="locality">Wia Wia Bank</locality>, <collector>Lanjouw &amp; Lindeman</collector> <fieldNum>1069</fieldNum> <collectionAndType>(U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><collector>Poiteau</collector> <fieldNum>s.n.</fieldNum> <collectionAndType>(K)</collectionAndType></gathering>; <gathering><locality class="locality">Piste de St. Elie</locality>, <collector>Sastre</collector> <fieldNum>6897</fieldNum> <collectionAndType>(P)</collectionAndType></gathering>; <gathering><locality class="locality">Maroni</locality>, <collector>Melinon</collector> <fieldNum>236</fieldNum> <collectionAndType>(P)</collectionAndType></gathering>.
+					</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="uses">
+				<string><subHeading>Use:</subHeading> Cultivated in French Guiana as a medicinal plant (Moretti 104, 993) by the Creole population: leaves (or the caterpillars of Parides feeding on the flowers) are used to cure mosquito and snake bites, liver troubles, malaria.</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular names:</subHeading><vernacularNames>
+					<subHeading>French Guiana:</subHeading>
+					<vernacularName><name class="vernacular">feuille trefle</name>, <name class="vernacular">Iiane trefle</name>, <name class="vernacular">trefle</name> (<localLanguage>Creole</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">trefle cara'ibe</name> (<localLanguage>Caribbean Creole</localLanguage>)</vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>18</num>
+						<name class="genus">Aristolochia</name>
+						<name class="species">weddellii</name>
+						<name class="author">Duchartre</name>
+						<citation class="publication">
+							<refPart class="pubname">Ann. Sci. Nat.</refPart>
+							<refPart class="series">ser. 2</refPart>
+							<refPart class="volume">4</refPart>
+							<refPart class="pages">62</refPart>
+							<refPart class="year">1854</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Brazil, Matto Grosso</locality><collector>Weddell</collector><fieldNum>3396</fieldNum><collectionAndType>(holotype P)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<nomenclaturalNotes><string>In the Guianas only: </string></nomenclaturalNotes>
+				<homotypes>
+					<nom class="accepted">
+						<name class="genus">Aristolochia</name>
+						<name class="species">weddellii</name>
+						<name class="author">Duchartre</name>
+						<name class="infrank">var.</name>
+						<name class="variety">rondoniana</name>
+						<name class="infrparaut">Hoehne</name>
+						<name class="infraut">Hoehne</name>
+						<citation class="publication">
+							<refPart class="pubname">Mem. Inst. Oswaldo Cruz</refPart>
+							<refPart class="volume">20</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">59</refPart>
+							<refPart class="details">(123), tab. 50</refPart>
+							<refPart class="year">1927</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">weddellii</name>
+						<name class="author">Duchartre</name>
+						<name class="infrank">subsp.</name>
+						<name class="subspecies">rondoniana</name>
+						<name class="infraut">Hoehne</name>
+						<citation class="publication">
+							<refPart class="pubname">Arch. Bot. Est. Sao Paulo</refPart>
+							<refPart class="volume">1</refPart>
+							<refPart class="part">1</refPart>
+							<refPart class="pages">19</refPart>
+							<refPart class="details">tab. 8</refPart>
+							<refPart class="year">1925</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="country">Brazil</locality><collector>Comm. Rondon</collector><fieldNum>2445</fieldNum><collectionAndType>(lectotype here designated SP, isotype RB)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus">Aristolochia</name>
+						<name class="species">longecaudata</name>
+						<name class="author">Masters</name>
+						<citation class="publication">
+							<refPart class="editors">Martius</refPart>
+							<refPart class="pubname">Fl. Bras.</refPart>
+							<refPart class="volume">4</refPart>
+							<refPart class="part">2</refPart>
+							<refPart class="pages">84</refPart>
+							<refPart class="year">1875</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="country">Guyana</locality><collector>Appun</collector><fieldNum>288</fieldNum><collectionAndType>(holotype K)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Vine; 
+					<subChar class="branchlets">branchlets <subChar class="hairs">pubescent when young, glabrescent</subChar>; </subChar>
+					<subChar class="pseudostipules">pseudostipules foliaceous, <subChar class="shape">orbicular</subChar>. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole <subChar class="hairs">pubescent</subChar>, <subChar class="length">2-5 cm long</subChar>; </subChar>
+					<subChar class="blade">blade <subChar class="shape">rounded to triangular</subChar>, <subChar class="dimensions">(5-)12-15 x (3.5-)6-12 cm</subChar>, <subChar class="hairs">glabrous above, tomentose beneath</subChar>, 
+						<subChar class="apex">apex <subChar class="shape">triangular-acute</subChar>, </subChar>
+						<subChar class="base">base <subChar class="shape">widely rectangular-cordate</subChar>; </subChar>
+					</subChar>
+					<subChar class="veins">venation pedate, marginal at base. </subChar>
+				</char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel thick, <subChar class="length">7-12 cm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">3-5 cm long</subChar>; </subChar>
+					<subChar class="perianth">perianth <subChar class="colour">whitish, dark-purple veined outside</subChar>; </subChar>
+					<subChar class="utricles">utricle with a basal thickened rim, asymmetric, ventricose, <subChar class="dimensions">(3.5-)5-7 x (2-)3-4 cm</subChar>; </subChar>
+					<subChar class="tube">tube <subChar class="shape">short to inconspicuous</subChar>; </subChar>
+					<subChar class="limbs">limb <subChar class="shape">short funnel-shaped</subChar>, 
+						<subChar class="upper lobes">superior lobe <subChar class="shape">long tape-like, scalloped</subChar>, <subChar class="length">about 8-10 cm long and more</subChar>, <subChar class="filaments">with a <subChar class="position">terminal</subChar> filament <subChar class="length">more than 10 cm long</subChar></subChar>. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit unknown.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> The <distributionLocality class="region">Guianas</distributionLocality>, <distributionLocality class="country">Brazil</distributionLocality>; 14 collections studied (GU: 6; SU: 1; FG: 3).</string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Mazaruni Station</locality>, <collector>Sandwith</collector> <fieldNum>1594</fieldNum> <collectionAndType>(B, NY, U)</collectionAndType></gathering>; <gathering><collector>Persaud</collector> <fieldNum>33</fieldNum> = <alternativeCollector>FD</alternativeCollector> <alternativeFieldNum>5342</alternativeFieldNum> <collectionAndType>(NY)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="locality">Waremapan Cr.</locality>, <collector>Stahel</collector> <fieldNum>70</fieldNum> <collectionAndType>(NY, U)</collectionAndType></gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Itany R.</locality>, <collector>Aubert de la Rtie</collector> <fieldNum>s.n.</fieldNum> <collectionAndType>(P)</collectionAndType></gathering>; <gathering><collector>Fleury</collector> <fieldNum>537</fieldNum> <collectionAndType>(CAY)</collectionAndType></gathering>; <gathering><collector>de Granville et al.</collector> <fieldNum>10000</fieldNum> <collectionAndType>(CAY, P, US)</collectionAndType></gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> Two other varieties, var. weddellii and var. duckeana Hoehne have the superior lobe of the perianth limb much longer; they are restricted to Amazonian Brazil.</string>
+			</feature>
+		</taxon>
+		<taxon class="dubious">
+			<heading>DOUBTFUL SPECIES</heading>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<name class="genus">Aristolochia</name>
+						<name class="species">amara</name>
+						<name class="paraut">Aublet</name>
+						<name class="author">Poncy</name>
+						<citation class="publication">
+							<refPart class="pubname">Bull. Mus. Hist. Nat. (Paris)</refPart>
+							<refPart class="series">ser. 4</refPart>
+							<refPart class="volume">10</refPart>
+							<refPart class="pages">344</refPart>
+							<refPart class="year">1989</refPart>
+							<refPart class="notes">("1988")</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus">Abuta</name>
+						<name class="species">amara</name>
+						<name class="author">Aublet</name>
+						<citation class="publication">
+							<refPart class="pubname">Hist. Pl. Guiane</refPart>
+							<refPart class="volume">1</refPart>
+							<refPart class="pages">620</refPart>
+							<refPart class="details">tab. 251</refPart>
+							<refPart class="year">1775</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="country">French Guiana</locality><collector>Aublet</collector><fieldNum>s.n.</fieldNum><collectionAndType>(holotype P, isotype BM)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="notes">
+				<string>Described from sterile material, this taxon cannot be identified with certainty with one of the above species. It could be any one of <fullName rank="species" freetextName="true">A. bukuti</fullName>, <fullName rank="species" freetextName="true">A. cremersii</fullName>, <fullName rank="species" freetextName="true">A. daemoninoxia</fullName>, <fullName rank="species" freetextName="true">A. stahelii</fullName> or a different species.</string>
+			</feature>
+		</taxon>
+		<taxon class="dubious">
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<name class="genus">Aristolochia</name>
+						<name class="species">cymbifera</name>
+						<name class="author">Martius &amp; Zuccharini</name>
+						<citation class="publication">
+							<refPart class="pubname">Nov. Gen. Spec.</refPart>
+							<refPart class="volume">1</refPart>
+							<refPart class="pages">76</refPart>
+							<refPart class="details">tab. 49</refPart>
+							<refPart class="year">1824</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="state">Brazil, State of Sao Paulo</locality><collector>Martius</collector><fieldNum>s.n.</fieldNum><collectionAndType>(herb. Martius, not seen)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Vine, <subChar class="hairs">glabrous</subChar>. </char>
+				<char class="pseudostipules">Pseudostipules and leaves similar to <fullName rank="species" freetextName="true">A. hians</fullName>. </char>
+				<char class="flowers">Flowers <subChar class="position">axillary</subChar>, solitary; 
+					<subChar class="pedicels">pedicel twining, <subChar class="length">7-8 cm long</subChar>; </subChar>
+					<subChar class="ovary">ovary <subChar class="length">3-4 mm long</subChar>, perpendicular to the pedicel; </subChar>
+					<subChar class="hypanthium">hypanthium present; </subChar>
+					<subChar class="perianth">perianth: 
+						<subChar class="utricles">utricle <subChar class="dimensions">5-6 x 2-3 cm</subChar>, </subChar>
+						<subChar class="tube">tube <subChar class="shape">cylindric</subChar>, <subChar class="length">up to 1.5 cm</subChar>, </subChar>
+						<subChar class="upper lobes">superior lobe paddle-shaped, <subChar class="length">up to 12 cm long</subChar>, <subChar class="width">4 cm wide</subChar> in the <subChar class="position">distal</subChar> part, </subChar>
+						<subChar class="lower lobes">inferior lobe not seen in the Guianan material. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit not seen.</char>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> Two old specimens of this species are preserved at P. One, in Herb. Richard, might have been collected in French Guiana by Leprieur, the other from Herb. Mocquin-Tandon seems to be of horticultural origin. The presence of this species, originating from southern Brazil (2 specimens studied), in the wild in the Guianas is very doubtful.</string>
+			</feature>
+		</taxon>
+		<taxon class="excluded">
+			<heading>REJECTED SPECIES</heading>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<name class="genus">Aristolochia</name>
+						<name class="species">bilobata</name>
+						<name class="author">Linnaeus</name>
+						<citation class="publication">
+							<refPart class="pubname">Sp. Pl.</refPart>
+							<refPart class="pages">960</refPart>
+							<refPart class="year">1753</refPart>
+						</citation>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> This species, cited by Aublet (1775, p. 833), is known only from <distributionLocality class="region">Hispaniola</distributionLocality> and <distributionLocality class="region">St. Thomas Islands</distributionLocality>.</string>
+			</feature>
+			<feature class="notes">
+				<string>The leaves are 2-lobed, very typical, and there is no specimen from the Guianas that we could refer to that species. There are at least two possible explanations: either <fullName rank="species" freetextName="true">Aristolochia bilobata</fullName> was cultivated in French Guiana or the name has been wrongly applied to one of the few 2-lobed species of <fullName rank="subgenus" freetextName="true">Passiflora subgenus Decaloba</fullName> occuring in French Guiana, whose young plants (up to 10-15 cm tall) have very minute stipules and no tendril. Even the second hypothesis is not more unlikely than the description of <fullName rank="species" freetextName="true">Aristolochia amara</fullName> as a <fullName rank="family" freetextName="true">Menispermaceae</fullName>.</string>
+			</feature>
+		</taxon>
+		<taxon class="excluded">
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<name class="genus">Aristolochia</name>
+						<name class="species">brasiliensis</name>
+						<name class="author">Martius &amp; Zuccharini</name>
+						<citation class="publication">
+							<refPart class="pubname">Nov. Gen. Sp.</refPart>
+							<refPart class="volume">1</refPart>
+							<refPart class="pages">77</refPart>
+							<refPart class="year">1824</refPart>
+						</citation>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> This species, cited by Richard Schomburgk (3: 822. 1848), has a large distribution area through <distributionLocality class="continent">South America</distributionLocality>.</string>
+			</feature>
+		</taxon>
+		<taxon class="excluded">
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<name class="genus">Aristolochia</name>
+						<name class="species">odoratissima</name>
+						<name class="author">Linnaeus</name>
+						<citation class="publication">
+							<refPart class="pubname">Sp. Pl.</refPart>
+							<refPart class="edition">ed. 2</refPart>
+							<refPart class="pages">1362</refPart>
+							<refPart class="year">1763</refPart>
+						</citation>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> This species, cited by Aublet (1775, p. 833) and by Richard Schomburgk (3: 822. 1848), has a large distribution area from the <distributionLocality class="oceanic region">Caribbean</distributionLocality> and <distributionLocality class="country">Mexico</distributionLocality> to <distributionLocality class="country">Paraguay</distributionLocality>, but does not occur in the <distributionLocality class="region" status="absent">Guianas</distributionLocality>, <distributionLocality class="region" status="absent">eastern Venezuela</distributionLocality>, <distributionLocality class="region" status="absent">eastern Colombia</distributionLocality> and <distributionLocality class="region" status="absent">northern Brazil</distributionLocality>. </string>
+			</feature>
+			<feature class="notes">
+				<string>What Aublet saw is quite obscure. According to Schomburgk, <fullName rank="species" freetextName="true">Aristolochia odoratissima</fullName> was cultivated in Guyana and might have belonged, under Aublet's care, to the collections of the "Jardin du Roy" in Cayenne as well. See also Briquet (<references><reference>
+							<refPart class="author">Briquet</refPart>
+							<refPart class="pubname">Candollea</refPart>
+							<refPart class="volume">4</refPart>
+							<refPart class="pages">352</refPart>
+							<refPart class="year">1931</refPart>
+						</reference></references>) about a possible confusion with <fullName rank="species" freetextName="true">Aristolochia gabrielis</fullName> (= <fullName rank="species" freetextName="true">Aristolochia leprieurii</fullName>, 1-10).</string>
+			</feature>
+		</taxon>
+		<taxon class="excluded">
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<name class="genus">Aristolochia</name>
+						<name class="species">peltata</name>
+						<name class="author">Linnaeus</name>
+						<citation class="publication">
+							<refPart class="pubname">Sp. Pl.</refPart>
+							<refPart class="pages">960</refPart>
+							<refPart class="year">1753</refPart>
+						</citation>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> This species, cited by Aublet (1775, p. 833) and by Richard Schomburgk (3: 822. 1848), is known only from <distributionLocality class="region">eastern Cuba</distributionLocality>, <distributionLocality class="region">Hispaniola</distributionLocality> and <distributionLocality class="region">St. Thomas Islands</distributionLocality>. </string>
+			</feature>
+			<feature class="notes">
+				<string>Schomburgk cited it from the savanna region, Guyana. But we found no specimen from the Guianas referable to <fullName rank="species" freetextName="true">Aristolochia peltata</fullName>, whose 2-lobed leaves are very typical. Same comment as under <fullName rank="species" freetextName="true">Aristolochia bilobata</fullName>.</string>
+			</feature>
+		</taxon>
+	</treatment>
+</publication>

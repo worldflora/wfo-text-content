@@ -1,0 +1,4 @@
+"taxonID","use"
+"taxon-1-Hippocratea_volubilis","Uses: The stems are used as binding fibre. The seeds are edible and yield an odourless, colourless oil."
+"taxon-7-PERITASSA","Use: Fruits are edible."
+"taxon-1-Casimirella_ampla","Economic use: The tubers weighing of 5-20 kilos are rich in starch and are edible after washing out the bitter tasting compounds."

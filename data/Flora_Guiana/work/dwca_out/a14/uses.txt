@@ -1,0 +1,5 @@
+"taxonID","use"
+"taxon-2-Dulacia_guianensis","Uses: Seeds said to be edible."
+"taxon-1-Minquartia_guianensis","Uses: The grayish-brownish wood is hard, heavy, and extremely durable, used mainly for poles."
+"taxon-1-Ptychopetalum_olacoides","Uses: Wood hard, heavy, yellowish. The roots of the young plants deliver most of the drug with alleged aphrodisiac properties used by the Creoles; drug exported from Manaus and Belem under the name muira puama."
+"taxon-Ximenia_americana","Uses: The wood is hard, heavy, close-grained, and used as a substitute for sandalwood because of its fragrance and whitish-yellow to brownish color, but seldom large enough for furniture. The bark is astringent and is locally used as a source of tannin. The sour pulp of the fruit is edible. The seeds are purgative and are reported to contain hydrocyanic acid."

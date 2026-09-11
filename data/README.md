@@ -29,7 +29,7 @@ This is where contributed files and their derivatives are stored.
 |NYBG - Brittonia	| uploaded 10/9/26
 |Solanaceae 	| uploaded 10/9/26
 |Flora Malesiana	| unworked This contains xml files never worked and Flora Guianas xml too
-| Flora Guianas  | unworked xml too
+|Flora Guianas  | xml parsed. still needs alot of work.
 |Flora_Helvetica	| Amber working on it
 |RBGKEW - FTWA	|To do
 |RBGKEW - FWTA	|To do

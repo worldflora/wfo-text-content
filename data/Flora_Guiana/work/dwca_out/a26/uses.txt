@@ -1,0 +1,8 @@
+"taxonID","use"
+"taxon-1-ALLOPLECTUS","Use: Plants of Alloplectus are rarely cultivated and have no known other economic uses."
+"taxon-2-Drymonia_coccinea","Use: External febrifuge (Wayãpi)."
+"taxon-12-KOHLERIA","Uses: Species and cultivars of Kohleria are commonly cultivated in temperate parts of the world as ornamentals. Plant parts are used in folk medicine in Andean countries (Kvist 1986)."
+"taxon-6-Nautilocalyx_kohlerioides","Use: The Wayãpi Amerindians provided different informations: some of them called yamuleka'apilã both Nautilocalyx kohlerioides and Columnea calotricha , and used the leaves of either one crumpled and macerated in water as febrifuge in external wash, or against headaches in poultice rubbed on the forehead. Others used only Nautilocalyx kohlerioides called ka'iuwitoto. The flowers and leaves were used in decoction or maceration, as external wash for the babies at risk of declining health because their father transgressed a hunting taboo concerning Cebus apella (Grenand et al., 1987)."
+"taxon-9-Nautilocalyx_pictus","Uses: Used in local medicine against scorpion stings; cultivated as an ornamental, several color-forms have been introduced in cultivation."
+"taxon-3-Paradrymonia_campostyla","Use: External febrifuge (Wayãpi)."
+"taxon-1-Sinningia_incarnata","Use: Parker s.n. (K) reports ""the plant was used as a cephalic snuff""."
