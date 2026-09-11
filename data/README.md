@@ -4,8 +4,7 @@ This is where contributed files and their derivatives are stored.
 
 Data that needs ported from Emonocot to this.
   - Australia - *FoA test data uploaded and APNI vernacular names. 1/9/26*
-  
-  - Brazilian Flora 2020 - *FoB uploaded and linked in Fyllo. 2/9/26*
+    - Brazilian Flora 2020 - *FoB uploaded and linked in Fyllo. 2/9/26*
   - Colombia - *2/9/26*
   - Dendroflora_Hungary - *DoH uploaded and linked in Fyllo. 1/9/26*
   - Edinburgh
@@ -31,7 +30,7 @@ Data that needs ported from Emonocot to this.
       - FWTA
       - FZ
   - Leon Levy - *FoB uploaded and linked in Fyllo. 31/8/26*
-  - Madagascar
+  - Madagascar - endemic list -*FoB uploaded and linked in Fyllo. 11/9/26*
   - MBG - multiple - Raw files added
       -  Central American Mosses
       -  Fo Nicaragua
