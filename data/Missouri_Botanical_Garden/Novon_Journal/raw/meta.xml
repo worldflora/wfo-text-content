@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<archive xmlns="http://rs.tdwg.org/dwc/text/">
+<core encoding="UTF-8" linesTerminatedBy="\r\n" fieldsTerminatedBy="\t" fieldsEnclosedBy="&quot;" ignoreHeaderLines="0" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+    <files>
+      <location>classification.txt</location>
+    </files>
+    <id index="0"/>
+    <field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+</core>
+
+    <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\r\n" ignoreHeaderLines="0" rowType="http://rs.gbif.org/terms/1.0/Description">
+    <files><location>description.txt</location></files>
+      <coreid index="0"/>
+ <field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>    
+<field index="1" term="http://purl.org/dc/terms/description"/>
+<field index="2" term="http://purl.org/dc/terms/type"/>
+<field index="3" term="http://purl.org/dc/terms/source"/>
+<field index="4" term="http://purl.org/dc/terms/language"/>
+<field index="5" term="http://purl.org/dc/terms/created"/>
+<field index="7" term="http://purl.org/dc/terms/contributor"/>
+<field index="8" term="http://purl.org/dc/terms/audience"/>
+<field index="9" term="http://purl.org/dc/terms/license" default="http://creativecommons.org/licenses/by/4.0"/>
+<field index="10" term="http://purl.org/dc/terms/rightsHolder"  default="Missouri Botanical Garden"/>
+<field index="11" term="http://purl.org/dc/terms/rights" default="Missouri Botanical Garden"/>
+  </extension>
+  
+  <extension encoding="UTF-8" linesTerminatedBy="\r\n" fieldsTerminatedBy="\t" fieldsEnclosedBy="&quot;" ignoreHeaderLines="0" rowType="http://rs.gbif.org/terms/1.0/Reference">
+    <files>
+      <location>reference.txt</location>
+    </files>
+    <coreid index="0"/>
+<field index="1" term="http://purl.org/dc/terms/identifier"/>
+<field index="2" term="http://purl.org/dc/terms/bibliographicCitation"/>
+<field index="3" term="http://purl.org/dc/terms/title"/>
+<field index="4" term="http://purl.org/dc/terms/creator"/>
+<field index="5" term="http://purl.org/dc/terms/date"/>
+<field index="6" term="http://purl.org/dc/terms/source"/>
+<field index="7" term="http://purl.org/dc/terms/description"/>
+<field index="8" term="http://purl.org/dc/terms/subject"/>
+<field index="9" term="http://purl.org/dc/terms/language"/>
+<field index="10" term="http://purl.org/dc/terms/rights" default="Missouri Botanical Garden" />
+<field index="11" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
+<field index="12" term="http://purl.org/dc/terms/type"/>
+<field index="13" term="http://purl.org/dc/elements/1.1/relation"/>
+<field index="14" term="http://purl.org/dc/terms/created"/>
+<field index="15" term="http://purl.org/dc/terms/modified"/>
+<field index="16" term="http://purl.org/dc/terms/license" default="http://creativecommons.org/licenses/by/4.0"/>
+<field index="17" term="http://purl.org/dc/terms/rightsHolder" default="Missouri Botanical Garden"/>
+<field index="18" term="http://purl.org/dc/terms/accessRights"/>
+  </extension>
+  
+  <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\r\n" fieldsEnclosedBy="&quot;" ignoreHeaderLines="0" rowType="http://rs.gbif.org/terms/1.0/VernacularName">
+    <files>
+      <location>vernacularname.txt</location>
+    </files>
+  <coreid index="0"/>
+<field index="2" term="http://rs.tdwg.org/dwc/terms/vernacularName"/>
+<field index="1" term="http://purl.org/dc/terms/identifier"/>
+<field index="3" term="http://purl.org/dc/terms/source"/>
+<field index="4" term="http://purl.org/dc/terms/language"/>
+<field index="5" term="http://purl.org/dc/terms/temporal"/>
+<field index="6" term="http://rs.tdwg.org/dwc/terms/locationID"/>
+<field index="7" term="http://rs.tdwg.org/dwc/terms/locality"/>
+<field index="8" term="http://rs.tdwg.org/dwc/terms/countryCode"/>
+<field index="9" term="http://rs.gbif.org/vocabulary/gbif/sex"/>
+<field index="11" term="http://rs.gbif.org/vocabulary/gbif/life_stage"/>
+<field index="13" term="http://rs.gbif.org/terms/1.0/organismPart"/>
+<field index="14" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
+<field index="15" term="http://purl.org/dc/terms/accessRights"/>
+<field index="16" term="http://purl.org/dc/terms/created"/>
+<field index="17" term="http://purl.org/dc/terms/creator"/>
+<field index="18" term="http://purl.org/dc/terms/license" default="http://creativecommons.org/licenses/by/4.0"/>
+<field index="19" term="http://purl.org/dc/terms/modified"/>
+<field index="20" term="http://purl.org/dc/terms/rights" default="Missouri Botanical Garden" />
+<field index="21" term="http://purl.org/dc/terms/rightsHolder" default="Missouri Botanical Garden"/>
+<field index="22" term="http://purl.org/dc/elements/1.1/relation"/>
+  </extension>
+      
+    </archive>

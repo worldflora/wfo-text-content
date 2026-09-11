@@ -18,33 +18,33 @@ Data that needs ported from Emonocot to this.
   - Flora d'Afrique - *FdA uploaded and linked in Fyllo. 9/9/26* (vernacular still needs work)
   - Flora Malesiana
   - Flora of Australia - *FoA test data uploaded and APNI vernacular names. 1/9/26*
-  - Flora of Turkey
+  - Flora of Turkey - *Fyllo linked 10/9/2026*
   - Flora_Helvetica
-  - Flore du Gabon
-  - FNA
+  - Flore du Gabon - *Fyllo linked 10 Sept 2026*
+  - FNA - *Fyllo linked  Sept 2026*
   - GTA – *GTA uploaded (3/9/26) and linked in Fyllo. 8/9/26*
   - GTS – outdated GTA
   - IrishNames - *IN uploaded and linked in Fyllo. 1/9/26*
   - IUCN - MORE UP TO DATE FYLLO
-  - Kew - multiple These need concatenated. 
+  - Kew - multiple These need concatenated. Raw files downloaded
       - FTWA
       - FWTA
       - FZ
   - Leon Levy - *FoB uploaded and linked in Fyllo. 31/8/26*
   - Madagascar
-  - MBG - multiple
-      - Central American Mosses
-      -  Fo China
+  - MBG - multiple - Raw files added
+      -  Central American Mosses
       -  Fo Nicaragua
+      -  Fo Mesoamaerica
       -  Fo Pakistan
       -  Fo Panama
       -  Manual Costa Rica
       -  Moss Flora China
       -  Novon content
   - Nepal - MORE UP TO DATE FYLLO
-  - NYBG - multiple
-      - NE Flora
-      - Memoirs
+  - NYBG - 
+      - NE Flora - *Linked to fyllo 11/9/2026*
+      - Memoirs - *Linked to fyllo 11/9/2026*
       - FloraNeotropica - *Linked to fyllo 10/9/2026*
        - Brittonia - *Linked to fyllo 10/9/2026*
   - Solanaceae - *Solanaceae uploaded and linked in Fyllo. 10/9/26*
