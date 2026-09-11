@@ -31,11 +31,11 @@ This is where contributed files and their derivatives are stored.
 |Flora Malesiana	| unworked This contains xml files never worked and Flora Guianas xml too
 |Flora Guianas  | xml parsed. still needs alot of work.
 |Flora_Helvetica	| uploaded 10/9/26
-|RBGKEW - FTWA	| Amber working on
+|RBGKEW - FTWA	| uploaded 11/9/26
 |RBGKEW - FWTA	|To do
 |RBGKEW - FZ	|To do
 |Mobot - Central American Mosses	|To do
-|Mobot - Fo Nicaragua	|To do
+|Mobot - Fo Nicaragua	| Amber working on
 |Mobot - Fo Mesoamaerica	|To do
 |Mobot - Fo Pakistan	|To do
 |Mobot - Fo Panama	|To do
