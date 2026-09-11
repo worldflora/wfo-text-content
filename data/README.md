@@ -42,9 +42,9 @@ Data that needs ported from Emonocot to this.
       -  Moss Flora China
       -  Novon content
   - Nepal - MORE UP TO DATE FYLLO
-  - NYBG - 
-      - NE Flora - *Linked to fyllo 11/9/2026*
-      - Memoirs - *Linked to fyllo 11/9/2026*
+  - NYBG - multiple
+      - NE Flora
+      - Memoirs
       - FloraNeotropica - *Linked to fyllo 10/9/2026*
        - Brittonia - *Linked to fyllo 10/9/2026*
   - Solanaceae - *Solanaceae uploaded and linked in Fyllo. 10/9/26*
