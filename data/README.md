@@ -37,8 +37,8 @@ This is where contributed files and their derivatives are stored.
 |Mobot - Central American Mosses	| uploaded 11/9/26
 |Mobot - Fo Nicaragua	| uploaded 11/9/26
 |Mobot - Fo Mesoamaerica	| uploaded 14/9/26
-|Mobot - Fo Pakistan	|Amber working on
-|Mobot - Fo Panama	|To do
+|Mobot - Fo Pakistan	|uploaded 14/9/26
+|Mobot - Fo Panama	|Amber working on
 |Mobot - Manual Costa Rica	|To do
 |Mobot - Moss Flora China	|To do
 |Mobot - Novon content	|To do
