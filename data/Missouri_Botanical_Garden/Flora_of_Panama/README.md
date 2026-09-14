@@ -1,0 +1,3 @@
+## Flora of Panama
+
+The Flora of Panama was the first major overseas floristic project of the Missouri Botanical Garden. The Project was formally begun by Robert Woodson and others in 1943, and it was concluded with the publication of the Checklist by William G. D'Arcy in 1987. The Checklist listed all vascular plant species known to occur in the country along with information on habit and distribution of the plants. The Panamanian flora is on of the most diverse in the world. In 1987, it included 7345 species in 195 families occurring in a land area of 75,902 sq. km (29,306 sq. mi.) The Checklist was published in 3 parts as the Flora of Panama Checklist and Index. It appeared as volume 17 in the series Monographs in Systematic Botany from the Missouri Botanical Garden.
