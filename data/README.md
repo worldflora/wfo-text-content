@@ -38,8 +38,8 @@ This is where contributed files and their derivatives are stored.
 |Mobot - Fo Nicaragua	| uploaded 11/9/26
 |Mobot - Fo Mesoamaerica	| uploaded 14/9/26
 |Mobot - Fo Pakistan	|uploaded 14/9/26
-|Mobot - Fo Panama	|Amber working on
-|Mobot - Manual Costa Rica	|To do
+|Mobot - Fo Panama	|uploaded 14/9/26
+|Mobot - Manual Costa Rica	|Amber working on
 |Mobot - Moss Flora China	|To do
 |Mobot - Novon content	|To do
 |South_Africa	|Partially worked, to finish
