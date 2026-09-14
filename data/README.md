@@ -39,8 +39,8 @@ This is where contributed files and their derivatives are stored.
 |Mobot - Fo Mesoamaerica	| uploaded 14/9/26
 |Mobot - Fo Pakistan	|uploaded 14/9/26
 |Mobot - Fo Panama	|uploaded 14/9/26
-|Mobot - Manual Costa Rica	|Amber working on
-|Mobot - Moss Flora China	|To do
+|Mobot - Manual Costa Rica	|uploaded 14/9/26
+|Mobot - Moss Flora China	|Amber working on
 |Mobot - Novon content	|To do
 |South_Africa	|Partially worked, to finish
 |Webbs Irish Flora NEW  |Uploaded 11/9/26. Partially 78 Families uploaded. 26 to do. | 480 vernacular (124 GA, 359 EN ),  83 distribution, 15 diagnosis, 690 ecology, 134 general, 686 morphology, 631 reproductive – so far |
