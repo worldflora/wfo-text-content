@@ -1,0 +1,5 @@
+## Moss Flora of China
+
+This dataset is based on a flora project documenting ~2,500 species of mosses found in mainland China, Hong Kong, Xizang (Tibet), and Taiwan. The Moss Flora of China (English version) branched off of the earlier Bryophyte Flora of China (Chinese version), with different emphases in format and taxonomic treatment; both were overseen by a collaboration between Missouri Botanical Garden and the Chinese Academy of Sciences. The English version was published from 1999 to 2011 by Missouri Botanical Garden Press in a series of eight printed volumes, some of which were later integrated into a digital, searchable database (http://www.efloras.org/flora_page.aspx?flora_id=4).
+
+Taxonomic treatments were contributed by bryologists from China, North America, Europe, Russia, and Japan and include identification keys, familial, generic, and species descriptions, Chinese and Asiatic synonymy, illustrations, distribution maps, summaries of habitats, altitudinal ranges, provincial distribution and geographic ranges in countries bordering China, and remarks regarding the circumscription of problematic taxa.
