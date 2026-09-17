@@ -32,7 +32,7 @@ This is where contributed files and their derivatives are stored.
 |Flora Guianas  | xml parsed. still needs alot of work.
 |Flora_Helvetica	| uploaded 10/9/26
 |RBGKEW - FTWA	| uploaded 11/9/26
-|RBGKEW - FWTA	|To do
+|RBGKEW - FTEA	|To do
 |RBGKEW - FZ	|To do
 |Mobot - Central American Mosses	| uploaded 11/9/26
 |Mobot - Fo Nicaragua	| uploaded 11/9/26
@@ -40,8 +40,8 @@ This is where contributed files and their derivatives are stored.
 |Mobot - Fo Pakistan	|uploaded 14/9/26
 |Mobot - Fo Panama	|uploaded 14/9/26
 |Mobot - Manual Costa Rica	|uploaded 14/9/26
-|Mobot - Moss Flora China	|Amber working on
-|Mobot - Novon content	|To do
+|Mobot - Moss Flora China	|uploaded 15/9/26
+|Mobot - Novon content	|uploaded 15/9/26
 |South_Africa	|Partially worked, to finish
 |Webbs Irish Flora NEW  |Uploaded 11/9/26. Partially 78 Families uploaded. 26 to do. | 480 vernacular (124 GA, 359 EN ),  83 distribution, 15 diagnosis, 690 ecology, 134 general, 686 morphology, 631 reproductive – so far |
 
