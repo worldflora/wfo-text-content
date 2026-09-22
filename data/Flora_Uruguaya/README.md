@@ -6,7 +6,7 @@ Check Zenodo for latest version.
 Dataset language Spanish.
 
 - [Snippet habit](out/florauruguaya_V_4_habit.csv) 
-- [Snitppet habitat](out/florauruguaya_V_4_habitat.csv) 
+- [Snippet habitat](out/florauruguaya_V_4_habitat.csv) 
 
 - [Facet - ISO country](out/florauruguaya_V_4_checklist.csv)
 
@@ -19,7 +19,7 @@ Dataset language Spanish.
 - [Facet Lifeform tree](out/florauruguaya_V_4_tree.csv)
 
 Not used - no category
-- [Facetlifeform biennial or annual](out/florauruguaya_V_4_annual_or_biennial_herb.csv)
-- [Facet lifeform geophytes](out/florauruguaya_V_4_geophytes.csv) 
+- [Facet life form biennial or annual](out/florauruguaya_V_4_annual_or_biennial_herb.csv)
+- [Facet life form geophytes](out/florauruguaya_V_4_geophytes.csv) 
 
 # linked to fyllo 22/9/2026
