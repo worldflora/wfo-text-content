@@ -16,8 +16,11 @@ Current Data
 - [Lifeform facet - shrub](out/florauruguaya_V_4_shrub.csv) 
 - [Lifeform facet - tree](out/florauruguaya_V_4_subshrub.csv) 
 - [Lifeform facet - subshrub](out/florauruguaya_V_4_tree.csv) 
+- [Lifeform facet - aquatic](out/florauruguaya_V_4_aquatics.csv) 
+- [Lifeform facet - epiphyte](out/florauruguaya_V_4_epiphyte.csv) 
+- [Lifeform facet - geophyte](out/florauruguaya_V_4_geophytes.csv)
 
-- [ISO Country facet](out/florauruguaya_V_4.csv)
+- [ISO Country facet](data/Flora_Uruguaya/out/florauruguaya_V_4_checklist.csv)
 
 - [LifeForm facet - Annual or Biennial Herb - not used](out/florauruguaya_V_4_annual_or_biennial_herb.csv)
 
