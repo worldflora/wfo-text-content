@@ -32,8 +32,8 @@ This is where contributed files and their derivatives are stored.
 |Flora Guianas  | xml parsed. still needs alot of work.
 |Flora_Helvetica	| uploaded 10/9/26
 |RBGKEW - FTWA	| uploaded 11/9/26
-|RBGKEW - FTEA	|To do
-|RBGKEW - FZ	|To do
+|RBGKEW - FTEA	| uploaded 18/9/26 - morphology concatenated
+|RBGKEW - FZ	| uploaded 18/9/26 - morphology concatenated
 |Mobot - Central American Mosses	| uploaded 11/9/26
 |Mobot - Fo Nicaragua	| uploaded 11/9/26
 |Mobot - Fo Mesoamaerica	| uploaded 14/9/26
