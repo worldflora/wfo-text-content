@@ -18,10 +18,10 @@ Current Data
 - [Lifeform facet - subshrub](out/florauruguaya_V_4_tree.csv) 
 - [Lifeform facet - aquatic](out/florauruguaya_V_4_aquatics.csv) 
 - [Lifeform facet - epiphyte](out/florauruguaya_V_4_epiphyte.csv) 
-- [Lifeform facet - geophyte](out/florauruguaya_V_4_geophytes.csv)
+
 
 - [ISO Country facet](data/Flora_Uruguaya/out/florauruguaya_V_4_checklist.csv)
 
 - [LifeForm facet - Annual or Biennial Herb - not used](out/florauruguaya_V_4_annual_or_biennial_herb.csv)
-
+- [Lifeform facet - geophyte - not used](out/florauruguaya_V_4_geophytes.csv)
 #linked to fyllo 22/9/2026
