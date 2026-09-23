@@ -5,12 +5,14 @@ This is where contributed files and their derivatives are stored.
 |Source| Uploaded|Notes|
 |------|-|-|
 |Flora of Australia	|uploaded 01/09/2026|
-|APNI vernacular names NEW 57.5k added, 6.7k need name match work.	| uploaded 01/09/26
+|APNI vernacular names | uploaded 01/09/26 |NEW 57.5k added, 6.7k need name match work.	|
 |Brazilian Flora 2020	| uploaded 2/9/26
 |Colombia	| uploaded  2/9/26
 |Dendroflora_Hungary	| uploaded  1/9/26
-|RBGE -Rhododendron monograph	| uploaded 01/9/26
-|RBGE -Begonia content *2024	| uploaded 01/09/26
+|RBGE Rhododendron monograph	| uploaded 01/9/26
+|RBGE Begonia content *2024	| uploaded 01/09/26
+|RBGE Argent 2nd Ed Vireya monograph	| uploaded 01/9/26 | additional ca/ 1000 descriptive elements
+|RBGE EJB Ericaceae	| uploaded 01/09/26 | additional ca. 200 descriptive elements
 |eFloraOfThailand	| Test group. Done
 |Flora of China 	| uploaded 8/9/26
 |Flora of North America	| uploaded 2/9/26
@@ -19,7 +21,7 @@ This is where contributed files and their derivatives are stored.
 |Flore du Gabon	| uploaded 10/9/26
 |GTA	|Uploaded 8/9/26
 |IrishNames	|Uploaded 01/09/26
-|IUCN 	|Test Group. 20k more assessment than portal
+|IUCN 	|Test Group. |20k more assessments than portal
 |Leon Levy	|Uploaded 31/8/26
 |Catalogue of Plants of Madagascar - endemic list	| uploaded 11/09/2026
 |Plants of Nepal	| Test group. Done
@@ -44,6 +46,6 @@ This is where contributed files and their derivatives are stored.
 |Mobot - Novon content	|uploaded 15/9/26
 |South_Africa	|Partially worked, to finish
 |Webbs Irish Flora NEW  |Uploaded 11/9/26. Partially 78 Families uploaded. 26 to do. | 480 vernacular (124 GA, 359 EN ),  83 distribution, 15 diagnosis, 690 ecology, 134 general, 686 morphology, 631 reproductive – so far |
-|Flora Uruguaya | New uploaded what we have see readme| uploaded 22/9/26
+|Flora Uruguaya | New uploaded what we have see readme| uploaded 22/9/26 |Habit Habitat for 3800 names + lifeform facet and country checklist data|
 
 
