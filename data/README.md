@@ -23,12 +23,12 @@ This is where contributed files and their derivatives are stored.
 |IrishNames	|Uploaded 01/09/26
 |IUCN 	|Test Group. |20k more assessments than portal
 |Leon Levy	|Uploaded 31/8/26
-|Catalogue of Plants of Madagascar - endemic list	| uploaded 11/09/2026
+|Catalogue of Plants of Madagascar - endemic list	| uploaded 11/09/2026 | facet country data
 |Plants of Nepal	| Test group. Done
 |NYBG - Northeastern Flora of US and Canada	| uploaded 11/9/26
 |NYBG - Memoirs of NYBG	| uploaded 11/9/26
-|NYBG - FloraNeotropica	| uploaded 10/9/26
-|NYBG - Brittonia	| uploaded 10/9/26
+|NYBG - FloraNeotropica	| uploaded 10/9/26 | used Jstor to get stable urls
+|NYBG - Brittonia	| uploaded 10/9/26 | used crossref to link to doi
 |Solanaceae 	| uploaded 10/9/26
 |Flora Malesiana	| unworked This contains xml files never worked and Flora Guianas xml too
 |Flora Guianas  | xml parsed. still needs alot of work.
