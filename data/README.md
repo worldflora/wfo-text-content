@@ -11,8 +11,8 @@ This is where contributed files and their derivatives are stored.
 |Dendroflora_Hungary	| uploaded  1/9/26
 |RBGE Rhododendron monograph	| uploaded 01/9/26
 |RBGE Begonia content *2024	| uploaded 01/09/26
-|RBGE Argent 2nd Ed Vireya monograph	| uploaded 01/9/26 | additional ca/ 1000 descriptive elements
-|RBGE EJB Ericaceae	| uploaded 01/09/26 | additional ca. 200 descriptive elements
+|RBGE Argent 2nd Ed Vireya monograph	| uploaded 23/9/26 | additional ca/ 1000 descriptive elements
+|RBGE EJB Ericaceae	| uploaded 23/09/26 | additional ca. 200 descriptive elements
 |eFloraOfThailand	| Test group. Done
 |Flora of China 	| uploaded 8/9/26
 |Flora of North America	| uploaded 2/9/26
@@ -34,8 +34,8 @@ This is where contributed files and their derivatives are stored.
 |Flora Guianas  | xml parsed. still needs alot of work.
 |Flora_Helvetica	| uploaded 10/9/26
 |RBGKEW - FTWA	| uploaded 11/9/26
-|RBGKEW - FTEA	| uploaded 18/9/26 - morphology concatenated
-|RBGKEW - FZ	| uploaded 18/9/26 - morphology concatenated
+|RBGKEW - FTEA	| uploaded 18/9/26 | morphology concatenated as highly atomised.
+|RBGKEW - FZ	| uploaded 18/9/26 | morphology concatenated
 |Mobot - Central American Mosses	| uploaded 11/9/26
 |Mobot - Fo Nicaragua	| uploaded 11/9/26
 |Mobot - Fo Mesoamaerica	| uploaded 14/9/26
